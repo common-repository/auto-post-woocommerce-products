@@ -1,0 +1,482 @@
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 26, 2018, 9:32:58 PM */
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 31, 2018, 6:02:14 PM */
+/* for the links at the bottom */
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 19, 2018, 4:44:29 PM */
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 31, 2018, 6:02:14 PM */
+/* for the links at the bottom */
+/* General plugin colors */
+/* Theme colors */
+.star- { color: #3498db; }
+
+.star-ocean { color: #9ebaa0; }
+
+.star-sunrise { color: #dd823b; }
+
+.star-midnight { color: #e14d43; }
+
+.star-ectoplasm { color: #a3b745; }
+
+.star-blue22 { color: #74b6ce; }
+
+.star-light { color: #04a4cc; }
+
+.star-fresh { color: #00a0d2; }
+
+.star-coffee { color: #9ea476; }
+
+/* theme colors for spinners */
+.spinr { color: #52accc; }
+
+.spinr-ocean { color: #738e96; }
+
+.spinr-fresh { color: #0073aa; }
+
+.spinr-light { color: #04a4cc; }
+
+.spinr-blue22 { color: #52accc; }
+
+.spinr-coffee { color: #59524c; }
+
+.spinr-ectoplasm { color: #523f6d; }
+
+.spinr-midnight { color: #e14d43; }
+
+.spinr-sunrise { color: #dd823b; }
+
+.help- { color: #333; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-:hover { color: dimgrey; }
+
+.help-coffee { color: #46403c; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-coffee:hover { color: #9ea476; }
+
+.help-fresh { color: #222; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-fresh:hover { color: #00a0d2; }
+
+.help-light { color: #999; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-light:hover { color: #04a4cc; }
+
+.help-blue22 { color: #096484; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-blue22:hover { color: #74b6ce; }
+
+.help-ectoplasm { color: #413256; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-ectoplasm:hover { color: #d46f15; }
+
+.help-midnight { color: #25282b; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-midnight:hover { color: #e14d43; }
+
+.help-ocean { color: #627c83; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-ocean:hover { color: #aa9d88; }
+
+.help-sunrise { color: #b43c38; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-sunrise:hover { color: #ccaf0b; }
+
+.blue b { color: blue; }
+
+.red { color: firebrick; }
+
+.red b { color: firebrick; }
+
+.green { color: green; }
+
+.black { color: #000; }
+
+.black b { font-weight: 700; color: black; }
+
+.white { color: #fff; }
+
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Aug 2, 2018, 9:48:08 PM */
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 19, 2018, 4:44:29 PM */
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 31, 2018, 6:02:14 PM */
+/* for the links at the bottom */
+/* General plugin colors */
+/* Theme colors */
+.star- { color: #3498db; }
+
+.star-ocean { color: #9ebaa0; }
+
+.star-sunrise { color: #dd823b; }
+
+.star-midnight { color: #e14d43; }
+
+.star-ectoplasm { color: #a3b745; }
+
+.star-blue22 { color: #74b6ce; }
+
+.star-light { color: #04a4cc; }
+
+.star-fresh { color: #00a0d2; }
+
+.star-coffee { color: #9ea476; }
+
+/* theme colors for spinners */
+.spinr { color: #52accc; }
+
+.spinr-ocean { color: #738e96; }
+
+.spinr-fresh { color: #0073aa; }
+
+.spinr-light { color: #04a4cc; }
+
+.spinr-blue22 { color: #52accc; }
+
+.spinr-coffee { color: #59524c; }
+
+.spinr-ectoplasm { color: #523f6d; }
+
+.spinr-midnight { color: #e14d43; }
+
+.spinr-sunrise { color: #dd823b; }
+
+.help- { color: #333; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-:hover { color: dimgrey; }
+
+.help-coffee { color: #46403c; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-coffee:hover { color: #9ea476; }
+
+.help-fresh { color: #222; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-fresh:hover { color: #00a0d2; }
+
+.help-light { color: #999; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-light:hover { color: #04a4cc; }
+
+.help-blue22 { color: #096484; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-blue22:hover { color: #74b6ce; }
+
+.help-ectoplasm { color: #413256; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-ectoplasm:hover { color: #d46f15; }
+
+.help-midnight { color: #25282b; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-midnight:hover { color: #e14d43; }
+
+.help-ocean { color: #627c83; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-ocean:hover { color: #aa9d88; }
+
+.help-sunrise { color: #b43c38; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-sunrise:hover { color: #ccaf0b; }
+
+.blue b { color: blue; }
+
+.red { color: firebrick; }
+
+.red b { color: firebrick; }
+
+.green { color: green; }
+
+.black { color: #000; }
+
+.black b { font-weight: 700; color: black; }
+
+.white { color: #fff; }
+
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 31, 2018, 6:02:14 PM */
+/* for the links at the bottom */
+/* ON/OFF Toggle Switch - the box around the slider */
+/* The slider */
+/* Customize the label (the container) */
+.container, .container-fresh, .container-light, .container-blue22, .container-coffee, .container-ectoplasm, .container-midnight, .container-ocean, .container-sunrise { display: block; position: relative; padding-left: 30px; margin-bottom: 5px; margin-top: 5px; cursor: pointer; font-size: 1em; font-weight: 600; color: #111; padding-top: 2px; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; }
+
+/* Hide the browser's default checkbox */
+.container input, .container-fresh input, .container-light input, .container-blue22 input, .container-coffee input, .container-ectoplasm input, .container-midnight input, .container-ocean input, .container-sunrise input { position: absolute; opacity: 0; cursor: pointer; }
+
+/* Create a custom checkbox */
+.checkmark, .checkmark-fresh, .checkmark-light, .checkmark-blue22, .checkmark-coffee, .checkmark-ectoplasm, .checkmark-midnight, .checkmark-ocean, .checkmark-sunrise { position: absolute; top: 0; left: 0; height: 20px; width: 20px; background-color: #eee; border: 1px solid #999; transition: 0.3s ease-in; }
+
+/* On mouse-over, add a grey background color */
+.container:hover input ~ .checkmark, .container-fresh:hover input ~ .checkmark, .container-light:hover input ~ .checkmark, .container-blue22:hover input ~ .checkmark, .container-coffee:hover input ~ .checkmark, .container-ectoplasm:hover input ~ .checkmark, .container-midnight:hover input ~ .checkmark, .container-ocean:hover input ~ .checkmark, .container-sunrise:hover input ~ .checkmark, .container:hover input ~ .checkmark-fresh, .container-fresh:hover input ~ .checkmark-fresh, .container-light:hover input ~ .checkmark-fresh, .container-blue22:hover input ~ .checkmark-fresh, .container-coffee:hover input ~ .checkmark-fresh, .container-ectoplasm:hover input ~ .checkmark-fresh, .container-midnight:hover input ~ .checkmark-fresh, .container-ocean:hover input ~ .checkmark-fresh, .container-sunrise:hover input ~ .checkmark-fresh, .container:hover input ~ .checkmark-light, .container-fresh:hover input ~ .checkmark-light, .container-light:hover input ~ .checkmark-light, .container-blue22:hover input ~ .checkmark-light, .container-coffee:hover input ~ .checkmark-light, .container-ectoplasm:hover input ~ .checkmark-light, .container-midnight:hover input ~ .checkmark-light, .container-ocean:hover input ~ .checkmark-light, .container-sunrise:hover input ~ .checkmark-light, .container:hover input ~ .checkmark-blue22, .container-fresh:hover input ~ .checkmark-blue22, .container-light:hover input ~ .checkmark-blue22, .container-blue22:hover input ~ .checkmark-blue22, .container-coffee:hover input ~ .checkmark-blue22, .container-ectoplasm:hover input ~ .checkmark-blue22, .container-midnight:hover input ~ .checkmark-blue22, .container-ocean:hover input ~ .checkmark-blue22, .container-sunrise:hover input ~ .checkmark-blue22, .container:hover input ~ .checkmark-coffee, .container-fresh:hover input ~ .checkmark-coffee, .container-light:hover input ~ .checkmark-coffee, .container-blue22:hover input ~ .checkmark-coffee, .container-coffee:hover input ~ .checkmark-coffee, .container-ectoplasm:hover input ~ .checkmark-coffee, .container-midnight:hover input ~ .checkmark-coffee, .container-ocean:hover input ~ .checkmark-coffee, .container-sunrise:hover input ~ .checkmark-coffee, .container:hover input ~ .checkmark-ectoplasm, .container-fresh:hover input ~ .checkmark-ectoplasm, .container-light:hover input ~ .checkmark-ectoplasm, .container-blue22:hover input ~ .checkmark-ectoplasm, .container-coffee:hover input ~ .checkmark-ectoplasm, .container-ectoplasm:hover input ~ .checkmark-ectoplasm, .container-midnight:hover input ~ .checkmark-ectoplasm, .container-ocean:hover input ~ .checkmark-ectoplasm, .container-sunrise:hover input ~ .checkmark-ectoplasm, .container:hover input ~ .checkmark-midnight, .container-fresh:hover input ~ .checkmark-midnight, .container-light:hover input ~ .checkmark-midnight, .container-blue22:hover input ~ .checkmark-midnight, .container-coffee:hover input ~ .checkmark-midnight, .container-ectoplasm:hover input ~ .checkmark-midnight, .container-midnight:hover input ~ .checkmark-midnight, .container-ocean:hover input ~ .checkmark-midnight, .container-sunrise:hover input ~ .checkmark-midnight, .container:hover input ~ .checkmark-ocean, .container-fresh:hover input ~ .checkmark-ocean, .container-light:hover input ~ .checkmark-ocean, .container-blue22:hover input ~ .checkmark-ocean, .container-coffee:hover input ~ .checkmark-ocean, .container-ectoplasm:hover input ~ .checkmark-ocean, .container-midnight:hover input ~ .checkmark-ocean, .container-ocean:hover input ~ .checkmark-ocean, .container-sunrise:hover input ~ .checkmark-ocean, .container:hover input ~ .checkmark-sunrise, .container-fresh:hover input ~ .checkmark-sunrise, .container-light:hover input ~ .checkmark-sunrise, .container-blue22:hover input ~ .checkmark-sunrise, .container-coffee:hover input ~ .checkmark-sunrise, .container-ectoplasm:hover input ~ .checkmark-sunrise, .container-midnight:hover input ~ .checkmark-sunrise, .container-ocean:hover input ~ .checkmark-sunrise, .container-sunrise:hover input ~ .checkmark-sunrise { background-color: #ccc; border: 1px solid #999; }
+
+/* When the checkbox is checked, add a background */
+.container input:checked ~ .checkmark, .container-fresh input:checked ~ .checkmark, .container-light input:checked ~ .checkmark, .container-blue22 input:checked ~ .checkmark, .container-coffee input:checked ~ .checkmark, .container-ectoplasm input:checked ~ .checkmark, .container-midnight input:checked ~ .checkmark, .container-ocean input:checked ~ .checkmark, .container-sunrise input:checked ~ .checkmark, .container input:checked ~ .checkmark-fresh, .container-fresh input:checked ~ .checkmark-fresh, .container-light input:checked ~ .checkmark-fresh, .container-blue22 input:checked ~ .checkmark-fresh, .container-coffee input:checked ~ .checkmark-fresh, .container-ectoplasm input:checked ~ .checkmark-fresh, .container-midnight input:checked ~ .checkmark-fresh, .container-ocean input:checked ~ .checkmark-fresh, .container-sunrise input:checked ~ .checkmark-fresh, .container input:checked ~ .checkmark-light, .container-fresh input:checked ~ .checkmark-light, .container-light input:checked ~ .checkmark-light, .container-blue22 input:checked ~ .checkmark-light, .container-coffee input:checked ~ .checkmark-light, .container-ectoplasm input:checked ~ .checkmark-light, .container-midnight input:checked ~ .checkmark-light, .container-ocean input:checked ~ .checkmark-light, .container-sunrise input:checked ~ .checkmark-light, .container input:checked ~ .checkmark-blue22, .container-fresh input:checked ~ .checkmark-blue22, .container-light input:checked ~ .checkmark-blue22, .container-blue22 input:checked ~ .checkmark-blue22, .container-coffee input:checked ~ .checkmark-blue22, .container-ectoplasm input:checked ~ .checkmark-blue22, .container-midnight input:checked ~ .checkmark-blue22, .container-ocean input:checked ~ .checkmark-blue22, .container-sunrise input:checked ~ .checkmark-blue22, .container input:checked ~ .checkmark-coffee, .container-fresh input:checked ~ .checkmark-coffee, .container-light input:checked ~ .checkmark-coffee, .container-blue22 input:checked ~ .checkmark-coffee, .container-coffee input:checked ~ .checkmark-coffee, .container-ectoplasm input:checked ~ .checkmark-coffee, .container-midnight input:checked ~ .checkmark-coffee, .container-ocean input:checked ~ .checkmark-coffee, .container-sunrise input:checked ~ .checkmark-coffee, .container input:checked ~ .checkmark-ectoplasm, .container-fresh input:checked ~ .checkmark-ectoplasm, .container-light input:checked ~ .checkmark-ectoplasm, .container-blue22 input:checked ~ .checkmark-ectoplasm, .container-coffee input:checked ~ .checkmark-ectoplasm, .container-ectoplasm input:checked ~ .checkmark-ectoplasm, .container-midnight input:checked ~ .checkmark-ectoplasm, .container-ocean input:checked ~ .checkmark-ectoplasm, .container-sunrise input:checked ~ .checkmark-ectoplasm, .container input:checked ~ .checkmark-midnight, .container-fresh input:checked ~ .checkmark-midnight, .container-light input:checked ~ .checkmark-midnight, .container-blue22 input:checked ~ .checkmark-midnight, .container-coffee input:checked ~ .checkmark-midnight, .container-ectoplasm input:checked ~ .checkmark-midnight, .container-midnight input:checked ~ .checkmark-midnight, .container-ocean input:checked ~ .checkmark-midnight, .container-sunrise input:checked ~ .checkmark-midnight, .container input:checked ~ .checkmark-ocean, .container-fresh input:checked ~ .checkmark-ocean, .container-light input:checked ~ .checkmark-ocean, .container-blue22 input:checked ~ .checkmark-ocean, .container-coffee input:checked ~ .checkmark-ocean, .container-ectoplasm input:checked ~ .checkmark-ocean, .container-midnight input:checked ~ .checkmark-ocean, .container-ocean input:checked ~ .checkmark-ocean, .container-sunrise input:checked ~ .checkmark-ocean, .container input:checked ~ .checkmark-sunrise, .container-fresh input:checked ~ .checkmark-sunrise, .container-light input:checked ~ .checkmark-sunrise, .container-blue22 input:checked ~ .checkmark-sunrise, .container-coffee input:checked ~ .checkmark-sunrise, .container-ectoplasm input:checked ~ .checkmark-sunrise, .container-midnight input:checked ~ .checkmark-sunrise, .container-ocean input:checked ~ .checkmark-sunrise, .container-sunrise input:checked ~ .checkmark-sunrise { background-color: #2196f3; transition: 0.3s ease-in; }
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after, .checkmark-fresh:after, .checkmark-light:after, .checkmark-blue22:after, .checkmark-coffee:after, .checkmark-ectoplasm:after, .checkmark-midnight:after, .checkmark-ocean:after, .checkmark-sunrise:after { content: ""; position: absolute; display: none; transition: 0.3s ease-in; }
+
+/* Show the checkmark when checked */
+.container input:checked ~ .checkmark:after, .container-fresh input:checked ~ .checkmark:after, .container-light input:checked ~ .checkmark:after, .container-blue22 input:checked ~ .checkmark:after, .container-coffee input:checked ~ .checkmark:after, .container-ectoplasm input:checked ~ .checkmark:after, .container-midnight input:checked ~ .checkmark:after, .container-ocean input:checked ~ .checkmark:after, .container-sunrise input:checked ~ .checkmark:after, .container input:checked ~ .checkmark-fresh:after, .container-fresh input:checked ~ .checkmark-fresh:after, .container-light input:checked ~ .checkmark-fresh:after, .container-blue22 input:checked ~ .checkmark-fresh:after, .container-coffee input:checked ~ .checkmark-fresh:after, .container-ectoplasm input:checked ~ .checkmark-fresh:after, .container-midnight input:checked ~ .checkmark-fresh:after, .container-ocean input:checked ~ .checkmark-fresh:after, .container-sunrise input:checked ~ .checkmark-fresh:after, .container input:checked ~ .checkmark-light:after, .container-fresh input:checked ~ .checkmark-light:after, .container-light input:checked ~ .checkmark-light:after, .container-blue22 input:checked ~ .checkmark-light:after, .container-coffee input:checked ~ .checkmark-light:after, .container-ectoplasm input:checked ~ .checkmark-light:after, .container-midnight input:checked ~ .checkmark-light:after, .container-ocean input:checked ~ .checkmark-light:after, .container-sunrise input:checked ~ .checkmark-light:after, .container input:checked ~ .checkmark-blue22:after, .container-fresh input:checked ~ .checkmark-blue22:after, .container-light input:checked ~ .checkmark-blue22:after, .container-blue22 input:checked ~ .checkmark-blue22:after, .container-coffee input:checked ~ .checkmark-blue22:after, .container-ectoplasm input:checked ~ .checkmark-blue22:after, .container-midnight input:checked ~ .checkmark-blue22:after, .container-ocean input:checked ~ .checkmark-blue22:after, .container-sunrise input:checked ~ .checkmark-blue22:after, .container input:checked ~ .checkmark-coffee:after, .container-fresh input:checked ~ .checkmark-coffee:after, .container-light input:checked ~ .checkmark-coffee:after, .container-blue22 input:checked ~ .checkmark-coffee:after, .container-coffee input:checked ~ .checkmark-coffee:after, .container-ectoplasm input:checked ~ .checkmark-coffee:after, .container-midnight input:checked ~ .checkmark-coffee:after, .container-ocean input:checked ~ .checkmark-coffee:after, .container-sunrise input:checked ~ .checkmark-coffee:after, .container input:checked ~ .checkmark-ectoplasm:after, .container-fresh input:checked ~ .checkmark-ectoplasm:after, .container-light input:checked ~ .checkmark-ectoplasm:after, .container-blue22 input:checked ~ .checkmark-ectoplasm:after, .container-coffee input:checked ~ .checkmark-ectoplasm:after, .container-ectoplasm input:checked ~ .checkmark-ectoplasm:after, .container-midnight input:checked ~ .checkmark-ectoplasm:after, .container-ocean input:checked ~ .checkmark-ectoplasm:after, .container-sunrise input:checked ~ .checkmark-ectoplasm:after, .container input:checked ~ .checkmark-midnight:after, .container-fresh input:checked ~ .checkmark-midnight:after, .container-light input:checked ~ .checkmark-midnight:after, .container-blue22 input:checked ~ .checkmark-midnight:after, .container-coffee input:checked ~ .checkmark-midnight:after, .container-ectoplasm input:checked ~ .checkmark-midnight:after, .container-midnight input:checked ~ .checkmark-midnight:after, .container-ocean input:checked ~ .checkmark-midnight:after, .container-sunrise input:checked ~ .checkmark-midnight:after, .container input:checked ~ .checkmark-ocean:after, .container-fresh input:checked ~ .checkmark-ocean:after, .container-light input:checked ~ .checkmark-ocean:after, .container-blue22 input:checked ~ .checkmark-ocean:after, .container-coffee input:checked ~ .checkmark-ocean:after, .container-ectoplasm input:checked ~ .checkmark-ocean:after, .container-midnight input:checked ~ .checkmark-ocean:after, .container-ocean input:checked ~ .checkmark-ocean:after, .container-sunrise input:checked ~ .checkmark-ocean:after, .container input:checked ~ .checkmark-sunrise:after, .container-fresh input:checked ~ .checkmark-sunrise:after, .container-light input:checked ~ .checkmark-sunrise:after, .container-blue22 input:checked ~ .checkmark-sunrise:after, .container-coffee input:checked ~ .checkmark-sunrise:after, .container-ectoplasm input:checked ~ .checkmark-sunrise:after, .container-midnight input:checked ~ .checkmark-sunrise:after, .container-ocean input:checked ~ .checkmark-sunrise:after, .container-sunrise input:checked ~ .checkmark-sunrise:after { display: block; }
+
+/* Style the checkmark/indicator */
+.container .checkmark:after, .container-fresh .checkmark:after, .container-light .checkmark:after, .container-blue22 .checkmark:after, .container-coffee .checkmark:after, .container-ectoplasm .checkmark:after, .container-midnight .checkmark:after, .container-ocean .checkmark:after, .container-sunrise .checkmark:after, .container .checkmark-fresh:after, .container-fresh .checkmark-fresh:after, .container-light .checkmark-fresh:after, .container-blue22 .checkmark-fresh:after, .container-coffee .checkmark-fresh:after, .container-ectoplasm .checkmark-fresh:after, .container-midnight .checkmark-fresh:after, .container-ocean .checkmark-fresh:after, .container-sunrise .checkmark-fresh:after, .container .checkmark-light:after, .container-fresh .checkmark-light:after, .container-light .checkmark-light:after, .container-blue22 .checkmark-light:after, .container-coffee .checkmark-light:after, .container-ectoplasm .checkmark-light:after, .container-midnight .checkmark-light:after, .container-ocean .checkmark-light:after, .container-sunrise .checkmark-light:after, .container .checkmark-blue22:after, .container-fresh .checkmark-blue22:after, .container-light .checkmark-blue22:after, .container-blue22 .checkmark-blue22:after, .container-coffee .checkmark-blue22:after, .container-ectoplasm .checkmark-blue22:after, .container-midnight .checkmark-blue22:after, .container-ocean .checkmark-blue22:after, .container-sunrise .checkmark-blue22:after, .container .checkmark-coffee:after, .container-fresh .checkmark-coffee:after, .container-light .checkmark-coffee:after, .container-blue22 .checkmark-coffee:after, .container-coffee .checkmark-coffee:after, .container-ectoplasm .checkmark-coffee:after, .container-midnight .checkmark-coffee:after, .container-ocean .checkmark-coffee:after, .container-sunrise .checkmark-coffee:after, .container .checkmark-ectoplasm:after, .container-fresh .checkmark-ectoplasm:after, .container-light .checkmark-ectoplasm:after, .container-blue22 .checkmark-ectoplasm:after, .container-coffee .checkmark-ectoplasm:after, .container-ectoplasm .checkmark-ectoplasm:after, .container-midnight .checkmark-ectoplasm:after, .container-ocean .checkmark-ectoplasm:after, .container-sunrise .checkmark-ectoplasm:after, .container .checkmark-midnight:after, .container-fresh .checkmark-midnight:after, .container-light .checkmark-midnight:after, .container-blue22 .checkmark-midnight:after, .container-coffee .checkmark-midnight:after, .container-ectoplasm .checkmark-midnight:after, .container-midnight .checkmark-midnight:after, .container-ocean .checkmark-midnight:after, .container-sunrise .checkmark-midnight:after, .container .checkmark-ocean:after, .container-fresh .checkmark-ocean:after, .container-light .checkmark-ocean:after, .container-blue22 .checkmark-ocean:after, .container-coffee .checkmark-ocean:after, .container-ectoplasm .checkmark-ocean:after, .container-midnight .checkmark-ocean:after, .container-ocean .checkmark-ocean:after, .container-sunrise .checkmark-ocean:after, .container .checkmark-sunrise:after, .container-fresh .checkmark-sunrise:after, .container-light .checkmark-sunrise:after, .container-blue22 .checkmark-sunrise:after, .container-coffee .checkmark-sunrise:after, .container-ectoplasm .checkmark-sunrise:after, .container-midnight .checkmark-sunrise:after, .container-ocean .checkmark-sunrise:after, .container-sunrise .checkmark-sunrise:after { left: 7px; top: 2px; width: 5px; height: 10px; border: solid white; border-width: 0 3px 3px 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+
+.container:hover .checkmark:after, .container-fresh:hover .checkmark:after, .container-light:hover .checkmark:after, .container-blue22:hover .checkmark:after, .container-coffee:hover .checkmark:after, .container-ectoplasm:hover .checkmark:after, .container-midnight:hover .checkmark:after, .container-ocean:hover .checkmark:after, .container-sunrise:hover .checkmark:after, .container:hover .checkmark-fresh:after, .container-fresh:hover .checkmark-fresh:after, .container-light:hover .checkmark-fresh:after, .container-blue22:hover .checkmark-fresh:after, .container-coffee:hover .checkmark-fresh:after, .container-ectoplasm:hover .checkmark-fresh:after, .container-midnight:hover .checkmark-fresh:after, .container-ocean:hover .checkmark-fresh:after, .container-sunrise:hover .checkmark-fresh:after, .container:hover .checkmark-light:after, .container-fresh:hover .checkmark-light:after, .container-light:hover .checkmark-light:after, .container-blue22:hover .checkmark-light:after, .container-coffee:hover .checkmark-light:after, .container-ectoplasm:hover .checkmark-light:after, .container-midnight:hover .checkmark-light:after, .container-ocean:hover .checkmark-light:after, .container-sunrise:hover .checkmark-light:after, .container:hover .checkmark-blue22:after, .container-fresh:hover .checkmark-blue22:after, .container-light:hover .checkmark-blue22:after, .container-blue22:hover .checkmark-blue22:after, .container-coffee:hover .checkmark-blue22:after, .container-ectoplasm:hover .checkmark-blue22:after, .container-midnight:hover .checkmark-blue22:after, .container-ocean:hover .checkmark-blue22:after, .container-sunrise:hover .checkmark-blue22:after, .container:hover .checkmark-coffee:after, .container-fresh:hover .checkmark-coffee:after, .container-light:hover .checkmark-coffee:after, .container-blue22:hover .checkmark-coffee:after, .container-coffee:hover .checkmark-coffee:after, .container-ectoplasm:hover .checkmark-coffee:after, .container-midnight:hover .checkmark-coffee:after, .container-ocean:hover .checkmark-coffee:after, .container-sunrise:hover .checkmark-coffee:after, .container:hover .checkmark-ectoplasm:after, .container-fresh:hover .checkmark-ectoplasm:after, .container-light:hover .checkmark-ectoplasm:after, .container-blue22:hover .checkmark-ectoplasm:after, .container-coffee:hover .checkmark-ectoplasm:after, .container-ectoplasm:hover .checkmark-ectoplasm:after, .container-midnight:hover .checkmark-ectoplasm:after, .container-ocean:hover .checkmark-ectoplasm:after, .container-sunrise:hover .checkmark-ectoplasm:after, .container:hover .checkmark-midnight:after, .container-fresh:hover .checkmark-midnight:after, .container-light:hover .checkmark-midnight:after, .container-blue22:hover .checkmark-midnight:after, .container-coffee:hover .checkmark-midnight:after, .container-ectoplasm:hover .checkmark-midnight:after, .container-midnight:hover .checkmark-midnight:after, .container-ocean:hover .checkmark-midnight:after, .container-sunrise:hover .checkmark-midnight:after, .container:hover .checkmark-ocean:after, .container-fresh:hover .checkmark-ocean:after, .container-light:hover .checkmark-ocean:after, .container-blue22:hover .checkmark-ocean:after, .container-coffee:hover .checkmark-ocean:after, .container-ectoplasm:hover .checkmark-ocean:after, .container-midnight:hover .checkmark-ocean:after, .container-ocean:hover .checkmark-ocean:after, .container-sunrise:hover .checkmark-ocean:after, .container:hover .checkmark-sunrise:after, .container-fresh:hover .checkmark-sunrise:after, .container-light:hover .checkmark-sunrise:after, .container-blue22:hover .checkmark-sunrise:after, .container-coffee:hover .checkmark-sunrise:after, .container-ectoplasm:hover .checkmark-sunrise:after, .container-midnight:hover .checkmark-sunrise:after, .container-ocean:hover .checkmark-sunrise:after, .container-sunrise:hover .checkmark-sunrise:after { border: solid #ccc; left: 7px; top: 2px; width: 5px; height: 10px; border-width: 0 3px 3px 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+
+.container-fresh input { position: absolute; opacity: 0; cursor: pointer; }
+
+.container-fresh:hover input ~ .checkmark-fresh { background-color: #52accc; border: 1px solid #999; }
+
+.container-fresh input:checked ~ .checkmark-fresh { background-color: #0073aa; }
+
+.container-fresh input:checked ~ .checkmark-fresh:after { display: block; }
+
+.container-fresh .checkmark-fresh:after { border: solid white; left: 7px; top: 2px; width: 5px; height: 10px; border-width: 0 3px 3px 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+
+.container-fresh:hover .checkmark-fresh:after { border: solid #52accc; left: 7px; top: 2px; width: 5px; height: 10px; border-width: 0 3px 3px 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+
+.container-light input { position: absolute; opacity: 0; cursor: pointer; }
+
+.container-light:hover input ~ .checkmark-light { background-color: #04a4cc; border: 1px solid #999; }
+
+.container-light input:checked ~ .checkmark-light { background-color: #555; }
+
+.container-light input:checked ~ .checkmark-light:after { display: block; }
+
+.container-light .checkmark-light:after { border: solid white; left: 7px; top: 2px; width: 5px; height: 10px; border-width: 0 3px 3px 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+
+.container-light:hover .checkmark-light:after { border: solid #04a4cc; left: 7px; top: 2px; width: 5px; height: 10px; border-width: 0 3px 3px 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+
+.container-blue22 input { position: absolute; opacity: 0; cursor: pointer; }
+
+.container-blue22:hover input ~ .checkmark-blue22 { background-color: #52accc; border: 1px solid #999; }
+
+.container-blue22 input:checked ~ .checkmark-blue22 { background-color: #096484; }
+
+.container-blue22 input:checked ~ .checkmark-blue22:after { display: block; }
+
+.container-blue22 .checkmark-blue22:after { border: solid white; left: 7px; top: 2px; width: 5px; height: 10px; border-width: 0 3px 3px 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+
+.container-blue22:hover .checkmark-blue22:after { border: solid #52accc; left: 7px; top: 2px; width: 5px; height: 10px; border-width: 0 3px 3px 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+
+.container-coffee input { position: absolute; opacity: 0; cursor: pointer; }
+
+.container-coffee:hover input ~ .checkmark-coffee { background-color: #9ea476; border: 1px solid #999; }
+
+.container-coffee input:checked ~ .checkmark-coffee { background-color: #c7a589; }
+
+.container-coffee input:checked ~ .checkmark-coffee:after { display: block; }
+
+.container-coffee .checkmark-coffee:after { border: solid #46403c; left: 7px; top: 2px; width: 5px; height: 10px; border-width: 0 3px 3px 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+
+.container-coffee:hover .checkmark-coffee:after { border: solid #9ea476; left: 7px; top: 2px; width: 5px; height: 10px; border-width: 0 3px 3px 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+
+.container-ectoplasm input { position: absolute; opacity: 0; cursor: pointer; }
+
+.container-ectoplasm:hover input ~ .checkmark-ectoplasm { background-color: #d46f15; border: 1px solid #999; }
+
+.container-ectoplasm input:checked ~ .checkmark-ectoplasm { background-color: #523f6d; }
+
+.container-ectoplasm input:checked ~ .checkmark-ectoplasm:after { display: block; }
+
+.container-ectoplasm .checkmark-ectoplasm:after { border: solid #cdcbc9; left: 7px; top: 2px; width: 5px; height: 10px; border-width: 0 3px 3px 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+
+.container-ectoplasm:hover .checkmark-ectoplasm:after { border: solid #d46f15; left: 7px; top: 2px; width: 5px; height: 10px; border-width: 0 3px 3px 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+
+.container-midnight input { position: absolute; opacity: 0; cursor: pointer; }
+
+.container-midnight:hover input ~ .checkmark-midnight { background-color: #e14d43; border: 1px solid #999; }
+
+.container-midnight input:checked ~ .checkmark-midnight { background-color: #363b3f; }
+
+.container-midnight input:checked ~ .checkmark-midnight:after { display: block; }
+
+.container-midnight .checkmark-midnight:after { border: solid #e14d43; left: 7px; top: 2px; width: 5px; height: 10px; border-width: 0 3px 3px 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+
+.container-midnight:hover .checkmark-midnight:after { border: solid #cdcbc9; left: 7px; top: 2px; width: 5px; height: 10px; border-width: 0 3px 3px 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+
+.container-ocean input { position: absolute; opacity: 0; cursor: pointer; }
+
+.container-ocean:hover input ~ .checkmark-ocean { background-color: #738e96; border: 1px solid #999; }
+
+.container-ocean input:checked ~ .checkmark-ocean { background-color: #9ebaa0; }
+
+.container-ocean input:checked ~ .checkmark-ocean:after { display: block; }
+
+.container-ocean .checkmark-ocean:after { border: solid #f1f1f1; left: 7px; top: 2px; width: 5px; height: 10px; border-width: 0 3px 3px 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+
+.container-ocean:hover .checkmark-ocean:after { border: solid #738e96; left: 7px; top: 2px; width: 5px; height: 10px; border-width: 0 3px 3px 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+
+.container-sunrise input { position: absolute; opacity: 0; cursor: pointer; }
+
+.container-sunrise:hover input ~ .checkmark-sunrise { background-color: #dd823b; border: 1px solid #999; }
+
+.container-sunrise input:checked ~ .checkmark-sunrise { background-color: #fff; }
+
+.container-sunrise input:checked ~ .checkmark-sunrise:after { display: block; }
+
+.container-sunrise .checkmark-sunrise:after { border: solid #cf4944; left: 7px; top: 2px; width: 5px; height: 10px; border-width: 0 3px 3px 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+
+.container-sunrise:hover .checkmark-sunrise:after { border: solid #dd823b; left: 7px; top: 2px; width: 5px; height: 10px; border-width: 0 3px 3px 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); }
+
+.switch-display-font { font-size: 1em; font-weight: 600; color: #111; margin-left: 10px; display: inline; position: relative; top: 4px; }
+
+/* Default theme */
+.switch { position: relative; display: inline-block; width: 50px; height: 24px; margin-top: 4px; }
+
+/* Hide default HTML checkbox */
+.switch input { display: none; }
+
+.slider { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #ccc; -webkit-transition: 0.1s; transition: 0.1s; }
+
+/* Rounded sliders */
+.round { border-radius: 34px; }
+
+.round:before { border-radius: 50%; }
+
+.slider:before { position: absolute; content: ""; height: 20px; width: 20px; left: 2px; bottom: 2px; -webkit-transition: 0.1s; transition: 0.1s; background: #b3b3b3; }
+
+input:hover + .slider { background-color: #2196f3; }
+
+input:checked + .slider { background-color: #2196f3; }
+
+input:focus + .slider { box-shadow: 0 0 1px #2196f3; }
+
+input:checked + .slider:before { -webkit-transform: translateX(26px); -ms-transform: translateX(26px); transform: translateX(26px); background: #fff; }
+
+/* COFFEE */
+.switch-coffee { position: relative; display: inline-block; width: 50px; height: 24px; margin-top: 4px; }
+
+/* Hide default HTML checkbox */
+.switch-coffee input { display: none; }
+
+.slider-coffee { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #ccc; -webkit-transition: 0.1s; transition: 0.1s; }
+
+.slider-coffee:before { position: absolute; content: ""; height: 20px; width: 20px; left: 2px; bottom: 2px; -webkit-transition: 0.1s; transition: 0.1s; background: #b3b3b3; }
+
+input:hover + .slider-coffee { background-color: #46403c; }
+
+input:checked + .slider-coffee { background-color: #46403c; }
+
+input:focus + .slider-coffee { box-shadow: 0 0 1px #46403c; }
+
+input:checked + .slider-coffee:before { -webkit-transform: translateX(26px); -ms-transform: translateX(26px); transform: translateX(26px); background-color: #c7a589; }
+
+/* FRESH */
+.switch-fresh { position: relative; display: inline-block; width: 50px; height: 24px; margin-top: 4px; }
+
+/* Hide default HTML checkbox */
+.switch-fresh input { display: none; }
+
+.slider-fresh { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #ccc; -webkit-transition: 0.1s; transition: 0.1s; }
+
+.slider-fresh:before { position: absolute; content: ""; height: 20px; width: 20px; left: 2px; bottom: 2px; -webkit-transition: 0.1s; transition: 0.1s; background: #b3b3b3; }
+
+input:hover + .slider-fresh { background-color: #0073aa; }
+
+input:checked + .slider-fresh { background-color: #0073aa; }
+
+input:focus + .slider-fresh { box-shadow: 0 0 1px #0073aa; }
+
+input:checked + .slider-fresh:before { -webkit-transform: translateX(26px); -ms-transform: translateX(26px); transform: translateX(26px); background-color: #fff; }
+
+/* LIGHT */
+.switch-light { position: relative; display: inline-block; width: 50px; height: 24px; margin-top: 4px; }
+
+/* Hide default HTML checkbox */
+.switch-light input { display: none; }
+
+.slider-light { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #ccc; -webkit-transition: 0.1s; transition: 0.1s; }
+
+.slider-light:before { position: absolute; content: ""; height: 20px; width: 20px; left: 2px; bottom: 2px; -webkit-transition: 0.1s; transition: 0.1s; background: #b3b3b3; }
+
+input:hover + .slider-light { background-color: #555; }
+
+input:checked + .slider-light { background-color: #555; }
+
+input:focus + .slider-light { box-shadow: 0 0 1px #555; }
+
+input:checked + .slider-light:before { -webkit-transform: translateX(26px); -ms-transform: translateX(26px); transform: translateX(26px); background-color: #f1f1f1; }
+
+/* BLUE22 */
+.switch-blue22 { position: relative; display: inline-block; width: 50px; height: 24px; margin-top: 4px; }
+
+/* Hide default HTML checkbox */
+.switch-blue22 input { display: none; }
+
+.slider-blue22 { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #ccc; -webkit-transition: 0.1s; transition: 0.1s; }
+
+.slider-blue22:before { position: absolute; content: ""; height: 20px; width: 20px; left: 2px; bottom: 2px; -webkit-transition: 0.1s; transition: 0.1s; background: #b3b3b3; }
+
+input:hover + .slider-blue22 { background-color: #096484; }
+
+input:checked + .slider-blue22 { background-color: #096484; }
+
+input:focus + .slider-blue22 { box-shadow: 0 0 1px #096484; }
+
+input:checked + .slider-blue22:before { -webkit-transform: translateX(26px); -ms-transform: translateX(26px); transform: translateX(26px); background-color: #fff; }
+
+/* ECTOPLASM */
+.switch-ectoplasm { position: relative; display: inline-block; width: 50px; height: 24px; margin-top: 4px; }
+
+/* Hide default HTML checkbox */
+.switch-ectoplasm input { display: none; }
+
+.slider-ectoplasm { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #ccc; -webkit-transition: 0.1s; transition: 0.1s; }
+
+.slider-ectoplasm:before { position: absolute; content: ""; height: 20px; width: 20px; left: 2px; bottom: 2px; -webkit-transition: 0.1s; transition: 0.1s; background: #b3b3b3; }
+
+input:hover + .slider-ectoplasm { background-color: #523f6d; }
+
+input:checked + .slider-ectoplasm { background-color: #523f6d; }
+
+input:focus + .slider-ectoplasm { box-shadow: 0 0 1px #523f6d; }
+
+input:checked + .slider-ectoplasm:before { -webkit-transform: translateX(26px); -ms-transform: translateX(26px); transform: translateX(26px); background-color: #d46f15; }
+
+/* MIDNIGHT */
+.switch-midnight { position: relative; display: inline-block; width: 50px; height: 24px; margin-top: 4px; }
+
+/* Hide default HTML checkbox */
+.switch-midnight input { display: none; }
+
+.slider-midnight { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #ccc; -webkit-transition: 0.1s; transition: 0.1s; }
+
+.slider-midnight:before { position: absolute; content: ""; height: 20px; width: 20px; left: 2px; bottom: 2px; -webkit-transition: 0.1s; transition: 0.1s; background: #b3b3b3; }
+
+input:hover + .slider-midnight { background-color: #363b3f; }
+
+input:checked + .slider-midnight { background-color: #363b3f; }
+
+input:focus + .slider-midnight { box-shadow: 0 0 1px #363b3f; }
+
+input:checked + .slider-midnight:before { -webkit-transform: translateX(26px); -ms-transform: translateX(26px); transform: translateX(26px); background-color: #f1f1f1; }
+
+/* OCEAN */
+.switch-ocean { position: relative; display: inline-block; width: 50px; height: 24px; margin-top: 4px; }
+
+/* Hide default HTML checkbox */
+.switch-ocean input { display: none; }
+
+.slider-ocean { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #ccc; -webkit-transition: 0.1s; transition: 0.1s; }
+
+.slider-ocean:before { position: absolute; content: ""; height: 20px; width: 20px; left: 2px; bottom: 2px; -webkit-transition: 0.1s; transition: 0.1s; background: #b3b3b3; }
+
+input:hover + .slider-ocean { background-color: #9ebaa0; }
+
+input:checked + .slider-ocean { background-color: #9ebaa0; }
+
+input:focus + .slider-ocean { box-shadow: 0 0 1px #9ebaa0; }
+
+input:checked + .slider-ocean:before { -webkit-transform: translateX(26px); -ms-transform: translateX(26px); transform: translateX(26px); background-color: #fff; }
+
+/* SUNRISE */
+.switch-sunrise { position: relative; display: inline-block; width: 50px; height: 24px; margin-top: 4px; }
+
+/* Hide default HTML checkbox */
+.switch-sunrise input { display: none; }
+
+.slider-sunrise { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #ccc; -webkit-transition: 0.1s; transition: 0.1s; }
+
+.slider-sunrise:before { position: absolute; content: ""; height: 20px; width: 20px; left: 2px; bottom: 2px; -webkit-transition: 0.1s; transition: 0.1s; background: #b3b3b3; }
+
+input:hover + .slider-sunrise { background-color: #cf4944; }
+
+input:checked + .slider-sunrise { background-color: #cf4944; }
+
+input:focus + .slider-sunrise { box-shadow: 0 0 1px #cf4944; }
+
+input:checked + .slider-sunrise:before { -webkit-transform: translateX(26px); -ms-transform: translateX(26px); transform: translateX(26px); background-color: #fff; }

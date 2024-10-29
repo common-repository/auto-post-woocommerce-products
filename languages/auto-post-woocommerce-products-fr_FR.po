@@ -1,0 +1,4448 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: APWCP\n"
+"Report-Msgid-Bugs-To: info@cilcreations.com\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2019-06-10 08:47-0500\n"
+"Last-Translator: Carl Lockett <info@cilcreations.com>\n"
+"Language-Team: info@cilcreations.com\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.2.3\n"
+
+#: admin/apwp-functions-admin.php:85
+#, php-format
+msgid "Start: %s"
+msgstr "Début: %s"
+
+#: admin/apwp-functions-admin.php:94
+#, php-format
+msgid "End: %s"
+msgstr "Fin: %s"
+
+#: admin/apwp-twitter-tab.php:255
+msgid "Twitter auto posting"
+msgstr "Publication automatique Twitter"
+
+#: admin/apwp-welcome.php:92
+#, php-format
+msgid ""
+"Thank you %s for activating the FREE plan of Auto Post WooCommerce Products!"
+msgstr "Merci %s d’activer le plan GRATUIT des produits Auto Post WooCommerce!"
+
+#: admin/apwp-welcome.php:112
+#, php-format
+msgid ""
+"Thank you %1$s for being a valued customer and choosing the %2$s plan of "
+"Auto Post WooCommerce Products!"
+msgstr ""
+"Merci %1$s d’être un client précieux et de choisir le plan %2$s de Produits "
+"postaux WooCommerce!"
+
+#: admin/apwp-woocommerce-tab.php:73
+msgid "Product to Tweet"
+msgid_plural "Products to Tweet"
+msgstr[0] "Produit à Tweet"
+msgstr[1] "Produits à tweeter"
+
+#: admin/includes/apwp-dashboard-widget.php:96
+#, php-format
+msgid "Thank you for using APWCP %s version!"
+msgstr "Merci d’avoir utilisé la version de APWCP %s!"
+
+#: admin/includes/apwp-list-table-functions.php:897
+msgid "User Privileges ERROR:"
+msgstr "Privilèges d'utilisateur ERREUR:"
+
+#: admin/includes/apwp-list-table-functions.php:897
+#: admin/includes/class-apwp-labels.php:487
+msgid ""
+"You do not have privileges to delete products! Please see your site admin."
+msgstr ""
+"Vous n'avez pas les privilèges pour supprimer des produits! S'il vous plaît "
+"voir votre administrateur de site."
+
+#: admin/includes/apwp-list-table-functions.php:1329
+msgid "date"
+msgstr "date"
+
+#: admin/includes/apwp-list-table-functions.php:1332
+msgid "time"
+msgstr "temps"
+
+#: admin/includes/class-apwp-product-list-table.php:201
+#: admin/includes/class-apwp-labels.php:682
+#: admin/includes/pro/class-apwp-stats-table.php:159
+msgid "ID"
+msgstr "ID"
+
+#: admin/includes/class-apwp-product-list-table.php:202
+#: admin/includes/pro/class-apwp-stats-table.php:160
+msgid "Image"
+msgstr "Image"
+
+#: admin/includes/class-apwp-product-list-table.php:203
+#: admin/includes/class-apwp-labels.php:640
+msgid "Title"
+msgstr "Titre"
+
+#: admin/includes/class-apwp-product-list-table.php:204
+#: admin/includes/class-apwp-labels.php:676
+msgid "Category"
+msgstr "Catégorie"
+
+#: admin/includes/class-apwp-product-list-table.php:205
+msgid "Product status"
+msgstr "État du produit"
+
+#: admin/includes/class-apwp-product-list-table.php:206
+#: admin/includes/class-apwp-labels.php:802
+msgid "Regular price"
+msgstr "Prix habituel"
+
+#: admin/includes/class-apwp-product-list-table.php:207
+#: admin/includes/class-apwp-labels.php:806
+msgid "Sale price"
+msgstr "Prix de vente"
+
+#: admin/includes/class-apwp-product-list-table.php:208
+#: admin/includes/class-apwp-labels.php:305
+msgid "Sale dates"
+msgstr "Dates de vente"
+
+#: admin/includes/class-apwp-product-list-table.php:209
+#: admin/includes/class-apwp-labels.php:689
+msgid "Current price"
+msgstr "Prix actuel"
+
+#: admin/includes/class-apwp-product-list-table.php:210
+msgid "Sold"
+msgstr "Vendu"
+
+#: admin/includes/class-apwp-product-list-table.php:211
+msgid "Sharing"
+msgstr "Participation"
+
+#: admin/includes/class-apwp-product-list-table.php:601
+#: admin/includes/class-apwp-product-list-table.php:623
+#: admin/includes/class-apwp-product-list-table.php:625
+#: admin/includes/class-apwp-labels.php:838
+msgid "to"
+msgstr "à"
+
+#: admin/includes/class-apwp-product-list-table.php:650
+msgid "Reports"
+msgstr "Rapports"
+
+#: admin/includes/apwp-quick-edit.php:130
+msgid "Product Edit INFO:"
+msgstr "Produit Edit INFO:"
+
+#: admin/includes/apwp-quick-edit.php:650
+#, no-php-format
+msgid ""
+"To calculate a sales price, enter a value as either decimal or percentage to "
+"calculate the sale price from the regular price. For example, enter 3.25 to "
+"reduce the regular price by %1$s or enter a number with a percent sign. "
+"Entering a discount for a variable product will set the sale price for all "
+"child products of the variable product. The result will be the amount to "
+"reduce the Regular Price."
+msgstr ""
+"Pour calculer un prix de vente, entrez une valeur sous forme décimale ou en "
+"pourcentage afin de calculer le prix de vente à partir du prix normal. Par "
+"exemple, entrez 3.25 pour réduire le prix normal de %1$s ou entrez un nombre "
+"avec un signe de pourcentage. L'entrée d'une réduction pour un produit "
+"variable définira le prix de vente de tous les produits enfants du produit "
+"variable. Le résultat sera le montant pour réduire le prix régulier."
+
+#: admin/includes/apwp-quick-edit.php:1267
+#, no-php-format
+msgid ""
+"To calculate a sales price, enter a value as either decimal or percentage to "
+"calculate the sale price from the regular price. For example, enter 3.25 to "
+"reduce the regular price by %1$s or enter a number with a percent sign. The "
+"result will be the amount to reduce the Regular Price."
+msgstr ""
+"Pour calculer un prix de vente, entrez une valeur sous forme décimale ou en "
+"pourcentage afin de calculer le prix de vente à partir du prix normal. Par "
+"exemple, entrez 3.25 pour réduire le prix normal de %1$s ou entrez un nombre "
+"avec un signe de pourcentage. Le résultat sera le montant pour réduire le "
+"prix régulier."
+
+#: admin/includes/apwp-quick-edit.php:2741
+msgid "Bitly link is not formated correctly."
+msgstr "Bitly link n'est pas formaté correctement."
+
+#: admin/includes/apwp-quick-edit.php:2836
+#: admin/includes/class-apwp-labels.php:478
+msgid "The product short description is required."
+msgstr "La brève description du produit est requise."
+
+#: admin/includes/apwp-quick-edit.php:2982
+#, php-format
+msgid "Your sale end date of %s was not a valid future date."
+msgstr "Votre date de fin de vente de %s n'était pas une date future valide."
+
+#: admin/includes/apwp-quick-edit.php:3020
+#, php-format
+msgid "Your sale end date of %s was before your sale start date of %s."
+msgstr ""
+"Votre date de fin de vente de %s était antérieure à la date de début de "
+"vente de %s."
+
+#: admin/includes/class-apwp-labels.php:133
+msgid "Added HELP tabs to the Categories, Product List and Schedule screens."
+msgstr ""
+"Ajout des onglets AIDE dans les écrans Catégories, Liste de produits et "
+"Calendrier."
+
+#: admin/includes/class-apwp-labels.php:134
+msgid ""
+"Fixed issue with saving Bitly link on the Quick Edit page. You can now "
+"delete the link and save to reset or get a new short link."
+msgstr ""
+"Correction du problème avec l'enregistrement du lien Bitly sur la page "
+"Édition rapide. Vous pouvez maintenant supprimer le lien et enregistrer pour "
+"le réinitialiser ou obtenir un nouveau lien court."
+
+#: admin/includes/class-apwp-labels.php:135
+msgid ""
+"The next product to be auto posted will now be shown on the Schedule Tab."
+msgstr ""
+"Le prochain produit à afficher automatiquement apparaîtra dans l'onglet "
+"Calendrier."
+
+#: admin/includes/class-apwp-labels.php:136
+msgid ""
+"Added a button on the STATUS tab to reset portions of this plugin if you "
+"have issues."
+msgstr ""
+"Ajout d'un bouton sur l'onglet STATUS pour réinitialiser des parties de ce "
+"plugin si vous rencontrez des problèmes."
+
+#: admin/includes/class-apwp-labels.php:137
+msgid "Fixed trash count after adding variable product with its variations."
+msgstr ""
+"Correction du nombre de déchets après avoir ajouté un produit variable avec "
+"ses variations."
+
+#: admin/includes/class-apwp-labels.php:138
+msgid ""
+"New Feature! You are now able to set a product as \"DISCONTINUED\". Info for "
+"this is on the HELP tab of the Product list page."
+msgstr ""
+"Nouvelle fonctionnalité! Vous pouvez maintenant définir un produit comme "
+"\"DISCONTINU\". Les informations à ce sujet se trouvent dans l'onglet Aide "
+"de la page Liste de produits."
+
+#: admin/includes/class-apwp-labels.php:139
+msgid ""
+"Fixed the schedule button for \"EVERY 3 HOURS\", This was trying to set a "
+"schedule every \"23 hours\"."
+msgstr ""
+"Correction du bouton de planification pour \"TOUTES LES 3 HEURES\". Cela "
+"tentait de définir une planification toutes les \"23 heures\"."
+
+#: admin/includes/class-apwp-labels.php:155
+#: admin/includes/pro/class-apwp-stats-table.php:161
+msgid "Product"
+msgid_plural "Products"
+msgstr[0] "Produit"
+msgstr[1] "Des produits"
+
+#: admin/includes/class-apwp-labels.php:156
+msgid "Product without data"
+msgid_plural "Products without data"
+msgstr[0] "Produit sans données"
+msgstr[1] "Produits sans données"
+
+#: admin/includes/class-apwp-labels.php:157
+msgid "Click reported"
+msgid_plural "Clicks reported"
+msgstr[0] "Cliquez rapporté"
+msgstr[1] "Clics rapportés"
+
+#: admin/includes/class-apwp-labels.php:158
+msgid "Average click"
+msgid_plural "Average clicks"
+msgstr[0] "Clic moyen"
+msgstr[1] "Clics moyens"
+
+#: admin/includes/class-apwp-labels.php:159
+msgid "Product variation"
+msgid_plural "Product variations"
+msgstr[0] "Produit variation"
+msgstr[1] "Variations de produit"
+
+#: admin/includes/class-apwp-labels.php:182
+#, php-format
+msgid ""
+"You are also able to repost your Tweets to your Linkedin account using the "
+"same procedures listed above. You must also have a <a href=\"%s\" target="
+"\"_blank\">Buffer</a> account to use any Linkedin applet."
+msgstr ""
+"Vous pouvez également republier vos Tweets sur votre compte Linkedin en "
+"suivant les procédures décrites ci-dessus. Vous devez également disposer "
+"d'un compte <a href=\"%s\" target=\"_blank\">Buffer</a> pour utiliser un "
+"applet Linkedin."
+
+#: admin/includes/class-apwp-labels.php:183
+#: admin/includes/class-apwp-labels.php:842
+msgid "Trash"
+msgstr "Poubelle"
+
+#: admin/includes/class-apwp-labels.php:184
+#: admin/includes/class-apwp-labels.php:711
+msgid "Discontinued"
+msgstr "Article abandonnée"
+
+#: admin/includes/class-apwp-labels.php:185
+msgid "Clearing browser cache"
+msgstr "Effacement du cache du navigateur"
+
+#: admin/includes/class-apwp-labels.php:186
+#, php-format
+msgid ""
+"Instructions to auto post your product TWEETS to FACEBOOK are located in "
+"this <a href=\"%s\" target=\"_blank\">knowledge base</a> article."
+msgstr ""
+"Les instructions pour publier automatiquement votre produit TWEETS sur "
+"FACEBOOK se trouvent dans cet <a href=\"%s\" target=\"_blank\">base de "
+"connaissances</a>."
+
+#: admin/includes/class-apwp-labels.php:187
+#, php-format
+msgid ""
+"Compare all <a href=\"%s\" target=\"_blank\">plans</a> for APWCP side by "
+"side."
+msgstr ""
+"Comparez tous les <a href=\"%s\" target=\"_blank\">plans</a> pour APWCP côte "
+"à côte."
+
+#: admin/includes/class-apwp-labels.php:188
+#, php-format
+msgid ""
+"Instructions to auto post your product TWEETS to PINTEREST are located in "
+"this <a href=\"%s\" target=\"_blank\">knowledge base</a> article."
+msgstr ""
+"Les instructions pour publier automatiquement votre produit TWEETS sur "
+"PINTEREST se trouvent dans cet <a href=\"%s\" target=\"_blank\">base de "
+"connaissances</a>."
+
+#: admin/includes/class-apwp-labels.php:189
+#, php-format
+msgid ""
+"Instructions to auto post your product TWEETS to TUMBLR are located in this "
+"<a href=\"%s\" target=\"_blank\">knowledge base</a> article."
+msgstr ""
+"Les instructions pour publier automatiquement votre produit TWEETS sur "
+"TUMBLR figurent dans cet <a href=\"%s\" target=\"_blank\">base de "
+"connaissances</a>."
+
+#: admin/includes/class-apwp-labels.php:190
+#, php-format
+msgid ""
+"Have an idea or feature request? <a href=\"%s\" title=\"https://www."
+"cilcreations.com/apwp/feature-requests/\" target=\"_blank\">Let us know!</a>"
+msgstr ""
+"Vous avez une idée ou une demande de fonctionnalité? <a href=\"%s\" title="
+"\"https://www.cilcreations.com/apwp/feature-requests/\" target=\"_blank"
+"\">Faites-nous le savoir!</a>"
+
+#: admin/includes/class-apwp-labels.php:191
+#, php-format
+msgid ""
+"For additional information, <a href=\"%s\" target=\"_blank\">see this "
+"knowledge base article</a>."
+msgstr ""
+"Pour plus d'informations, <a href=\"%s\" target=\"_blank\">consultez cet "
+"article de la base de connaissances</a>."
+
+#: admin/includes/class-apwp-labels.php:192
+#, php-format
+msgid ""
+"For additional information, <a href=\"%s\" title=\"https://www.cilcreations."
+"com/apwp/knowledgebase/twitter-schedule-tab/\" target=\"_blank\">see this "
+"knowledge base article</a>."
+msgstr ""
+"Pour plus d'informations, <a href=\"%s\" title=\"https://www.cilcreations."
+"com/apwp/knowledgebase/\" target=\"_blank\">voir cet article de la base de "
+"connaissances</a>."
+
+#: admin/includes/class-apwp-labels.php:193
+#, php-format
+msgid ""
+"For additional information, <a href=\"%s\" title=\"https://www.cilcreations."
+"com/apwp/knowledgebase/settings-tab/\" target=\"_blank\">see this knowledge "
+"base article</a>."
+msgstr ""
+"Pour plus d'informations, <a href=\"%s\" title=\"https://www.cilcreations."
+"com/apwp/knowledgebase/\" target=\"_blank\">voir cet article de la base de "
+"connaissances</a>."
+
+#: admin/includes/class-apwp-labels.php:194
+#, php-format
+msgid ""
+"For additional information, <a href=\"%s\" title=\"https://www.cilcreations."
+"com/apwp/knowledgebase/enable-curl-via-the-php-ini-file/\" target=\"_blank"
+"\">see this knowledge base article</a>."
+msgstr ""
+"Pour plus d'informations, <a href=\"%s\" title=\"https://www.cilcreations."
+"com/apwp/knowledgebase/\" target=\"_blank\">voir cet article de la base de "
+"connaissances</a>."
+
+#: admin/includes/class-apwp-labels.php:195
+#, php-format
+msgid ""
+"Help us tell others about APWCP by leaving your <a href=\"%s\" target="
+"\"_blank\" style=\"text-decoration: none;\">review</a>!"
+msgstr ""
+"Aidez-nous à informer les gens sur APWCP en laissant votre <a href=\"%s\" "
+"target=\"_blank\" style=\"text-decoration: none;\">critique</a>!"
+
+#: admin/includes/class-apwp-labels.php:196
+#, php-format
+msgid ""
+"To view your account and check for updates, please visit your <a href=\"%s\" "
+"title=\"account page\" target=\"_blank\">Account Page</a>."
+msgstr ""
+"Pour afficher votre compte et rechercher des mises à jour, accédez à votre "
+"<a href=\"%s\" title=\"page de compte\" target=\"_blank\">page de compte</a>."
+
+#: admin/includes/class-apwp-labels.php:197
+#, php-format
+msgid ""
+"You still have a FREE Trial period waiting! <a href=\"%s\" title=\"activate "
+"trial\" target=\"_blank\">Activate my Free Trial</a>."
+msgstr ""
+"Vous avez encore une période d'essai GRATUITE à attendre! <a href=\"%s\" "
+"title=\"activer le procès\" target=\"_blank\"> Activer mon essai gratuit </"
+"a>."
+
+#: admin/includes/class-apwp-labels.php:198
+#, php-format
+msgid ""
+"Do you need more features? You may upgrade at anytime. <a href=\"%s\" title="
+"\"view plans\" target=\"_blank\">View all plans</a>."
+msgstr ""
+"Avez-vous besoin de plus de fonctionnalités? Vous pouvez mettre à jour à "
+"tout moment. <a href=\"%s\" title=\"voir les plans\" target=\"_blank\"> "
+"Afficher tous les plans </a>."
+
+#: admin/includes/class-apwp-labels.php:199
+#, php-format
+msgid ""
+"For any issues, please fill out a <a href=\"%s\" target=\"_blank\">Support "
+"ticket</a> on our website."
+msgstr ""
+"Pour tout problème, veuillez remplir un <a href=\"%s\" target=\"_blank"
+"\">ticket d'assistance</a> sur notre site Web."
+
+#: admin/includes/class-apwp-labels.php:200
+#, php-format
+msgid ""
+"please fill out a <a href=\"%s\" target=\"_blank\">Support ticket</a> on our "
+"website."
+msgstr ""
+"veuillez remplir un <a href=\"%s\" target=\"_blank\" ticket d'assistance</a> "
+"sur notre site Web."
+
+#: admin/includes/class-apwp-labels.php:201
+#, php-format
+msgid ""
+"This will guide you through setting up this plugin and getting started. For "
+"more detailed help, please see our <a href=\"%s\" target=\"_blank"
+"\">knowledge base</a>."
+msgstr ""
+"Cela vous guidera tout au long de la configuration de ce plugin. Pour une "
+"aide plus détaillée, consultez notre <a href=\"%s\" target=\"_blank\">base "
+"de connaissances</a>."
+
+#: admin/includes/class-apwp-labels.php:203
+#, no-php-format
+msgid ""
+"Detailed instructions for creating the Twitter and Bitly apps are located in "
+"our <a href=\"%s\" target=\"_blank\">knowledge base</a>."
+msgstr ""
+"Des instructions détaillées pour la création des applications Twitter et "
+"Bitly se trouvent dans notre <a href=\"%s\" target=\"_blank\">base de "
+"connaissances</a>."
+
+#: admin/includes/class-apwp-labels.php:204
+#, php-format
+msgid "<a href=\"%s\" target=\"\">Settings tab</a>."
+msgstr "<a href=\"%s\" target=\"\">Onglet Paramètres</a>."
+
+#: admin/includes/class-apwp-labels.php:205
+#, php-format
+msgid ""
+"For any detailed help using this plugin, please visit the <a href=\"%s\" "
+"target=\"_blank\">knowledge base</a>."
+msgstr ""
+"Pour toute aide détaillée sur l’utilisation de ce plugin, veuillez consulter "
+"la <a href=\"%s\" target=\"_blank\">base de connaissances</a>."
+
+#: admin/includes/class-apwp-labels.php:206
+#, php-format
+msgid ""
+"Statistics are disabled. Please enable under the <a href=\"%s\" target="
+"\"\">Settings Tab</a>."
+msgstr ""
+"Les statistiques sont désactivées. Veuillez activer sous <a href=\"%s\" "
+"target=\"\">l’onglet Paramètres</a>."
+
+#: admin/includes/class-apwp-labels.php:207
+#, php-format
+msgid ""
+"Here is a link to the Freemius <a href=\"%s\" target=\"_blank\">privacy "
+"policy</a> "
+msgstr ""
+"Voici un lien vers la <a href=\"%s\" target=\"_blank\">politique de "
+"confidentialité de Freemius</a> "
+
+#: admin/includes/class-apwp-labels.php:208
+#, php-format
+msgid "and its <a href=\"%s\" target=\"_blank\">checkout cookie policy</a>."
+msgstr ""
+"et sa <a href=\"%s\" target=\"_blank\">politique de contrôle des cookies</a>."
+
+#: admin/includes/class-apwp-labels.php:209
+#, php-format
+msgid ""
+"If you wish to opt-out of Freemius&apos; cookies setting please go to their "
+"<a href=\"%s\" target=\"_blank\">cookie policy</a> and follow their opt-out "
+"instructions."
+msgstr ""
+"Si vous souhaitez désactiver la configuration des cookies de Freemius, "
+"accédez à leur <a href=\"%s\" target=\"_blank\">politique de cookies</a> et "
+"suivez leurs instructions de désactivation."
+
+#: admin/includes/class-apwp-labels.php:210
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\" title=\"https://www.cilcreations.com/apwp/"
+"\">CIL Creations</a>"
+msgstr ""
+"<a href=\"%s\" target=\"_blank\" title=\"https://www.cilcreations.com/apwp/"
+"\">CIL Creations</a>"
+
+#: admin/includes/class-apwp-labels.php:211
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\" title=\"https://www.cilcreations.com/apwp/"
+"knowledgebase\">Knowledgebase</a>"
+msgstr ""
+"<a href=\"%s\" target=\"_blank\" title=\"https://www.cilcreations.com/apwp/"
+"knowledgebase\">Base de connaissances</a>"
+
+#: admin/includes/class-apwp-labels.php:212
+#, php-format
+msgid ""
+"You will need to verify your Rich Pins settings before they will appear on "
+"Pinterest. To validate and apply for Rich Pins, check the box below and save "
+"your settings. Then follow this link and enter the url of a product page: <a "
+"href=\"%s\" title=\"developers.pinterest.com\" target=\"_blank\">developers."
+"pinterest.com/tools/url-debugger</a>"
+msgstr ""
+"Vous devrez vérifier vos paramètres Rich Pins avant qu'ils n'apparaissent "
+"sur Pinterest. Pour valider et appliquer les Rich Pins, cochez la case ci-"
+"dessous et enregistrez vos paramètres. Puis suivez ce lien et entrez l'URL "
+"d'une page de produit: <a href=\"%s\" title=\"developers.pinterest.com\" "
+"target=\"_blank\">developers.pinterest.com/tools/url-debugger</a>"
+
+#: admin/includes/class-apwp-labels.php:213
+#: admin/includes/class-apwp-labels.php:541
+msgid "Pinterest product pins"
+msgstr "Pins de produit Pinterest"
+
+#: admin/includes/class-apwp-labels.php:214
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\" title=\"http://developers.facebook.com/"
+"\">Get a Facebook App ID</a>"
+msgstr ""
+"<a href=\"%s\" target=\"_blank\" title=\"http://developers.facebook.com/"
+"\">Obtenir un identifiant d'application Facebook</a>"
+
+#: admin/includes/class-apwp-labels.php:215
+#: admin/includes/class-apwp-labels.php:432
+msgid "Change admin theme"
+msgstr "Changer le thème de l'administrateur"
+
+#: admin/includes/class-apwp-labels.php:216
+msgid "WordPress Site Health"
+msgstr "Santé du site WordPress"
+
+#: admin/includes/class-apwp-labels.php:217
+#, php-format
+msgid "View our <a href=\"%s\" target=\"_blank\">privacy policy</a>."
+msgstr ""
+"Consultez notre <a href=\"%s\" target=\"_blank\">politique de "
+"confidentialité</a>."
+
+#: admin/includes/class-apwp-labels.php:218
+#, php-format
+msgid ""
+"You will need to create a Twitter App at <a href=\"%s\" title=\"https://"
+"developer.twitter.com/en/apps\" target=\"_blank\">developer.twitter.com</a> "
+"to receive API Codes for this plugin."
+msgstr ""
+"Vous devez créer une application Twitter sur <a href=\"%s\" title=\"https://"
+"developer.twitter.com/en/apps\" target=\"_blank\">developer.twitter.com</a> "
+"pour recevoir des codes API pour ce plugin."
+
+#: admin/includes/class-apwp-labels.php:219
+#, php-format
+msgid ""
+"Want to set auto posting up later? Disable auto posting <a href=\"%s\" "
+"target=\"\">here</a>."
+msgstr ""
+"Vous voulez configurer la publication automatique plus tard? Désactiver "
+"l'envoi automatique des <a href=\"%s\" target=\"\">ici</a>."
+
+#: admin/includes/class-apwp-labels.php:220
+#, php-format
+msgid ""
+"You will need to create a Bitly App at <a href=\"%s\" title=\"https://dev."
+"bitly.com/my_apps.html\" target=\"_blank\">dev.bitly.com/my_apps</a> in "
+"order to receive your Generic access token for this plugin."
+msgstr ""
+"Vous devrez créer une application Bitly sur <a href=\"%s\" title=\"https://"
+"dev.bitly.com/my_apps.html\" target=\"_blank\">dev.bitly.com/my_apps</a> "
+"pour recevoir votre jeton d’accès générique pour ce plugin."
+
+#: admin/includes/class-apwp-labels.php:221
+#, php-format
+msgid ""
+"When you are asked to provide the DEBUG information for this plugin, please "
+"copy and then paste this data into the <a href=\"%s\" target=\"_blank\">help "
+"desk</a> reply tab by clicking the COPY DATA TO CLIPBOARD BUTTON."
+msgstr ""
+"Lorsque vous êtes invité à fournir les informations DEBUG pour ce plug-in, "
+"copiez-les puis collez-les dans l'onglet de réponse <a href=\"%s\" target="
+"\"_blank\">help desk</a> en cliquant sur l'onglet COPY DATA TO. BOUTON DE "
+"CLIPBOARD."
+
+#: admin/includes/class-apwp-labels.php:222
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Check log</a>"
+msgstr "<a href=\"%s\" target=\"_blank\">Vérifier le journal</a>"
+
+#: admin/includes/class-apwp-labels.php:223
+#, php-format
+msgid "<a href=\"%s\">Please enable.</a>"
+msgstr "<a href=\"%s\">Veuillez activer.</a>"
+
+#: admin/includes/class-apwp-labels.php:224
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Please update.</a>"
+msgstr "<a href=\"%s\" target=\"_blank\">Veuillez mettre à jour.</a>"
+
+#: admin/includes/class-apwp-labels.php:225
+#, php-format
+msgid ""
+"You need to install/enable cURL on your server for auto posting to Twitter. "
+"<a href=\"%s\">https://www.cilcreations.com/apwp/knowledgebase/enable-curl-"
+"via-the-php-ini-file/</a>"
+msgstr ""
+"Vous devez installer / activer cURL sur votre serveur pour la publication "
+"automatique sur Twitter. <a href=\"%s\">https://www.cilcreations.com/apwp/"
+"knowledgebase/enable-curl-via-the-php-ini-file/</a>"
+
+#: admin/includes/class-apwp-labels.php:226
+#, php-format
+msgid ""
+"For additional information, <a href=\"%s\" title=\"\" target=\"_blank\">see "
+"this knowledge base article</a>."
+msgstr ""
+"Pour plus d'informations, <a href=\"%s\" title=\"\" target=\"_blank"
+"\">consultez cet article de la base de connaissances</a>."
+
+#: admin/includes/class-apwp-labels.php:241
+msgid "Enable auto sharing"
+msgstr "Activer le partage automatique"
+
+#: admin/includes/class-apwp-labels.php:242
+msgid "Disable auto sharing"
+msgstr "Désactiver le partage automatique"
+
+#: admin/includes/class-apwp-labels.php:243
+msgid "Select this to enable auto posting on all selected products."
+msgstr ""
+"Sélectionnez cette option pour activer la publication automatique sur tous "
+"les produits sélectionnés."
+
+#: admin/includes/class-apwp-labels.php:244
+msgid "Select this to disable auto posting on all selected products."
+msgstr ""
+"Sélectionnez cette option pour désactiver la publication automatique sur "
+"tous les produits sélectionnés."
+
+#: admin/includes/class-apwp-labels.php:245
+msgid "Backorder status"
+msgstr "État des commandes en retard"
+
+#: admin/includes/class-apwp-labels.php:246
+msgid "Backordered"
+msgstr "Remis en commande"
+
+#: admin/includes/class-apwp-labels.php:247
+msgid "Bulk edit product data"
+msgstr "Éditer en vrac les données du produit"
+
+#: admin/includes/class-apwp-labels.php:248
+msgid "APWCP Bulk edit form"
+msgstr "APWCP Formulaire d'édition en bloc"
+
+#: admin/includes/class-apwp-labels.php:249
+msgid "Calculate sale price for related products."
+msgstr "Calculer le prix de vente des produits connexes."
+
+#: admin/includes/class-apwp-labels.php:250
+msgid "Calculate sale price"
+msgstr "Calculer le prix de vente"
+
+#: admin/includes/class-apwp-labels.php:251
+msgid "Cancel changes"
+msgstr "Annuler les modifications"
+
+#: admin/includes/class-apwp-labels.php:252
+msgid "New category"
+msgstr "Nouvelle catégorie"
+
+#: admin/includes/class-apwp-labels.php:253
+msgid "Choose categories"
+msgstr "Choisissez des catégories"
+
+#: admin/includes/class-apwp-labels.php:254
+msgid ""
+"Enter the name of a new category and it will be included in the list of "
+"categories for this product once you save your changes."
+msgstr ""
+"Entrez le nom d'une nouvelle catégorie et elle sera incluse dans la liste "
+"des catégories de ce produit une fois que vous aurez enregistré vos "
+"modifications."
+
+#: admin/includes/class-apwp-labels.php:255
+msgid ""
+"To change prices of a Variable product, you must set the child product "
+"individual prices. You may calculate a discount price for all child products "
+"here."
+msgstr ""
+"Pour modifier les prix d'un produit Variable, vous devez définir les prix "
+"individuels du produit enfant. Vous pouvez calculer un prix de réduction "
+"pour tous les produits pour enfants ici."
+
+#: admin/includes/class-apwp-labels.php:256
+msgid "Select primary image"
+msgstr "Sélectionnez l'image principale"
+
+#: admin/includes/class-apwp-labels.php:257
+msgid "Changes made here will affect all products listed above"
+msgstr ""
+"Les modifications apportées ici affecteront tous les produits énumérés ci-"
+"dessus"
+
+#: admin/includes/class-apwp-labels.php:258
+msgid "Current prices"
+msgstr "Prix actuels"
+
+#: admin/includes/class-apwp-labels.php:259
+#: admin/includes/class-apwp-labels.php:521
+msgid "Discontinue product"
+msgstr "Arrêter le produit"
+
+#: admin/includes/class-apwp-labels.php:260
+msgid "discontinued"
+msgstr "arrêté"
+
+#: admin/includes/class-apwp-labels.php:261
+msgid "View discontinued"
+msgstr "Voir discontinué"
+
+#: admin/includes/class-apwp-labels.php:262
+msgid ""
+"Checking this box will set this item to OUT OF STOCK, NO BACKORDER, NOT "
+"VISIBLE IN SEARCHES (front of site), cannot be sold, any sale cancelled, "
+"category set to Discontinued, removed from statistics tab and auto postings, "
+"will not be shareable to social media."
+msgstr ""
+"En cochant cette case, vous définissez cet élément sur HORS STOCK, AUCUN "
+"ARRIVÉ, NON VISIBLE DANS LES RECHERCHES (devant le site), ne peut être "
+"vendu, aucune vente annulée, la catégorie sur Discontinued, retirée de "
+"l'onglet Statistiques et affichage automatique, ne peut être partagée aux "
+"médias sociaux."
+
+#: admin/includes/class-apwp-labels.php:263
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: admin/includes/class-apwp-labels.php:264
+msgid "Downloadable products give access to a file upon purchase."
+msgstr ""
+"Les produits téléchargeables donnent accès à un fichier lors de l'achat."
+
+#: admin/includes/class-apwp-labels.php:265
+msgid "Edit product data"
+msgstr "Modifier les données du produit"
+
+#: admin/includes/class-apwp-labels.php:266
+msgid "You are editing the following products"
+msgstr "Vous éditez les produits suivants"
+
+#: admin/includes/class-apwp-labels.php:267
+msgid "Editing without parent product"
+msgstr "Edition sans produit parent"
+
+#: admin/includes/class-apwp-labels.php:268
+msgid ""
+"The sale end date you choose will end the sale at midnight of that date. If "
+"you choose \"01-JAN-2018\" as your end date, as of 11:59:59 PM on 31-"
+"DEC-2017, the sale is ended. So, if you want your sale to run through \"01-"
+"JAN-2018\", you will need to enter \"02-JAN-2018\" as your end date."
+msgstr ""
+"La date de fin de la vente que vous choisissez met fin à la vente à minuit. "
+"Si vous choisissez \"01-JAN-2018\" comme date de fin, à compter de 23 h 59 "
+"min 59 s le 31 décembre 2017, la vente est terminée. Donc, si vous voulez "
+"que votre vente se déroule jusqu'au \"01-JAN-2018\", vous devez entrer \"02-"
+"JAN-2018\" comme date de fin."
+
+#: admin/includes/class-apwp-labels.php:269
+msgid "End the current sales promotion?"
+msgstr "Mettre fin à la promotion des ventes en cours?"
+
+#: admin/includes/class-apwp-labels.php:270
+msgid "End current sale"
+msgstr "Fin de la vente en cours"
+
+#: admin/includes/class-apwp-labels.php:271
+msgid ""
+"This will end the current sale for this item and all variations of this item "
+"if applicable. Are you sure?"
+msgstr ""
+"Cela mettra fin à la vente en cours pour cet article et toutes les variantes "
+"de cet article, le cas échéant. Êtes-vous sûr?"
+
+#: admin/includes/class-apwp-labels.php:272
+msgid ""
+"Check this box to end the current sale and return your prices to normal."
+msgstr ""
+"Cochez cette case pour mettre fin à la vente en cours et retourner vos prix "
+"à la normale."
+
+#: admin/includes/class-apwp-labels.php:273
+msgid "Featured product"
+msgstr "Produit en vedette"
+
+#: admin/includes/class-apwp-labels.php:274
+msgid ""
+"Once you setup some featured products, you can either display them "
+"throughout your website with a shortcode or with a widget."
+msgstr ""
+"Une fois que vous avez configuré certains produits, vous pouvez les afficher "
+"sur tout votre site Web avec un code abrégé ou un widget."
+
+#: admin/includes/class-apwp-labels.php:275
+msgid "Select this to set as a featured product for all selected products."
+msgstr ""
+"Sélectionnez cette option pour définir comme produit en vedette tous les "
+"produits sélectionnés."
+
+#: admin/includes/class-apwp-labels.php:276
+msgid "Select this to remove as a featured product for all selected products."
+msgstr ""
+"Sélectionnez cette option pour supprimer en tant que produit sélectionné "
+"tous les produits sélectionnés."
+
+#: admin/includes/class-apwp-labels.php:277
+msgid "Hidden"
+msgstr "Caché"
+
+#: admin/includes/class-apwp-labels.php:278
+msgid "Installed Version"
+msgstr "Version installée"
+
+#: admin/includes/class-apwp-labels.php:279
+msgid "Image ID"
+msgstr "ID de l'image"
+
+#: admin/includes/class-apwp-labels.php:280
+msgid "Last Tweet Sent"
+msgstr "Dernier Tweet envoyé"
+
+#: admin/includes/class-apwp-labels.php:281
+msgid "Latest Version"
+msgstr "Dernière version"
+
+#: admin/includes/class-apwp-labels.php:282
+msgid "Low stock"
+msgstr "Stock faible"
+
+#: admin/includes/class-apwp-labels.php:283
+msgid ""
+"STOCK MANAGED: WooCommerce will manage the item's inventory level for you. "
+"Each time you sell this item, the quantity will be automatically reduced by "
+"one. Once your product reaches a level of \"0\", then your BACKORDER setting "
+"will take over. You may also manually set the stock status at anytime."
+msgstr ""
+"Stock géré: WooCommerce gérera le niveau d'inventaire de l'article pour "
+"vous. Chaque fois que vous vendez cet article, la quantité sera "
+"automatiquement réduite de un. Une fois que votre produit atteint le niveau "
+"\"0\", votre paramètre de commande en attente prendra le relais. Vous pouvez "
+"également définir manuellement l'état du stock à tout moment."
+
+#: admin/includes/class-apwp-labels.php:284
+msgid "Next Posting"
+msgstr "Prochaine publication"
+
+#: admin/includes/class-apwp-labels.php:285
+msgid ""
+"NOT STOCK MANAGED: WooCommerce will not reduce your stock quantity with each "
+"sale. This means WooCommerce will continue selling the product unless you "
+"set the STOCK STATUS to OUT OF STOCK. Selecting INSTOCK or ON BACKORDER will "
+"allow WooCommerce to continue selling the item."
+msgstr ""
+"Non Stock géré: WooCommerce ne réduira pas votre stock à chaque vente. Cela "
+"signifie que WooCommerce continuera à vendre le produit, sauf si vous "
+"définissez l'état du stock sur Stock épuisé. En sélectionnant Instock ou Sur "
+"commande, WooCommerce pourra continuer à vendre l'article."
+
+#: admin/includes/class-apwp-labels.php:286
+#: admin/includes/pro/class-apwp-stats-table.php:164
+msgid "On sale"
+msgstr "En soldes"
+
+#: admin/includes/class-apwp-labels.php:287
+msgid "Parent ID"
+msgstr "ID parent"
+
+#: admin/includes/class-apwp-labels.php:288
+msgid "Please enable."
+msgstr "S'il vous plaît activer."
+
+#: admin/includes/class-apwp-labels.php:289
+msgid "Primary image"
+msgstr "Image primaire"
+
+#: admin/includes/class-apwp-labels.php:290
+msgid "Enter your product unit cost for this item."
+msgstr "Entrez votre coût unitaire de produit pour cet article."
+
+#: admin/includes/class-apwp-labels.php:291
+msgid ""
+"Enter any additional product costs for this item such as shipping or fees."
+msgstr ""
+"Entrez les coûts de produit supplémentaires pour cet article, tels que les "
+"frais d’expédition ou les frais."
+
+#: admin/includes/class-apwp-labels.php:292
+msgid "This amount is the total of the combined costs."
+msgstr "Ce montant représente le total des coûts combinés."
+
+#: admin/includes/class-apwp-labels.php:293
+msgid "Enter your product cost for all selected products."
+msgstr "Entrez le coût de votre produit pour tous les produits sélectionnés."
+
+#: admin/includes/class-apwp-labels.php:294
+msgid ""
+"Enter additional product costs for all selected products such as shipping or "
+"fees."
+msgstr ""
+"Saisissez les coûts de produit supplémentaires pour tous les produits "
+"sélectionnés tels que les frais d’expédition ou les frais."
+
+#: admin/includes/class-apwp-labels.php:295
+msgid "Enter product specific hashtags."
+msgstr "Entrez les hashtags spécifiques au produit."
+
+#: admin/includes/class-apwp-labels.php:296
+msgid "Product information"
+msgstr "Information produit"
+
+#: admin/includes/class-apwp-labels.php:297
+msgid "Product on sale"
+msgstr "Produit en vente"
+
+#: admin/includes/class-apwp-labels.php:298
+msgid "Shows if the item is currently on sale."
+msgstr "Indique si l'article est actuellement en vente."
+
+#: admin/includes/class-apwp-labels.php:299
+msgid ""
+"These product specific hashtags will be used when auto posting to Twitter "
+"and will display in the Share tab to manually post this product. This is not "
+"required, but if entered these hashtags will be used instead of the main "
+"hashtags you entered on the Settings Tab."
+msgstr ""
+"Ces hashtags spécifiques au produit seront utilisés lors de la publication "
+"automatique sur Twitter et s'afficheront dans l'onglet Partager pour publier "
+"manuellement ce produit. Cela n'est pas obligatoire, mais si vous les "
+"entrez, ces hashtags seront utilisés à la place des hashtags principaux que "
+"vous avez entrés dans l'onglet Paramètres."
+
+#: admin/includes/class-apwp-labels.php:300
+msgid "Product title"
+msgstr "Titre du produit"
+
+#: admin/includes/class-apwp-labels.php:301
+msgid "Total cost"
+msgstr "Coût total"
+
+#: admin/includes/class-apwp-labels.php:302
+msgid "Products to Tweet"
+msgstr "Produits à Tweet"
+
+#: admin/includes/class-apwp-labels.php:303
+msgid "APWCP quick edit form"
+msgstr "APWCP Formulaire d'édition rapide"
+
+#: admin/includes/class-apwp-labels.php:304
+msgid "Read Only"
+msgstr "Lecture seulement"
+
+#: admin/includes/class-apwp-labels.php:306
+msgid ""
+"The sale dates you set here will also be applied to all your child products."
+msgstr ""
+"Les dates de vente que vous définissez ici seront également appliquées à "
+"tous vos produits pour enfants."
+
+#: admin/includes/class-apwp-labels.php:307
+msgid "Save changes and return"
+msgstr "Enregistrer les modifications et revenir"
+
+#: admin/includes/class-apwp-labels.php:308
+msgid ""
+"Once you select \"Save Changes\", your changes may not be reflected in the "
+"product listing for a minute or so."
+msgstr ""
+"Une fois que vous avez sélectionné \"Enregistrer les modifications\", il est "
+"possible que vos modifications ne soient pas reflétées dans la liste des "
+"produits pendant une minute environ."
+
+#: admin/includes/class-apwp-labels.php:309
+msgid "Search results only"
+msgstr "Résultats de la recherche uniquement"
+
+#: admin/includes/class-apwp-labels.php:310
+msgid "Shop only"
+msgstr "Boutique seulement"
+
+#: admin/includes/class-apwp-labels.php:311
+msgid "Shop and search results"
+msgstr "Résultats de la recherche et de la boutique"
+
+#: admin/includes/class-apwp-labels.php:312
+msgid ""
+"This is the information that will be shared to social media either manually "
+"by clicking the \"SHARE\" button, or through Twitter auto posting. *NOTE: "
+"All html tags will be striped if included in the short description.*"
+msgstr ""
+"Il s’agit des informations qui seront partagées sur les médias sociaux "
+"manuellement en cliquant sur le bouton \"PARTAGER\" ou par publication "
+"automatique sur Twitter. * NOTE: Toutes les balises html seront rayées si "
+"elles sont incluses dans la description courte. *"
+
+#: admin/includes/class-apwp-labels.php:313
+msgid "Product short description"
+msgstr "Description courte du produit"
+
+#: admin/includes/class-apwp-labels.php:314
+msgid "This is the product short URL. You may change this as needed."
+msgstr ""
+"Ceci est l'URL courte du produit. Vous pouvez changer cela si nécessaire."
+
+#: admin/includes/class-apwp-labels.php:315
+msgid "SKU"
+msgstr "SKU"
+
+#: admin/includes/class-apwp-labels.php:316
+msgid ""
+"Enable this to only allow one of this item to be bought in a single order. "
+"To set this for a product variation (child product), you must set this on "
+"the parent product."
+msgstr ""
+"Activez cette option pour ne permettre qu’un seul de ces articles soit "
+"acheté en une seule commande. Pour définir cela pour une variante de produit "
+"(produit enfant), vous devez le définir sur le produit parent."
+
+#: admin/includes/class-apwp-labels.php:317
+#: admin/includes/class-apwp-labels.php:827
+msgid "Sold individually"
+msgstr "Vendus séparément"
+
+#: admin/includes/class-apwp-labels.php:318
+msgid "Enable product statistics"
+msgstr "Activer les statistiques de produit"
+
+#: admin/includes/class-apwp-labels.php:319
+msgid "Disable product statistics"
+msgstr "Désactiver les statistiques de produit"
+
+#: admin/includes/class-apwp-labels.php:320
+msgid "Select this to enable statistics on all selected products."
+msgstr ""
+"Sélectionnez cette option pour activer les statistiques sur tous les "
+"produits sélectionnés."
+
+#: admin/includes/class-apwp-labels.php:321
+msgid "Select this to disable statistics on all selected products."
+msgstr ""
+"Sélectionnez cette option pour désactiver les statistiques sur tous les "
+"produits sélectionnés."
+
+#: admin/includes/class-apwp-labels.php:322
+msgid "Stock management"
+msgstr "Gestion de stock"
+
+#: admin/includes/class-apwp-labels.php:323
+msgid "Stock status"
+msgstr "État des stocks"
+
+#: admin/includes/class-apwp-labels.php:324
+msgid ""
+"When set to MANAGING Stock, WooCommerce may automatically set the Stock "
+"Status based upon your inventory quantity and your Backorder Status "
+"selection."
+msgstr ""
+"Lorsqu'il est défini sur GESTION DES STOCKS, WooCommerce peut "
+"automatiquement définir l'état des stocks en fonction de votre quantité "
+"d'inventaire et de votre sélection d'état des commandes en attente."
+
+#: admin/includes/class-apwp-labels.php:325
+msgid "Total inventory items"
+msgstr "Total des articles en stock"
+
+#: admin/includes/class-apwp-labels.php:326
+msgid "Unshared"
+msgstr "Non partagé"
+
+#: admin/includes/class-apwp-labels.php:327
+msgid "Variation"
+msgstr "Variation"
+
+#: admin/includes/class-apwp-labels.php:328
+msgid "Virtual product"
+msgstr "Produit virtuel"
+
+#: admin/includes/class-apwp-labels.php:329
+msgid "Visibility"
+msgstr "Visibilité"
+
+#: admin/includes/class-apwp-labels.php:330
+msgid ""
+"Should the product on the front end be Hidden, Shown in the shop listings "
+"and search results, Shown in search results only or just shown in the Shop "
+"listings only."
+msgstr ""
+"Si le produit figurant au recto est masqué, affiché dans les listes de "
+"magasin et les résultats de recherche, affiché dans les résultats de "
+"recherche uniquement ou uniquement dans les listes de magasin uniquement."
+
+#: admin/includes/class-apwp-labels.php:345
+msgid "Auto Post Woocommerce Products FREE version"
+msgstr "Auto Post Woocommerce Products version gratuite"
+
+#: admin/includes/class-apwp-labels.php:346
+msgid ""
+"These figures are automatically updated when you make any changes to a "
+"product's status such as changing the categories or adding and deleting a "
+"product in your inventory."
+msgstr ""
+"Ces chiffres sont automatiquement mis à jour lorsque vous modifiez le statut "
+"d'un produit, par exemple en modifiant les catégories ou en ajoutant ou "
+"supprimant un produit dans votre inventaire."
+
+#: admin/includes/class-apwp-labels.php:347
+msgid "Bitly generic access token"
+msgstr "Jeton d'accès générique"
+
+#: admin/includes/class-apwp-labels.php:348
+msgid ""
+"The categories you select will allow all products within those categories to "
+"be auto posted to Twitter."
+msgstr ""
+"Les catégories que vous sélectionnez permettront à tous les produits de ces "
+"catégories d'être automatiquement publiés sur Twitter."
+
+#: admin/includes/class-apwp-labels.php:349
+msgid ""
+"Any changes made here will be reflected once all products to post have been "
+"exhausted or by using the reset button below. Individual changes can be made "
+"immediately on the Product Listing tab."
+msgstr ""
+"Toute modification apportée ici sera reflétée une fois que tous les produits "
+"à poster ont été épuisés ou en utilisant le bouton de réinitialisation ci-"
+"dessous. Des modifications individuelles peuvent être effectuées "
+"immédiatement dans l'onglet Liste de produits."
+
+#: admin/includes/class-apwp-labels.php:350
+msgid "Select which categories to use when auto posting products to Twitter."
+msgstr ""
+"Sélectionnez les catégories à utiliser lors de la publication automatique de "
+"produits sur Twitter."
+
+#: admin/includes/class-apwp-labels.php:351
+msgid "WooCommerce product categories"
+msgstr "Catégories de produits WooCommerce"
+
+#: admin/includes/class-apwp-labels.php:352
+msgid "Copy data to clipboard"
+msgstr "Copier des données dans le presse-papier"
+
+#: admin/includes/class-apwp-labels.php:353
+msgid "Current Auto Posting Data"
+msgstr "Données actuelles d'enregistrement automatique"
+
+#: admin/includes/class-apwp-labels.php:354
+msgid "Current settings and values"
+msgstr "Paramètres et valeurs actuels"
+
+#: admin/includes/class-apwp-labels.php:355
+msgid "Auto Post WooCommerce Products Status"
+msgstr "État des produits WooCommerce à publication automatique"
+
+#: admin/includes/class-apwp-labels.php:356
+msgid ""
+"You may click the button below to Enable/Disable WP_DEBUG and the WP_DEBUG "
+"log. Once you submit your data from this page to your support ticket, you "
+"may Disable the DEBUG mode."
+msgstr ""
+"Vous pouvez cliquer sur le bouton ci-dessous pour activer / désactiver "
+"WP_DEBUG et le journal WP_DEBUG. Une fois que vous avez envoyé les données "
+"de cette page sur votre ticket d’assistance, vous pouvez désactiver le mode "
+"DEBUG."
+
+#: admin/includes/class-apwp-labels.php:357
+msgid ""
+"WP_DEBUG_DISPLAY setting will display all errors on the screen, front end "
+"and admin. This means visitors to your site will also see the errors. Only "
+"use while debugging an issue."
+msgstr ""
+"Le paramètre WP_DEBUG_DISPLAY affichera toutes les erreurs à l'écran, front-"
+"end et admin Cela signifie que les visiteurs de votre site verront également "
+"les erreurs. Utilisez uniquement lors du débogage d'un problème."
+
+#: admin/includes/class-apwp-labels.php:358
+msgid "Failed to set WP_DEBUG! Please try again."
+msgstr "Impossible de définir WP_DEBUG! Veuillez réessayer."
+
+#: admin/includes/class-apwp-labels.php:359
+msgid "Debug mode set, refreshing page. . ."
+msgstr "Mode de débogage défini, page de rafraîchissement. . ."
+
+#: admin/includes/class-apwp-labels.php:360
+msgid "Enable WP Debug and WP Debug Display"
+msgstr "Activer WP_Debug et WP_Debug _Affichage"
+
+#: admin/includes/class-apwp-labels.php:361
+msgid "Disable WP_DEBUG"
+msgstr "Désactiver WP_DEBUG"
+
+#: admin/includes/class-apwp-labels.php:362
+msgid "Selecting this option will enable or disable auto posting to Twitter."
+msgstr ""
+"La sélection de cette option active ou désactive la publication automatique "
+"sur Twitter."
+
+#: admin/includes/class-apwp-labels.php:363
+msgid "Enable auto posting to Twitter."
+msgstr "Activer la publication automatique sur Twitter."
+
+#: admin/includes/class-apwp-labels.php:364
+msgid "Enable WP_DEBUG"
+msgstr "Activer WP_DEBUG"
+
+#: admin/includes/class-apwp-labels.php:365
+msgid "Enable this setting to activate WP_DEBUG"
+msgstr "Activer ce paramètre pour activer WP_DEBUG"
+
+#: admin/includes/class-apwp-labels.php:366
+msgid "Enable this setting to activate WP_DEBUG_DISPLAY."
+msgstr "Activez ce paramètre pour activer WP_DEBUG_DISPLAY."
+
+#: admin/includes/class-apwp-labels.php:367
+msgid "Enable WP_DEBUG_DISPLAY"
+msgstr "Activer WP_DEBUG_DISPLAY"
+
+#: admin/includes/class-apwp-labels.php:368
+msgid "Enable Twitter meta tags."
+msgstr "Activer les balises Meta Twitter."
+
+#: admin/includes/class-apwp-labels.php:369
+msgid "Enter your access token"
+msgstr "Entrez votre jeton d'accès"
+
+#: admin/includes/class-apwp-labels.php:370
+msgid ""
+"I know you will find this plugin to be very useful in marketing and managing "
+"your WooCommerce products."
+msgstr ""
+"Je sais que vous trouverez ce plug-in très utile dans le marketing et la "
+"gestion de vos produits WooCommerce."
+
+#: admin/includes/class-apwp-labels.php:371
+msgid "Information"
+msgstr "Information"
+
+#: admin/includes/class-apwp-labels.php:372
+msgid "Latest version installed"
+msgstr "Dernière version installée"
+
+#: admin/includes/class-apwp-labels.php:373
+msgid "Log Files"
+msgstr "Fichiers de log"
+
+#: admin/includes/class-apwp-labels.php:374
+msgid "Please update."
+msgstr "Veuillez mettre à jour."
+
+#: admin/includes/class-apwp-labels.php:375
+msgid ""
+"APWCP does not collect personal data such as name, email, address, etc. We "
+"do collect and store social media user name(s), access tokens and codes, "
+"that you provide, for the execution of this plugin. This data is transmitted "
+"to the social media account website for the sole purpose of posting your "
+"products on their site. No other data is transmitted to another site or "
+"source and this plugin does not track or store user analytical data. The "
+"data you provide is securely stored in the WordPress database. Freemius (see "
+"below) will collect your name and email only if you accept the OPT_IN when "
+"you activate this plugin."
+msgstr ""
+"APWCP ne collecte pas de données personnelles telles que nom, email, "
+"adresse, etc. Nous recueillons et stockons des noms d'utilisateur, des "
+"jetons d'accès et des codes d'accès aux médias sociaux que vous fournissez "
+"pour l'exécution de ce plugin. Ces données sont transmises au site Web du "
+"compte de média social dans le seul but de publier vos produits sur leur "
+"site. Aucune autre donnée n'est transmise à un autre site ou source et ce "
+"plug-in ne suit ni ne stocke les données analytiques de l'utilisateur. Les "
+"données que vous fournissez sont stockées de manière sécurisée dans la base "
+"de données WordPress. Freemius (voir ci-dessous) ne recueillera votre nom et "
+"votre adresse électronique que si vous acceptez l'OPT_IN lorsque vous "
+"activez ce plugin."
+
+#: admin/includes/class-apwp-labels.php:376
+msgid ""
+"Auto Post Woocommerce Products PREMIUM versions and OPT-IN on any version"
+msgstr ""
+"Produits Auto Post Woocommerce versions PRIME et OPT-IN sur toutes les "
+"versions"
+
+#: admin/includes/class-apwp-labels.php:377
+msgid ""
+"Premium versions follow the same policies as our FREE version, with the "
+"exception of purchasing a premium license and the OPT-IN message seen at "
+"activation of any version of this plugin. Freemius will collect your name "
+"and email if you OPT_IN to receive offers from us and/or Freemius regarding "
+"this plugin."
+msgstr ""
+"Les versions Premium suivent les mêmes règles que notre version GRATUITE, à "
+"l'exception de l'achat d'une licence Premium et du message OPT-IN lors de "
+"l'activation de toute version de ce plugin. Freemius recueillera votre nom "
+"et votre courrier électronique si vous souhaitez que OPT_IN reçoive des "
+"offres de notre part et / ou de Freemius concernant ce plugin."
+
+#: admin/includes/class-apwp-labels.php:378
+msgid ""
+"We sell our product using Freemius secure checkout, which enables secure "
+"online payments, licensing, fulfillment, and more. The service automatically "
+"adds cookies when a user opens the checkout. Those are essential cookies for "
+"security, fraud detection & prevention, and completion of a purchase. There "
+"is no way to check out without letting the service use cookies."
+msgstr ""
+"Nous vendons notre produit en utilisant la caisse sécurisée Freemius, qui "
+"permet des paiements en ligne sécurisés, des licences, des commandes, etc. "
+"Le service ajoute automatiquement des cookies lorsqu'un utilisateur ouvre la "
+"commande. Ce sont des cookies essentiels pour la sécurité, la détection et "
+"la prévention de la fraude et la réalisation d’un achat. Il n’ya aucun moyen "
+"de vérifier sans laisser le service utiliser des cookies."
+
+#: admin/includes/class-apwp-labels.php:379
+msgid ""
+"*NOTE: Any changes made to a product listing are reflected when the product "
+"is posted to social media. The listing data is not saved in this plugin, it "
+"is retrieved at posting time."
+msgstr ""
+"* REMARQUE: toute modification apportée à une liste de produits est prise en "
+"compte lorsque le produit est publié sur les médias sociaux. Les données de "
+"la liste ne sont pas enregistrées dans ce plugin, elles sont récupérées au "
+"moment de la publication."
+
+#: admin/includes/class-apwp-labels.php:380
+msgid "APWCP privacy policy"
+msgstr "Politique de confidentialité de l'APWCP"
+
+#: admin/includes/class-apwp-labels.php:381
+msgid "Products per page"
+msgstr "Produits par page"
+
+#: admin/includes/class-apwp-labels.php:382
+msgid "Quick start guide"
+msgstr "Guide de démarrage rapide"
+
+#: admin/includes/class-apwp-labels.php:383
+msgid "Reset scheduled to Tweet list"
+msgstr "Réinitialiser prévu à la liste de tweets"
+
+#: admin/includes/class-apwp-labels.php:384
+msgid "Manually reset Products to Tweet list"
+msgstr "Réinitialiser manuellement les produits dans la liste Tweet"
+
+#: admin/includes/class-apwp-labels.php:385
+msgid "APWCP Reset plugin"
+msgstr "APWCP réinitialiser le plugin"
+
+#: admin/includes/class-apwp-labels.php:386
+msgid ""
+"In the event this plugin is not functioning correctly, you may click the "
+"button below to reset certain items. The reset items will be erased and "
+"recreated, hopefully correcting your issue. Before proceeding with the "
+"reset, please clear your browser cache by pressing and holding the CTRL+SHIFT"
+"+DELETE keys on your keyboard."
+msgstr ""
+"Si ce plugin ne fonctionne pas correctement, vous pouvez cliquer sur le "
+"bouton ci-dessous pour réinitialiser certains éléments. Les éléments de "
+"réinitialisation seront effacés et recréés, corrigeant éventuellement votre "
+"problème. Avant de procéder à la réinitialisation, veuillez vider le cache "
+"de votre navigateur en maintenant enfoncées les touches CTRL + MAJ + SUPPR "
+"de votre clavier."
+
+#: admin/includes/class-apwp-labels.php:387
+msgid ""
+"The items to be reset will be: <em>product list temporary data files, auto "
+"posting, auto posting products list and product list view filters/settings."
+msgstr ""
+"Les éléments à réinitialiser sont les suivants: <em>fichiers de données "
+"temporaires de la liste de produits, publication automatique, liste de "
+"publication automatique de produits et filtres / paramètres d'affichage de "
+"la liste de produits."
+
+#: admin/includes/class-apwp-labels.php:388
+msgid "Resetting plugin"
+msgstr "Réinitialisation du plugin"
+
+#: admin/includes/class-apwp-labels.php:389
+msgid "Scheduled to Tweet"
+msgstr "Prévu pour Tweet"
+
+#: admin/includes/class-apwp-labels.php:390
+msgid ""
+"Please check out the plugin and if you have any trouble with a setting or "
+"feature, please see the Help and Support tab. There are links to reach out "
+"for additional support if needed."
+msgstr ""
+"Veuillez vérifier le plug-in et si vous rencontrez des problèmes avec un "
+"paramètre ou une fonctionnalité, veuillez consulter l'onglet Aide et support "
+"Il existe des liens pour obtenir un soutien supplémentaire si nécessaire."
+
+#: admin/includes/class-apwp-labels.php:391
+msgid "Select your product categories"
+msgstr "Sélectionnez vos catégories de produits"
+
+#: admin/includes/class-apwp-labels.php:392
+msgid "Please select at least one category."
+msgstr "Veuillez sélectionner au moins une catégorie."
+
+#: admin/includes/class-apwp-labels.php:393
+msgid "Select none"
+msgstr "Ne rien sélectionner"
+
+#: admin/includes/class-apwp-labels.php:394
+msgid "APWCP status information"
+msgstr "Informations sur le statut du programme APWCP"
+
+#: admin/includes/class-apwp-labels.php:395
+msgid "APWCP status page"
+msgstr "Page d'état APWCP"
+
+#: admin/includes/class-apwp-labels.php:396
+msgid "Access token secret"
+msgstr "Accès au secret de jeton"
+
+#: admin/includes/class-apwp-labels.php:397
+msgid "Access token"
+msgstr "Jeton d'accès"
+
+#: admin/includes/class-apwp-labels.php:398
+msgid "Twitter API Codes"
+msgstr "Codes API Twitter"
+
+#: admin/includes/class-apwp-labels.php:399
+msgid "Consumer key (API key)"
+msgstr "Clé du consommateur (clé API)"
+
+#: admin/includes/class-apwp-labels.php:400
+msgid "Consumer secret (API secret)"
+msgstr "Secret du consommateur (secret de l'API)"
+
+#: admin/includes/class-apwp-labels.php:401
+msgid "Twitter metadata"
+msgstr "Méta-données Twitter"
+
+#: admin/includes/class-apwp-labels.php:402
+msgid ""
+"This option will add the required Twitter meta tags to your product pages. "
+"To set this you must enter your Twitter user name in the box and this "
+"setting will automatically be set. To disable the meta tags, just remove "
+"your user name and save your changes."
+msgstr ""
+"Cette option ajoutera les balises méta Twitter requises aux pages de votre "
+"produit. Pour définir cela, vous devez entrer votre nom d'utilisateur "
+"Twitter dans la case et ce paramètre sera automatiquement défini. Pour "
+"désactiver les balises META, supprimez simplement votre nom d'utilisateur et "
+"enregistrez vos modifications."
+
+#: admin/includes/class-apwp-labels.php:403
+msgid "Twitter username"
+msgstr "Nom d'utilisateur Twitter"
+
+#: admin/includes/class-apwp-labels.php:404
+msgid "Enter your username to enable the Twitter meta tags below."
+msgstr ""
+"Entrez votre nom d'utilisateur pour activer les balises META Twitter ci-"
+"dessous."
+
+#: admin/includes/class-apwp-labels.php:405
+msgid "Updating data. . ."
+msgstr "Mise à jour des données. . ."
+
+#: admin/includes/class-apwp-labels.php:406
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#: admin/includes/class-apwp-labels.php:407
+msgid "Welcome!"
+msgstr "Bienvenue!"
+
+#: admin/includes/class-apwp-labels.php:408
+msgid "Welcome To APWCP!"
+msgstr "Bienvenue à APWCP!"
+
+#: admin/includes/class-apwp-labels.php:409
+msgid "Welcome To Auto Post WooCommerce Products!"
+msgstr "Bienvenue aux produits Auto Post WooCommerce!"
+
+#: admin/includes/class-apwp-labels.php:410
+msgid "You have installed"
+msgstr "Vous avez installé"
+
+#: admin/includes/class-apwp-labels.php:426
+msgid "API codes"
+msgstr "Codes API"
+
+#: admin/includes/class-apwp-labels.php:427
+msgid ""
+"If you have a Facebook App ID, please enter it in the box and save. This is "
+"required for the Facebook meta product tags. If you do not have one, the CIL "
+"Creations app id will be used. You may get your own ID by clicking on the "
+"link provided. Our plugin will work just fine if you skip this setting."
+msgstr ""
+"Si vous avez un identifiant d'application Facebook, veuillez le saisir dans "
+"la case et sauvegarder. Ceci est requis pour les balises de méta-produit "
+"Facebook. Si vous n'en avez pas, l'identifiant de l'application CIL "
+"Creations sera utilisé. Vous pouvez obtenir votre propre identifiant en "
+"cliquant sur le lien fourni. Notre plugin fonctionnera parfaitement si vous "
+"ignorez ce paramètre."
+
+#: admin/includes/class-apwp-labels.php:428
+msgid "APWCP ERROR"
+msgstr "APWCP ERROR"
+
+#: admin/includes/class-apwp-labels.php:429
+msgid ""
+"A Bitly generic access token is required to shorten all product links before "
+"posting and for data collection by Bitly. Without this token you will not be "
+"able to get statistic information on each of your product postings."
+msgstr ""
+"Un jeton d'accès générique Bitly est requis pour raccourcir tous les liens "
+"de produit avant la publication et pour la collecte de données par Bitly. "
+"Sans ce jeton, vous ne pourrez pas obtenir d'informations statistiques sur "
+"chacune de vos publications de produits."
+
+#: admin/includes/class-apwp-labels.php:430
+msgid "Bitly link is not formatted correctly."
+msgstr "Bitly link n'est pas formaté correctement."
+
+#: admin/includes/class-apwp-labels.php:431
+msgid "Categories"
+msgstr "Catégories"
+
+#: admin/includes/class-apwp-labels.php:433
+msgid ""
+"Please check your Twitter and Bitly codes on the Settings tab. There are "
+"missing codes."
+msgstr ""
+"Veuillez vérifier vos codes Twitter et Bitly dans l'onglet Paramètres. Il "
+"manque des codes."
+
+#: admin/includes/class-apwp-labels.php:434
+msgid "Clean database when uninstalling"
+msgstr "Nettoyer la base de données lors de la désinstallation"
+
+#: admin/includes/class-apwp-labels.php:435
+msgid "Clean database"
+msgstr "Nettoyer la base de données"
+
+#: admin/includes/class-apwp-labels.php:436
+msgid ""
+"Selecting this option will enable the APWCP dashboard widget for this plugin."
+msgstr ""
+"La sélection de cette option activera le widget Tableau de bord APWCP pour "
+"ce plugin."
+
+#: admin/includes/class-apwp-labels.php:437
+msgid "Dashboard widget"
+msgstr "Widget de tableau de bord"
+
+#: admin/includes/class-apwp-labels.php:438
+msgid "APWCP dashboard widget"
+msgstr "Widget tableau de bord APWCP"
+
+#: admin/includes/class-apwp-labels.php:439
+msgid "This product could not be deleted:"
+msgstr "Ce produit n'a pas pu être supprimé:"
+
+#: admin/includes/class-apwp-labels.php:440
+msgid "Delete all settings when this plugin is uninstalled."
+msgstr "Supprimer TOUS les paramètres lorsque ce plug-in est désinstallé."
+
+#: admin/includes/class-apwp-labels.php:441
+msgid ""
+"The products you have selected to edit are listed below. All products that "
+"are checked will be edited. If you do not want to edit an individual "
+"product, uncheck the box. Child products will be indented in the list to "
+"distinguish them from all others."
+msgstr ""
+"Les produits que vous avez choisi d’éditer sont énumérés ci-dessous. Tous "
+"les produits cochés seront édités. Si vous ne souhaitez pas modifier un "
+"produit individuel, décochez la case. Les produits pour enfants seront mis "
+"en retrait dans la liste pour les distinguer de tous les autres."
+
+#: admin/includes/class-apwp-labels.php:442
+msgid ""
+"Selecting this option will remove ALL database settings and data for this "
+"plugin when you uninstall. Leave unchecked to save all settings, especially "
+"if you want to reinstall this plugin with all current settings."
+msgstr ""
+"La sélection de cette option supprimera TOUS les paramètres de base de "
+"données et les données pour ce plug-in lors de la désinstallation. Ne cochez "
+"pas cette option pour enregistrer tous les paramètres, surtout si vous "
+"souhaitez réinstaller ce plug-in avec tous les paramètres actuels."
+
+#: admin/includes/class-apwp-labels.php:443
+msgid ""
+"Selecting this option will add the required Facebook meta tags to your "
+"product page theme header. This is required if you are posting products to "
+"Facebook or your postings may not appear correctly or at all."
+msgstr ""
+"En sélectionnant cette option, vous ajouterez les balises Meta Facebook "
+"requises à l'en-tête du thème de votre page de produit. Ceci est nécessaire "
+"si vous publiez des produits sur Facebook ou si vos publications peuvent ne "
+"pas apparaître correctement ou pas du tout."
+
+#: admin/includes/class-apwp-labels.php:444
+msgid ""
+"Selecting this option will enable the WordPress admin theme colors for this "
+"plugin. If you would rather use the default plugin theme, uncheck this "
+"setting."
+msgstr ""
+"La sélection de cette option activera les couleurs du thème d'administration "
+"WordPress pour ce plug-in. Si vous préférez utiliser le thème de plugin par "
+"défaut, décochez ce paramètre."
+
+#: admin/includes/class-apwp-labels.php:445
+msgid "Product Edit ERROR"
+msgstr "Produit Edit ERROR"
+
+#: admin/includes/class-apwp-labels.php:446
+msgid "WordPress Add Category ERROR"
+msgstr "WordPress Ajouter une catégorie ERREUR"
+
+#: admin/includes/class-apwp-labels.php:447
+msgid "Enable Auto Posting"
+msgstr "Activer la publication automatique"
+
+#: admin/includes/class-apwp-labels.php:448
+#: admin/includes/class-apwp-labels.php:719
+msgid "Enable statistics"
+msgstr "Activer les statistiques"
+
+#: admin/includes/class-apwp-labels.php:449
+msgid "Enable WordPress admin theme colors"
+msgstr "Activer les couleurs du thème d'administration WordPress"
+
+#: admin/includes/class-apwp-labels.php:450
+msgid "Enable theme colors"
+msgstr "Activer les couleurs du thème"
+
+#: admin/includes/class-apwp-labels.php:451
+msgid "Enter your hashtags"
+msgstr "Entrez vos hashtags"
+
+#: admin/includes/class-apwp-labels.php:452
+msgid "ERROR!"
+msgstr "ERREUR!"
+
+#: admin/includes/class-apwp-labels.php:453
+#: admin/includes/class-apwp-labels.php:455
+msgid "Facebook app ID"
+msgstr "Identifiant de l'application Facebook"
+
+#: admin/includes/class-apwp-labels.php:454
+msgid "Enable Facebook meta tags."
+msgstr "Activer les balises Meta Facebook."
+
+#: admin/includes/class-apwp-labels.php:456
+#: admin/includes/class-apwp-labels.php:462
+msgid "Facebook meta tags"
+msgstr "Balises META Facebook"
+
+#: admin/includes/class-apwp-labels.php:457
+msgid "Your plan allows for five hashtags."
+msgstr "Votre plan prévoit cinq hashtags."
+
+#: admin/includes/class-apwp-labels.php:458
+msgid "Enter your hashtags separating each with a comma."
+msgstr "Entrez vos hashtags en les séparant par une virgule."
+
+#: admin/includes/class-apwp-labels.php:459
+msgid "Help"
+msgstr "Aidez-moi"
+
+#: admin/includes/class-apwp-labels.php:460
+msgid "Auto Post INFORMATION:"
+msgstr "Informations de publication automatique:"
+
+#: admin/includes/class-apwp-labels.php:461
+msgid "LOCALHOST cannot post to social media."
+msgstr "LOCALHOST ne peut pas publier sur les médias sociaux."
+
+#: admin/includes/class-apwp-labels.php:463
+msgid ""
+"These are your default hashtags. They will be used when auto posting your "
+"products to Twitter if you have not set any product specific hastags. "
+"Product specific hashtags can be set with quick edit or bulk edit on the "
+"Product List tab. Duplicates will be removed."
+msgstr ""
+"Ce sont vos hashtags par défaut. Ils seront utilisés lors de la publication "
+"automatique de vos produits sur Twitter si vous n'avez défini aucun hastags "
+"spécifique à un produit. Les hashtags spécifiques à un produit peuvent être "
+"définis avec une modification rapide ou une modification en bloc dans "
+"l'onglet Liste des produits. Les doublons seront supprimés."
+
+#: admin/includes/class-apwp-labels.php:464
+msgid "You need a valid SSL certificate to post to social media."
+msgstr ""
+"Vous devez disposer d'un certificat SSL valide pour publier sur les médias "
+"sociaux."
+
+#: admin/includes/class-apwp-labels.php:465
+msgid "Optional"
+msgstr "Optionnel"
+
+#: admin/includes/class-apwp-labels.php:466
+msgid ""
+"Selecting this option will add the required Pinterest meta tags to your "
+"product page theme header. This is required by Pinterest to properly show "
+"product postings."
+msgstr ""
+"En sélectionnant cette option, vous ajouterez les balises meta Pinterest "
+"requises à l'en-tête du thème de votre page produit. Ceci est requis par "
+"Pinterest pour afficher correctement les affichages de produits."
+
+#: admin/includes/class-apwp-labels.php:467
+#: admin/includes/class-apwp-labels.php:553
+msgid "Pinterest Rich Pins"
+msgstr "Pinterest Rich Pins"
+
+#: admin/includes/class-apwp-labels.php:468
+msgid "Product List"
+msgstr "Liste de produits"
+
+#: admin/includes/class-apwp-labels.php:469
+msgid "Quick start"
+msgstr "Démarrage rapide"
+
+#: admin/includes/class-apwp-labels.php:470
+msgid "APWCP plugin reset was successful."
+msgstr "La réinitialisation du plug-in APWCP a réussi."
+
+#: admin/includes/class-apwp-labels.php:471
+msgid "Saving...please wait."
+msgstr "Sauvegarder ... attendez s'il vous plaît."
+
+#: admin/includes/class-apwp-labels.php:472
+msgid "Save Twitter and Bitly Codes"
+msgstr "Enregistrer les codes Twitter et Bitly"
+
+#: admin/includes/class-apwp-labels.php:473
+msgid "Schedule"
+msgstr "Horaire"
+
+#: admin/includes/class-apwp-labels.php:474
+msgid "Security ERROR"
+msgstr "Erreur de sécurité"
+
+#: admin/includes/class-apwp-labels.php:475
+msgid "Please select at least one product category on the CATEGORY TAB."
+msgstr ""
+"Veuillez sélectionner au moins une catégorie de produit dans l'onglet "
+"CATÉGORIE."
+
+#: admin/includes/class-apwp-labels.php:476
+msgid ""
+"Please set a schedule to enable auto posting to Twitter, or disable auto "
+"posting on the Settings tab."
+msgstr ""
+"Veuillez définir un calendrier pour activer la publication automatique sur "
+"Twitter ou désactiver la publication automatique dans l'onglet Paramètres."
+
+#: admin/includes/class-apwp-labels.php:477
+msgid "Settings"
+msgstr "Paramètres"
+
+#: admin/includes/class-apwp-labels.php:479
+msgid "Statistics"
+msgstr "Statistiques"
+
+#: admin/includes/class-apwp-labels.php:480
+msgid "Status"
+msgstr "Statut"
+
+#: admin/includes/class-apwp-labels.php:481
+#: admin/includes/class-apwp-labels.php:808
+msgid "Success!"
+msgstr "Succès!"
+
+#: admin/includes/class-apwp-labels.php:482
+msgid "Option saved, setting theme. . ."
+msgstr "Option enregistrée, thème de réglage. . ."
+
+#: admin/includes/class-apwp-labels.php:483
+msgid "Your plan allows for three hashtags."
+msgstr "Votre plan prévoit trois hashtags."
+
+#: admin/includes/class-apwp-labels.php:484
+msgid "WordPress admin theme colors."
+msgstr "Couleurs de thème admin WordPress."
+
+#: admin/includes/class-apwp-labels.php:485
+msgid "You may enter as many hashtags as you would like."
+msgstr "Vous pouvez entrer autant de hashtags que vous le souhaitez."
+
+#: admin/includes/class-apwp-labels.php:486
+msgid "User Privileges ERROR"
+msgstr "Privilèges d'utilisateur ERREUR"
+
+#: admin/includes/class-apwp-labels.php:488
+msgid "Auto Post WARNING"
+msgstr "Auto Post AVERTISSEMENT"
+
+#: admin/includes/class-apwp-labels.php:489
+msgid "WOOCOMMERCE ERROR"
+msgstr "ERREUR DE WOOCOMMERCE"
+
+#: admin/includes/class-apwp-labels.php:505
+msgid "Need additional help or have a question?"
+msgstr "Besoin d'aide supplémentaire ou d'une question?"
+
+#: admin/includes/class-apwp-labels.php:506
+#: admin/includes/class-apwp-labels.php:660
+msgid "Additional help"
+msgstr "Aide supplémentaire"
+
+#: admin/includes/class-apwp-labels.php:507
+msgid "For more information about your WordPress installation, please see"
+msgstr ""
+"Pour plus d'informations sur votre installation WordPress, veuillez consulter"
+
+#: admin/includes/class-apwp-labels.php:508
+msgid "Plugin author"
+msgstr "Auteur du plugin"
+
+#: admin/includes/class-apwp-labels.php:509
+msgid "View list of products being auto posted"
+msgstr "Afficher la liste des produits en cours de publication"
+
+#: admin/includes/class-apwp-labels.php:510
+msgid "Auto post reset"
+msgstr "Après réinitialisation"
+
+#: admin/includes/class-apwp-labels.php:511
+msgid "View list of products on backorder"
+msgstr "Voir la liste des produits en rupture de stock"
+
+#: admin/includes/class-apwp-labels.php:512
+msgid "Using Bitly short links"
+msgstr "Utiliser Bitly"
+
+#: admin/includes/class-apwp-labels.php:513
+msgid ""
+"You need to select at least one category or the plugin will stay in <strong>"
+"\"pause\"</strong> mode, which means you are not auto posting your products. "
+"The buttons below the categories allow you to select all or none of the "
+"categories."
+msgstr ""
+"Vous devez sélectionner au moins une catégorie pour que le plug-in reste en "
+"mode <strong>\"pause\"</strong>, ce qui signifie que vous ne publiez pas "
+"automatiquement vos produits. Les boutons situés sous les catégories vous "
+"permettent de sélectionner toutes ou aucune des catégories."
+
+#: admin/includes/class-apwp-labels.php:514
+msgid ""
+"The categories you select will enable <strong>ALL</strong> products in that "
+"category to be posted to Twitter. When you have a product in a particular "
+"category that you do not want to post, go to the <strong>Product List tab</"
+"strong> and disable auto posting in the <strong>ID column</strong> for that "
+"particular product."
+msgstr ""
+"Les catégories que vous sélectionnez permettent d'activer <strong>TOUS</"
+"strong> les produits de cette catégorie sur Twitter. Si vous ne souhaitez "
+"pas publier un produit dans une catégorie particulière, accédez à l'onglet "
+"<strong>Liste des produits</strong> et désactivez l'envoi automatique dans "
+"la colonne <strong>Identifiant</strong> correspondant à ce produit."
+
+#: admin/includes/class-apwp-labels.php:515
+msgid ""
+"When you make changes to your inventory such as deleting or adding new "
+"items, this option will update your products to post list. This is "
+"automatically done by the plugin when it has gone through all your selected "
+"products, but can be useful when adjusting your inventory by adding or "
+"removing products."
+msgstr ""
+"Lorsque vous apportez des modifications à votre inventaire, telles que la "
+"suppression ou l'ajout de nouveaux éléments, cette option met à jour vos "
+"produits dans la liste de diffusion. Ceci est automatiquement effectué par "
+"le plug-in lorsqu'il a parcouru tous vos produits sélectionnés, mais peut "
+"s'avérer utile lors du réglage de votre inventaire en ajoutant ou en "
+"supprimant des produits."
+
+#: admin/includes/class-apwp-labels.php:516
+msgid "Clear browser cache"
+msgstr "Effacer le cache du navigateur"
+
+#: admin/includes/class-apwp-labels.php:517
+msgid "clicks only"
+msgstr "clique seulement"
+
+#: admin/includes/class-apwp-labels.php:518
+msgid "clicks & referrers"
+msgstr "clics et références"
+
+#: admin/includes/class-apwp-labels.php:519
+msgid "Current plan"
+msgstr "Plan actuel"
+
+#: admin/includes/class-apwp-labels.php:520
+msgid "Dashboard information widget"
+msgstr "Widget Informations sur le tableau de bord"
+
+#: admin/includes/class-apwp-labels.php:522
+msgid ""
+"Discontinuing a product will place that product in an unsellable state and "
+"cannot be viewed by customers. This is like a holding area for products you "
+"are not currently selling and do not wish to remove the product from your "
+"inventory. For example, you may discontinue seasonal products and reactivate "
+"them when you are ready."
+msgstr ""
+"L'arrêt du produit place ce produit dans un état invendable et ne peut pas "
+"être visualisé par les clients. Cela ressemble à une zone de stockage pour "
+"les produits que vous ne vendez pas et que vous ne souhaitez pas supprimer "
+"du produit de votre inventaire. Par exemple, vous pouvez interrompre les "
+"produits de saison et les réactiver lorsque vous êtes prêt."
+
+#: admin/includes/class-apwp-labels.php:523
+msgid ""
+"To discontinue a product, select the checkbox for the product(s) and under "
+"<strong>Bulk actions</strong> select <strong>Discontinue</strong>."
+msgstr ""
+"Pour interrompre un produit, cochez la case correspondante et sous "
+"<strong>Actions en masse</strong>, sélectionnez <strong>Arrêter</strong>."
+
+#: admin/includes/class-apwp-labels.php:524
+msgid ""
+"A discontinued product can be restored by first viewing the Discontinued "
+"products list and then selecting <strong>Restore</strong>. This is just like "
+"restoring a product that is in the trash."
+msgstr ""
+"Un produit abandonné peut être restauré en consultant tout d'abord la liste "
+"des produits abandonnés, puis en sélectionnant <strong>Restaurer</strong>. "
+"Cela revient à restaurer un produit à la poubelle."
+
+#: admin/includes/class-apwp-labels.php:525
+msgid ""
+"The restored product will retain all the product settings it had. The only "
+"settings you may need to modify are adding it to the Auto Post list and "
+"including it in your click statistics."
+msgstr ""
+"Le produit restauré conservera tous les paramètres du produit dont il "
+"disposait. Les seuls paramètres que vous devrez peut-être modifier sont "
+"l'ajoutant à la liste Publication automatique et l'incluant dans vos "
+"statistiques de clics."
+
+#: admin/includes/class-apwp-labels.php:526
+msgid ""
+"The restored product will retain all the product settings it had. The only "
+"setting you may need to modify is including it in the Auto Post list."
+msgstr ""
+"Le produit restauré conservera tous les paramètres du produit dont il "
+"disposait. Le seul paramètre à modifier est de l'inclure dans la liste "
+"Publication automatique."
+
+#: admin/includes/class-apwp-labels.php:527
+msgid "Email"
+msgstr "Email"
+
+#: admin/includes/class-apwp-labels.php:528
+msgid "View list of entire inventory"
+msgstr "Afficher la liste de l'inventaire complet"
+
+#: admin/includes/class-apwp-labels.php:529
+msgid "Manual posting to Facebook & Facebook og meta tags"
+msgstr "Publication manuelle sur les méta tags Facebook et Facebook"
+
+#: admin/includes/class-apwp-labels.php:530
+msgid "Hashtags"
+msgstr "Hashtags"
+
+#: admin/includes/class-apwp-labels.php:531
+msgid "Hashtags per posting"
+msgstr "Hashtags par envoi"
+
+#: admin/includes/class-apwp-labels.php:532
+msgid "Help with settings and use"
+msgstr "Aide avec les paramètres et l'utilisation"
+
+#: admin/includes/class-apwp-labels.php:533
+msgid "Helpful links"
+msgstr "Liens utiles"
+
+#: admin/includes/class-apwp-labels.php:534
+msgid "Multisite plans available"
+msgstr "Plans multisites disponibles"
+
+#: admin/includes/class-apwp-labels.php:535
+msgid "View list of products on sale"
+msgstr "Voir la liste des produits en vente"
+
+#: admin/includes/class-apwp-labels.php:536
+msgid "OPTIONS"
+msgstr "Les options"
+
+#: admin/includes/class-apwp-labels.php:537
+msgid "View list of out of stock products"
+msgstr "Voir la liste des produits en rupture de stock"
+
+#: admin/includes/class-apwp-labels.php:538
+msgid "Overview"
+msgstr "Vue d'ensemble"
+
+#: admin/includes/class-apwp-labels.php:539
+msgid "Manual post to Pinterest and og meta tags"
+msgstr "Publication manuelle sur Pinterest et balises meta"
+
+#: admin/includes/class-apwp-labels.php:540
+msgid "Add Pinterest product meta data."
+msgstr "Ajouter des métadonnées de produit Pinterest."
+
+#: admin/includes/class-apwp-labels.php:542
+msgid "All plans are detailed below."
+msgstr "Tous les plans sont détaillés ci-dessous."
+
+#: admin/includes/class-apwp-labels.php:543
+msgid "Licenses are available monthly, annually or lifetime."
+msgstr "Les licences sont disponibles mensuellement, annuellement ou à vie."
+
+#: admin/includes/class-apwp-labels.php:544
+msgid "Posting schedules"
+msgstr "Affichage des horaires"
+
+#: admin/includes/class-apwp-labels.php:545
+msgid "Privacy policy"
+msgstr "Politique de confidentialité"
+
+#: admin/includes/class-apwp-labels.php:546
+msgid ""
+"The Products List Tab will display your WooCommerce products based upon the "
+"filters you set."
+msgstr ""
+"L'onglet Liste des produits affiche vos produits WooCommerce en fonction des "
+"filtres que vous avez définis."
+
+#: admin/includes/class-apwp-labels.php:547
+msgid ""
+"<strong>Inventory List</strong> - The option you select here will determine "
+"which product type you would like to view."
+msgstr ""
+"<strong>Liste d'inventaire</strong>: l'option que vous sélectionnez ici "
+"déterminera le type de produit à afficher."
+
+#: admin/includes/class-apwp-labels.php:548
+msgid ""
+"<strong>Category</strong> - You are able to filter you results by any "
+"product category."
+msgstr ""
+"<strong>Catégorie</strong>: vous pouvez filtrer les résultats par catégorie "
+"de produit."
+
+#: admin/includes/class-apwp-labels.php:549
+msgid ""
+"<strong>Additional filters</strong> - These options will allow you to "
+"further refine your results."
+msgstr ""
+"<strong>Filtres supplémentaires</strong>: ces options vous permettent "
+"d'affiner vos résultats."
+
+#: admin/includes/class-apwp-labels.php:550
+msgid ""
+"<strong>Search within results</strong> - When you enter a phrase into the "
+"search box, this checkbox will appear allowing you to either search within "
+"the current results or create a list based upon your search phrase."
+msgstr ""
+"<strong>Rechercher dans les résultats</strong>: lorsque vous entrez une "
+"phrase dans le champ de recherche, cette case à cocher apparaît pour vous "
+"permettre d'effectuer une recherche dans les résultats actuels ou de créer "
+"une liste basée sur votre phrase de recherche."
+
+#: admin/includes/class-apwp-labels.php:551
+msgid "Have a question?"
+msgstr "Avoir une question?"
+
+#: admin/includes/class-apwp-labels.php:552
+msgid "Enhanced quick edit of products"
+msgstr "Modification rapide améliorée des produits"
+
+#: admin/includes/class-apwp-labels.php:554
+msgid ""
+"The most recent posting to <strong>Twitter</strong> is detailed here with "
+"the actual text that was sent. From this screen you can also post the same "
+"product to <em>Facebook</em>, <em>Pinterest</em> or <em>Tumblr</em> by "
+"clicking the <strong>Share to social media</strong> button."
+msgstr ""
+"Le dernier message publié sur <strong>Twitter</strong> est détaillé ici avec "
+"le texte qui a été envoyé. Depuis cet écran, vous pouvez également publier "
+"le même produit sur <em>Facebook</em>, <em>Pinterest</em> ou <em>Tumblr</em> "
+"en cliquant sur <strong>Partager sur les médias sociaux</strong> bouton."
+
+#: admin/includes/class-apwp-labels.php:555
+msgid ""
+"When you click the <strong>Share to social media button</strong>, the "
+"sharing window will open with all of the product data already filled in for "
+"you to share."
+msgstr ""
+"Lorsque vous cliquez sur le <strong>bouton Partager sur les réseaux sociaux</"
+"strong>, la fenêtre de partage s'ouvre avec toutes les données de produit "
+"déjà renseignées que vous souhaitez partager."
+
+#: admin/includes/class-apwp-labels.php:556
+msgid ""
+"The schedule setting is very simple to use. Just select a time interval and "
+"save. Once set the plugin will continue running through your selected "
+"products and posting them on the schedule you selected."
+msgstr ""
+"Le réglage du calendrier est très simple à utiliser. Il suffit de "
+"sélectionner un intervalle de temps et de sauvegarder. Une fois défini, le "
+"plug-in continuera à parcourir les produits que vous avez sélectionnés et à "
+"les publier dans le programme que vous avez sélectionné."
+
+#: admin/includes/class-apwp-labels.php:557
+msgid ""
+"If you have fewer than 50 products, it is recommended to set your posting "
+"schedule at no more than <strong>Every 8 Hours</strong>. Posting more often "
+"than this will run through your product list very quickly and you may post "
+"the same product again too close to the previous posting."
+msgstr ""
+"Si vous avez moins de 50 produits, il est recommandé de ne pas définir plus "
+"de <strong> Toutes les 8 heures </ strong> dans votre calendrier de "
+"publication. Publier plus souvent que cela passera très rapidement dans "
+"votre liste de produits et vous pourrez poster le même produit à nouveau "
+"trop près de la publication précédente."
+
+#: admin/includes/class-apwp-labels.php:558
+msgid "Set sale prices of product variations in quick edit"
+msgstr ""
+"Définir les prix de vente des variations de produit dans l'édition rapide"
+
+#: admin/includes/class-apwp-labels.php:559
+msgid "Setting schedule"
+msgstr "Calendrier de réglage"
+
+#: admin/includes/class-apwp-labels.php:560
+#: admin/includes/class-apwp-labels.php:820
+msgid "Setup"
+msgstr "Installer"
+
+#: admin/includes/class-apwp-labels.php:561
+msgid "Show \"ON SALE\" and discount percentage"
+msgstr "Afficher \"en vente\" et pourcentage de remise"
+
+#: admin/includes/class-apwp-labels.php:562
+msgid "Product specific hashtags"
+msgstr "Hashtags spécifiques au produit"
+
+#: admin/includes/class-apwp-labels.php:563
+msgid "View list of products with stock issues"
+msgstr "Afficher la liste des produits avec des numéros de stock"
+
+#: admin/includes/class-apwp-labels.php:564
+msgid "Support"
+msgstr "Secours"
+
+#: admin/includes/class-apwp-labels.php:565
+msgid "Support type: personal 1 to 1"
+msgstr "Type d'assistance: Personnel 1 à 1"
+
+#: admin/includes/class-apwp-labels.php:566
+msgid "Support type: email"
+msgstr "Type d'assistance: email"
+
+#: admin/includes/class-apwp-labels.php:567
+msgid "Support type: help desk"
+msgstr "Type d'assistance: bureau d'aide"
+
+#: admin/includes/class-apwp-labels.php:568
+msgid "Table legend"
+msgstr "Légende de la table"
+
+#: admin/includes/class-apwp-labels.php:569
+msgid "View products in trash"
+msgstr "Voir les produits dans la corbeille"
+
+#: admin/includes/class-apwp-labels.php:570
+msgid "Manual posting to Tumblr"
+msgstr "Publication manuelle sur Tumblr"
+
+#: admin/includes/class-apwp-labels.php:571
+msgid "Post to Twitter and Twitter og meta tags"
+msgstr "Publier sur Twitter et Twitter OTA meta tags"
+
+#: admin/includes/class-apwp-labels.php:572
+#: admin/includes/class-apwp-labels.php:845
+msgid "Twitter and Bitly settings"
+msgstr "Paramètres Twitter et Bitly"
+
+#: admin/includes/class-apwp-labels.php:573
+msgid "unlimited"
+msgstr "illimité"
+
+#: admin/includes/class-apwp-labels.php:574
+msgid "View products not shared in last 30 days"
+msgstr "Voir les produits non partagés dans les 30 derniers jours"
+
+#: admin/includes/class-apwp-labels.php:575
+msgid ""
+"You can upgrade at any time and also get a 30 day free trial! (Limited time "
+"offer)"
+msgstr ""
+"Vous pouvez effectuer une mise à niveau à tout moment et bénéficier d'un "
+"essai gratuit de 30 jours! (Offre d'une durée limitée)"
+
+#: admin/includes/class-apwp-labels.php:576
+msgid "Upgrade Now!"
+msgstr "Mettre à jour maintenant!"
+
+#: admin/includes/class-apwp-labels.php:577
+msgid "Website"
+msgstr "Site Internet"
+
+#: admin/includes/class-apwp-labels.php:578
+msgid "What is included in each paid plan?"
+msgstr "Qu'est-ce qui est inclus dans chaque plan payé?"
+
+#: admin/includes/class-apwp-labels.php:579
+msgid "Upgrade"
+msgstr "Améliorer"
+
+#: admin/includes/class-apwp-labels.php:594
+msgid "Bitly short link"
+msgstr "Bitly short link"
+
+#: admin/includes/class-apwp-labels.php:595
+msgid "Click any details to copy product information to the clipboard."
+msgstr ""
+"Cliquez sur les détails pour copier les informations du produit dans le "
+"presse-papiers."
+
+#: admin/includes/class-apwp-labels.php:596
+msgid "Description"
+msgstr "La description"
+
+#: admin/includes/class-apwp-labels.php:597
+msgid "Schedule is disabled"
+msgstr "L'horaire est désactivé"
+
+#: admin/includes/class-apwp-labels.php:598
+msgid "Disabling CRON schedule. . ."
+msgstr "Désactiver la planification CRON. . ."
+
+#: admin/includes/class-apwp-labels.php:599
+msgid "discount"
+msgstr "remise"
+
+#: admin/includes/class-apwp-labels.php:600
+msgid "Every 12 hours"
+msgstr "Toutes les 12 heures"
+
+#: admin/includes/class-apwp-labels.php:601
+msgid "Every 15 minutes"
+msgstr "Toutes les 15 minutes"
+
+#: admin/includes/class-apwp-labels.php:602
+msgid "Every 2 hours"
+msgstr "Toutes les 2 heures"
+
+#: admin/includes/class-apwp-labels.php:603
+msgid "Every 24 hours"
+msgstr "Toutes les 24 heures"
+
+#: admin/includes/class-apwp-labels.php:604
+msgid "Every 3 hours"
+msgstr "Toutes les 3 heures"
+
+#: admin/includes/class-apwp-labels.php:605
+msgid "Every 30 minutes"
+msgstr "Toutes les 30 minutes"
+
+#: admin/includes/class-apwp-labels.php:606
+msgid "Every 4 hours"
+msgstr "Toutes les 4 heures"
+
+#: admin/includes/class-apwp-labels.php:607
+msgid "Every 5 hours"
+msgstr "Toutes les 5 heures"
+
+#: admin/includes/class-apwp-labels.php:608
+msgid "Every 6 hours"
+msgstr "Toutes les 6 heures"
+
+#: admin/includes/class-apwp-labels.php:609
+msgid "Every 7 hours"
+msgstr "Toutes les 7 heures"
+
+#: admin/includes/class-apwp-labels.php:610
+msgid "Every 8 hours"
+msgstr "Toutes les 8 heures"
+
+#: admin/includes/class-apwp-labels.php:611
+msgid "Hashtags used"
+msgstr "Hashtags utilisés"
+
+#: admin/includes/class-apwp-labels.php:612
+msgid "Every hour"
+msgstr "Toutes les heures"
+
+#: admin/includes/class-apwp-labels.php:613
+msgid "How often would you like to auto post a product?"
+msgstr "À quelle fréquence souhaitez-vous poster automatiquement un produit?"
+
+#: admin/includes/class-apwp-labels.php:614
+msgid "Last post"
+msgstr "Dernier commentaire"
+
+#: admin/includes/class-apwp-labels.php:615
+msgid ""
+"The last auto post failed. Please see the APWP debug log on the Status tab."
+msgstr ""
+"La dernière publication automatique a échoué. Consultez le journal de "
+"débogage APWP sur l'onglet État."
+
+#: admin/includes/class-apwp-labels.php:616
+msgid "Recent auto posting information"
+msgstr "Informations de publication automatique récentes"
+
+#: admin/includes/class-apwp-labels.php:617
+msgid "While using a LOCALHOST server, all posts will be simulated."
+msgstr ""
+"Lors de l'utilisation d'un serveur LOCALHOST, toutes les publications seront "
+"simulées."
+
+#: admin/includes/class-apwp-labels.php:618
+msgid "Schedule your Twitter auto posts"
+msgstr "Planifiez vos messages automatiques Twitter"
+
+#: admin/includes/class-apwp-labels.php:619
+msgid "Waiting on CRON scheduler. Information will be updated soon."
+msgstr ""
+"En attente du planificateur CRON. L'information sera mise à jour bientôt."
+
+#: admin/includes/class-apwp-labels.php:620
+msgid "not available"
+msgstr "indisponible"
+
+#: admin/includes/class-apwp-labels.php:621
+msgid "Next post"
+msgstr "Article suivant"
+
+#: admin/includes/class-apwp-labels.php:622
+msgid "Next auto post product"
+msgstr "Produit auto post suivant"
+
+#: admin/includes/class-apwp-labels.php:623
+msgid "No description available"
+msgstr "Pas de description disponible"
+
+#: admin/includes/class-apwp-labels.php:624
+msgid "ON SALE!"
+msgstr "EN VENTE!"
+
+#: admin/includes/class-apwp-labels.php:625
+msgid "This is a parent product."
+msgstr "Ceci est un produit parent."
+
+#: admin/includes/class-apwp-labels.php:626
+msgid "Pause schedule"
+msgstr "Calendrier de pause"
+
+#: admin/includes/class-apwp-labels.php:627
+msgid "Post content"
+msgstr "Publier un contenu"
+
+#: admin/includes/class-apwp-labels.php:628
+msgid "Posting schedule"
+msgstr "Calendrier de publication"
+
+#: admin/includes/class-apwp-labels.php:629
+msgid "Previous page"
+msgstr "Page précédente"
+
+#: admin/includes/class-apwp-labels.php:630
+msgid "Product ID"
+msgstr "Numéro de produit"
+
+#: admin/includes/class-apwp-labels.php:631
+msgid "Product Sharing"
+msgstr "Partage de produit"
+
+#: admin/includes/class-apwp-labels.php:632
+msgid "Schedule saved. Posting Tweet."
+msgstr "Calendrier enregistré. Publier un Tweet."
+
+#: admin/includes/class-apwp-labels.php:633
+msgid ""
+"If you have fewer than 50 products, it is recommended to set your posting "
+"schedule at no more than Every 8 Hours. Posting more than this will run "
+"through your product list very quickly and you may post the same product "
+"again too close to the previous posting."
+msgstr ""
+"Si vous avez moins de 50 produits, il est recommandé de définir votre "
+"horaire de publication au maximum toutes les 8 heures. Si vous publiez plus "
+"que cela, votre liste de produits sera diffusée très rapidement et vous "
+"pourrez poster le même produit trop près de la publication précédente."
+
+#: admin/includes/class-apwp-labels.php:634
+msgid "Please select a schedule other than the one already set."
+msgstr "Veuillez sélectionner un autre programme que celui déjà défini."
+
+#: admin/includes/class-apwp-labels.php:635
+msgid ""
+"Select how often you would like to automatically post a product to Twitter "
+"and save."
+msgstr ""
+"Sélectionnez la fréquence à laquelle vous souhaitez publier automatiquement "
+"un produit sur Twitter et enregistrez."
+
+#: admin/includes/class-apwp-labels.php:636
+msgid "Set your schedule"
+msgstr "Définir votre horaire"
+
+#: admin/includes/class-apwp-labels.php:637
+msgid "Schedule when your products will be posted to Twitter."
+msgstr "Planifiez le moment où vos produits seront publiés sur Twitter."
+
+#: admin/includes/class-apwp-labels.php:638
+msgid ""
+"Click one of the social media buttons below to begin sharing your product. "
+"Clicking on any of the information in this form will copy it to the "
+"clipboard for pasting into your post."
+msgstr ""
+"Cliquez sur l'un des boutons de médias sociaux ci-dessous pour commencer à "
+"partager votre produit. En cliquant sur l'une des informations de ce "
+"formulaire, vous le copiez dans le presse-papier pour le coller dans votre "
+"message."
+
+#: admin/includes/class-apwp-labels.php:639
+msgid "Share products to your social media accounts."
+msgstr "Partagez des produits sur vos comptes de médias sociaux."
+
+#: admin/includes/class-apwp-labels.php:641
+msgid "Unknown - please set a new schedule."
+msgstr "Inconnu - veuillez définir un nouveau calendrier."
+
+#: admin/includes/class-apwp-labels.php:642
+msgid "URL"
+msgstr "URL"
+
+#: admin/includes/class-apwp-labels.php:658
+msgid "Product statistics enabled"
+msgstr "Statistiques de produit activées"
+
+#: admin/includes/class-apwp-labels.php:659
+msgid "Additional filters"
+msgstr "Filtres supplémentaires"
+
+#: admin/includes/class-apwp-labels.php:661
+msgid "all categories"
+msgstr "toutes catégories"
+
+#: admin/includes/class-apwp-labels.php:662
+msgid "all types"
+msgstr "tous les types"
+
+#: admin/includes/class-apwp-labels.php:663
+msgid "Apply"
+msgstr "Appliquer"
+
+#: admin/includes/class-apwp-labels.php:664
+msgid "Twitter auto post products"
+msgstr "Twitter auto post produits"
+
+#: admin/includes/class-apwp-labels.php:665
+#: admin/includes/class-apwp-labels.php:666
+msgid "Auto sharing disabled"
+msgstr "Partage automatique désactivé"
+
+#: admin/includes/class-apwp-labels.php:667
+msgid "Auto sharing enabled"
+msgstr "Partage automatique activé"
+
+#: admin/includes/class-apwp-labels.php:668
+msgid "Backorder and notify user of backorder"
+msgstr ""
+"Commande en attente et notification à l'utilisateur de la commande en "
+"souffrance"
+
+#: admin/includes/class-apwp-labels.php:669
+msgid "Products on backorder"
+msgstr "Produits en rupture de stock"
+
+#: admin/includes/class-apwp-labels.php:670
+msgid "Backordering allowed"
+msgstr "Commande en attente autorisée"
+
+#: admin/includes/class-apwp-labels.php:671
+msgid "Item is on backorder"
+msgstr "L'article est en rupture de stock"
+
+#: admin/includes/class-apwp-labels.php:672
+msgid "Bulk actions"
+msgstr "Actions en vrac"
+
+#: admin/includes/class-apwp-labels.php:673
+msgid "Bulk Edit"
+msgstr "Editer en masse"
+
+#: admin/includes/class-apwp-labels.php:674
+msgid "by"
+msgstr "par"
+
+#: admin/includes/class-apwp-labels.php:675
+msgid "Cancel"
+msgstr "Annuler"
+
+#: admin/includes/class-apwp-labels.php:677
+msgid "Categories tab setup"
+msgstr "Configuration de l'onglet Catégories"
+
+#: admin/includes/class-apwp-labels.php:678
+msgid "child"
+msgstr "produit"
+
+#: admin/includes/class-apwp-labels.php:679
+msgid "Clearing the browser cache"
+msgstr "Effacement du cache du navigateur"
+
+#: admin/includes/class-apwp-labels.php:680
+msgid "Clear search results"
+msgstr "Effacer les résultats de la recherche"
+
+#: admin/includes/class-apwp-labels.php:681
+msgid "Product click totals"
+msgstr "Total des clics sur le produit"
+
+#: admin/includes/class-apwp-labels.php:683
+msgid "Please complete setting up this plugin."
+msgstr "Veuillez compléter la configuration de ce plugin."
+
+#: admin/includes/class-apwp-labels.php:684
+msgid ""
+"Are you sure you want to reset this plugin? This procedure may take a few "
+"minutes."
+msgstr ""
+"Êtes-vous sûr de vouloir réinitialiser ce plugin? Cette procédure peut "
+"prendre quelques minutes."
+
+#: admin/includes/class-apwp-labels.php:685
+msgid "Cost"
+msgstr "Coût"
+
+#: admin/includes/class-apwp-labels.php:686
+msgid "Other costs"
+msgstr "D'autres coûts"
+
+#: admin/includes/class-apwp-labels.php:687
+msgid "The current stock quantity; low stock indicator."
+msgstr "La quantité en stock actuelle; indicateur de stock bas."
+
+#: admin/includes/class-apwp-labels.php:688
+msgid "The current stock quantity; out of stock indicator."
+msgstr "La quantité en stock actuelle; indicateur de rupture de stock."
+
+#: admin/includes/class-apwp-labels.php:690
+msgid "The current stock quantity."
+msgstr "La quantité de stock actuelle."
+
+#: admin/includes/class-apwp-labels.php:691
+msgid "Date and time the item was last shared."
+msgstr "Date et heure du dernier partage de l'élément."
+
+#: admin/includes/class-apwp-labels.php:692
+msgid "Delete permanently"
+msgstr "Supprimer définitivement"
+
+#: admin/includes/class-apwp-labels.php:693
+msgid "Delete all products"
+msgstr "Supprimer tous les produits"
+
+#: admin/includes/class-apwp-labels.php:694
+msgid ""
+"These items will be permanently deleted and cannot be recovered. Are you "
+"sure?"
+msgstr ""
+"Ces éléments seront définitivement supprimés et ne pourront pas être "
+"récupérés. Êtes-vous sûr?"
+
+#: admin/includes/class-apwp-labels.php:695
+msgid "To delete parent product, first delete all child products."
+msgstr ""
+"Pour supprimer le produit parent, commencez par supprimer tous les produits "
+"enfants."
+
+#: admin/includes/class-apwp-labels.php:696
+msgid "Are you sure you want to permanently delete"
+msgstr "Êtes-vous sûr de vouloir supprimer définitivement"
+
+#: admin/includes/class-apwp-labels.php:697
+msgid ""
+"This procedure cannot be reversed and if this is a variable product then all "
+"variations will be deleted also!"
+msgstr ""
+"Cette procédure ne peut pas être inversée et s'il s'agit d'un produit "
+"variable, toutes les variantes seront également supprimées!"
+
+#: admin/includes/class-apwp-labels.php:698
+msgid "all products"
+msgstr "tous les produits"
+
+#: admin/includes/class-apwp-labels.php:699
+msgid "auto post products"
+msgstr "produits auto post"
+
+#: admin/includes/class-apwp-labels.php:700
+msgid ""
+"Selecting this option will add the words \"ON SALE\" to your product listing "
+"and the discount percentage when the product is on sale. This is automatic "
+"for Twitter, but you can remove or change this when manually posting to "
+"social media. This is what is shown: \"ON SALE! 50&#37 discount\"."
+msgstr ""
+"La sélection de cette option ajoutera les mots \"EN VENTE\" à votre liste de "
+"produits et au pourcentage de réduction lorsque le produit est en vente. "
+"Ceci est automatique pour Twitter, mais vous pouvez le supprimer ou le "
+"modifier lorsque vous publiez manuellement sur les médias sociaux. Voici ce "
+"qui est affiché: \"EN SALE! 50&#37 discount\"."
+
+#: admin/includes/class-apwp-labels.php:701
+msgid "external products"
+msgstr "produits externes"
+
+#: admin/includes/class-apwp-labels.php:702
+msgid "grouped products"
+msgstr "produits groupés"
+
+#: admin/includes/class-apwp-labels.php:703
+msgid "hide variations"
+msgstr "masquer les variations"
+
+#: admin/includes/class-apwp-labels.php:704
+msgid "simple products"
+msgstr "produits simples"
+
+#: admin/includes/class-apwp-labels.php:705
+msgid "trash"
+msgstr "poubelle"
+
+#: admin/includes/class-apwp-labels.php:706
+msgid "variable products"
+msgstr "produits variables"
+
+#: admin/includes/class-apwp-labels.php:707
+msgid "variation products"
+msgstr "produits de variation"
+
+#: admin/includes/class-apwp-labels.php:708
+msgid "disabled"
+msgstr "désactivée"
+
+#: admin/includes/class-apwp-labels.php:709
+msgid "Are you sure you want to mark this product as \"discontinued\"?"
+msgstr "Êtes-vous sûr de vouloir marquer ce produit comme \"discontinué\"?"
+
+#: admin/includes/class-apwp-labels.php:710
+msgid "Discontinue"
+msgstr "Cesser"
+
+#: admin/includes/class-apwp-labels.php:712
+msgid "Discount"
+msgstr "Rabais"
+
+#: admin/includes/class-apwp-labels.php:713
+msgid "Discount tag line"
+msgstr "Ligne de balise de remise"
+
+#: admin/includes/class-apwp-labels.php:714
+msgid "Product type: downloadable"
+msgstr "Type de produit: téléchargeable"
+
+#: admin/includes/class-apwp-labels.php:715
+msgid "Downloadable product"
+msgstr "Produit téléchargeable"
+
+#: admin/includes/class-apwp-labels.php:716
+msgid "Edit"
+msgstr "Modifier"
+
+#: admin/includes/class-apwp-labels.php:717
+msgid "Empty trash"
+msgstr "Poubelle vide"
+
+#: admin/includes/class-apwp-labels.php:718
+msgid "Empty the trash?"
+msgstr "Vider la poubelle?"
+
+#: admin/includes/class-apwp-labels.php:720
+msgid "Sale end date."
+msgstr "Date de fin de vente."
+
+#: admin/includes/class-apwp-labels.php:721
+msgid "Product type: external"
+msgstr "Type de produit: externe"
+
+#: admin/includes/class-apwp-labels.php:722
+msgid "Failed to save! Please try again."
+msgstr "Échec de sauver! Veuillez réessayer."
+
+#: admin/includes/class-apwp-labels.php:723
+msgid "Product is featured"
+msgstr "Le produit est en vedette"
+
+#: admin/includes/class-apwp-labels.php:724
+msgid "Featured products"
+msgstr "Produits présentés"
+
+#: admin/includes/class-apwp-labels.php:725
+msgid "Filter"
+msgstr "Filtre"
+
+#: admin/includes/class-apwp-labels.php:726
+msgid "You are currently utilizing a FREE Trial period."
+msgstr "Vous utilisez actuellement une période d'essai GRATUITE."
+
+#: admin/includes/class-apwp-labels.php:727
+msgid "An error has occurred. Please try again."
+msgstr "Une erreur est survenue. Veuillez réessayer."
+
+#: admin/includes/class-apwp-labels.php:728
+msgid "Product type: grouped"
+msgstr "Type de produit: groupé"
+
+#: admin/includes/class-apwp-labels.php:729
+msgid "Hide product variations"
+msgstr "Masquer les variantes du produit"
+
+#: admin/includes/class-apwp-labels.php:730
+msgid "Click anywhere to hide the legend."
+msgstr "Cliquez n'importe où pour masquer la légende."
+
+#: admin/includes/class-apwp-labels.php:731
+msgid "In stock"
+msgstr "En stock"
+
+#: admin/includes/class-apwp-labels.php:732
+msgid "Include \"On Sale! ##&#37 discount\" on sale items"
+msgstr "Inclure \"En solde! ##&#37 rabais\" sur les articles en solde"
+
+#: admin/includes/class-apwp-labels.php:733
+msgid "Inventory list"
+msgstr "Liste d'inventaire"
+
+#: admin/includes/class-apwp-labels.php:734
+msgid "Products with stock issues"
+msgstr "Produits avec des problèmes de stock"
+
+#: admin/includes/class-apwp-labels.php:735
+msgid "Last refresh"
+msgstr "Dernière actualisation"
+
+#: admin/includes/class-apwp-labels.php:736
+msgid "Last 30 days"
+msgstr "Les 30 derniers jours"
+
+#: admin/includes/class-apwp-labels.php:737
+msgid "Last 7 days"
+msgstr "Les 7 derniers jours"
+
+#: admin/includes/class-apwp-labels.php:738
+msgid ""
+"This shows the percentage of discount and the amount of the discount for the "
+"sale price."
+msgstr ""
+"Cela montre le pourcentage de remise et le montant de la remise pour le prix "
+"de vente."
+
+#: admin/includes/class-apwp-labels.php:739
+msgid "Low stock amounts"
+msgstr "Stocks faibles"
+
+#: admin/includes/class-apwp-labels.php:740
+msgid "Set low stock indicator"
+msgstr "Définir un indicateur de faible stock"
+
+#: admin/includes/class-apwp-labels.php:741
+msgid "Enter low stock amount"
+msgstr "Entrez faible quantité en stock"
+
+#: admin/includes/class-apwp-labels.php:742
+msgid ""
+"Set this value to a number that indicates when you would like to be shown "
+"that the product is getting low on inventory. Stock amounts below this value "
+"will be highlighted on the Product List tab."
+msgstr ""
+"Définissez cette valeur sur un nombre indiquant à quel moment vous souhaitez "
+"afficher le niveau de stock du produit. Les quantités en stock inférieures à "
+"cette valeur seront mises en surbrillance dans l'onglet Liste de produits."
+
+#: admin/includes/class-apwp-labels.php:743
+msgid ""
+"Set this value to a number that indicates when you would like to be shown "
+"that the product margin is too low. Product margins below this value will be "
+"displayed in red on the Product List tab."
+msgstr ""
+"Définissez cette valeur sur un nombre indiquant à quel moment vous souhaitez "
+"que la marge du produit soit trop faible. Les marges de produit inférieures "
+"à cette valeur seront affichées en rouge dans l'onglet Liste de produits."
+
+#: admin/includes/class-apwp-labels.php:744
+msgid ""
+"If you are unsure about what to set as your low margin value, look at your "
+"products that have costs added in and use an average of those margins to "
+"help you with this setting."
+msgstr ""
+"Si vous ne savez pas ce qui doit être défini comme valeur de faible marge, "
+"examinez les produits pour lesquels des coûts ont été ajoutés et utilisez "
+"une moyenne de ces marges pour vous aider dans ce réglage."
+
+#: admin/includes/class-apwp-labels.php:745
+msgid "Set low margin indicator"
+msgstr "Définir l'indicateur de marge basse"
+
+#: admin/includes/class-apwp-labels.php:746
+msgid "Enter low margin amount"
+msgstr "Entrer un faible montant"
+
+#: admin/includes/class-apwp-labels.php:747
+msgid "Item is stock managed"
+msgstr "L'article est stocké"
+
+#: admin/includes/class-apwp-labels.php:748
+msgid "Margin"
+msgstr "Marge"
+
+#: admin/includes/class-apwp-labels.php:749
+msgid "Add on sale and discount percentage"
+msgstr "Ajouter en vente et pourcentage de remise"
+
+#: admin/includes/class-apwp-labels.php:750
+msgid ""
+"While using a LOCALHOST server, all posts will be simulated and all calls to "
+"Bitly.com suspended."
+msgstr ""
+"Lors de l'utilisation d'un serveur LOCALHOST, toutes les publications seront "
+"simulées et tous les appels à Bitly.com suspendus."
+
+#: admin/includes/class-apwp-labels.php:751
+msgid "This table shows your products and their click statistics."
+msgstr "Ce tableau présente vos produits et leurs statistiques de clics."
+
+#: admin/includes/class-apwp-labels.php:752
+msgid ""
+"The total number of products with statistics enabled and excluding product "
+"variations."
+msgstr ""
+"Nombre total de produits pour lesquels les statistiques sont activées et "
+"excluant les variantes de produit."
+
+#: admin/includes/class-apwp-labels.php:753
+msgid "The total number of products without any reported click data."
+msgstr "Le nombre total de produits sans aucune donnée de clic signalée."
+
+#: admin/includes/class-apwp-labels.php:754
+msgid "The total number of clicks reported for all products combined."
+msgstr "Nombre total de clics enregistrés pour tous les produits combinés."
+
+#: admin/includes/class-apwp-labels.php:755
+msgid ""
+"The average number of clicks per product. This number does not include "
+"products without click data."
+msgstr ""
+"Le nombre moyen de clics par produit. Ce nombre n'inclut pas les produits "
+"sans données de clic."
+
+#: admin/includes/class-apwp-labels.php:756
+msgid "While using a LOCALHOST server, statistics are automatically disabled."
+msgstr ""
+"Lors de l'utilisation d'un serveur LOCALHOST, les statistiques sont "
+"automatiquement désactivées."
+
+#: admin/includes/class-apwp-labels.php:757
+msgid ""
+"Check this box to enable a WordPress CRON job to check for data from Bitly."
+"com every four hours."
+msgstr ""
+"Cochez cette case pour permettre à un travail WordPress CRON de vérifier les "
+"données de Bitly.com toutes les quatre heures."
+
+#: admin/includes/class-apwp-labels.php:758
+msgid "WooCommerce product management and product posting to social media"
+msgstr ""
+"Gestion des produits WooCommerce et publication de produits sur les réseaux "
+"sociaux"
+
+#: admin/includes/class-apwp-labels.php:759
+msgid "million"
+msgstr "million"
+
+#: admin/includes/class-apwp-labels.php:760
+msgid "Move to trash"
+msgstr "Mettre à la corbeille"
+
+#: admin/includes/class-apwp-labels.php:761
+msgid "Stats will refresh in"
+msgstr "Les statistiques seront actualisées dans"
+
+#: admin/includes/class-apwp-labels.php:762
+msgid "Backordering not allowed"
+msgstr "Retour de commande non autorisé"
+
+#: admin/includes/class-apwp-labels.php:763
+msgid "Products with no data"
+msgstr "Produits sans données"
+
+#: admin/includes/class-apwp-labels.php:764
+msgid "No dates set"
+msgstr "Aucune date fixée"
+
+#: admin/includes/class-apwp-labels.php:765
+msgid "Do not notify user of backorder"
+msgstr "Ne pas avertir l'utilisateur de la commande en souffrance"
+
+#: admin/includes/class-apwp-labels.php:766
+msgid ""
+"You do not have permission to perform this action. Please ask your Admin."
+msgstr ""
+"Vous n'êtes pas autorisé à effectuer cette action. S'il vous plaît demander "
+"à votre administrateur."
+
+#: admin/includes/class-apwp-labels.php:767
+msgid "same"
+msgstr "même"
+
+#: admin/includes/class-apwp-labels.php:768
+msgid "No products found. Please change your options above."
+msgstr "Aucun produit trouvé. Veuillez modifier vos options ci-dessus."
+
+#: admin/includes/class-apwp-labels.php:769
+msgid "Products with no sales"
+msgstr "Produits sans ventes"
+
+#: admin/includes/class-apwp-labels.php:770
+msgid "No variations found"
+msgstr "Aucune variation trouvée"
+
+#: admin/includes/class-apwp-labels.php:771
+msgid "None"
+msgstr "Aucun"
+
+#: admin/includes/class-apwp-labels.php:772
+msgid "Product is not featured"
+msgstr "Le produit n'est pas présenté"
+
+#: admin/includes/class-apwp-labels.php:773
+msgid "Item is not stock managed"
+msgstr "L'article n'est pas géré en stock"
+
+#: admin/includes/class-apwp-labels.php:774
+msgid "Not recently shared"
+msgstr "L'article a été récemment partagé"
+
+#: admin/includes/class-apwp-labels.php:775
+msgid "Notify user of backorder"
+msgstr "Aviser l'utilisateur de la commande en souffrance"
+
+#: admin/includes/class-apwp-labels.php:776
+msgid "Out of stock"
+msgstr "En rupture de stock"
+
+#: admin/includes/class-apwp-labels.php:777
+msgid "parent"
+msgstr "parent"
+
+#: admin/includes/class-apwp-labels.php:778
+msgid "BUSINESS"
+msgstr "ENTREPRISE"
+
+#: admin/includes/class-apwp-labels.php:779
+msgid "FREE"
+msgstr "GRATUIT"
+
+#: admin/includes/class-apwp-labels.php:780
+msgid "PROFESSIONAL"
+msgstr "PROFESSIONNEL"
+
+#: admin/includes/class-apwp-labels.php:781
+msgid "STARTER"
+msgstr "ENTRÉE"
+
+#: admin/includes/class-apwp-labels.php:782
+msgid "Product variation:"
+msgstr "Variation du produit:"
+
+#: admin/includes/class-apwp-labels.php:783
+msgid "Product click statistics"
+msgstr "Statistiques sur les clics sur les produits"
+
+#: admin/includes/class-apwp-labels.php:784
+msgid "Product cost"
+msgstr "Coût du produit"
+
+#: admin/includes/class-apwp-labels.php:785
+msgid "Product type"
+msgstr "Type de produit"
+
+#: admin/includes/class-apwp-labels.php:786
+msgid "Products on sale"
+msgstr "Produits en vente"
+
+#: admin/includes/class-apwp-labels.php:787
+msgid "Stock quantity"
+msgstr "Quantité en stock"
+
+#: admin/includes/class-apwp-labels.php:788
+msgid "Quick Edit"
+msgstr "Edition rapide"
+
+#: admin/includes/class-apwp-labels.php:789
+msgid ""
+"If you recently updated our plugin and items are not displaying properly, "
+"the easiest fix for this is to clear your browser cache. Doing so will "
+"delete the CSS Style sheet and load the current one. Many times this is the "
+"cause of this type of issue."
+msgstr ""
+"Si vous avez récemment mis à jour notre plug-in et que les éléments ne "
+"s'affichent pas correctement, la solution la plus simple consiste à vider le "
+"cache de votre navigateur. Cela effacera la feuille de style CSS et chargera "
+"la feuille courante. Plusieurs fois, c'est la cause de ce type de problème."
+
+#: admin/includes/class-apwp-labels.php:790
+msgid ""
+"Don't forget to enable the Twitter and Facebook meta tag options. These will "
+"add the proper SEO meta open graph tags to your product pages. Some of the "
+"tags included are specific to telling the social media site that this is a "
+"product for sale and not a regular blog posting. If you use the plugin Yoast "
+"SEO, you may need to disable the Twitter meta descriptions in Yoast if you "
+"experience problems with your Tweets not showing properly."
+msgstr ""
+"N'oubliez pas d'activer les options de balises méta Twitter et Facebook. "
+"Celles-ci ajouteront les balises de graphique méta ouvertes appropriées à "
+"votre site Web. Certaines des balises incluses sont spécifiques pour "
+"indiquer au site de média social qu'il s'agit d'un produit en vente et non "
+"d'un blog. Si vous utilisez le plugin Yoast SEO, vous devrez peut-être "
+"désactiver les méta descriptions Twitter dans Yoast si vous rencontrez des "
+"problèmes avec vos Tweets ne s'affichant pas correctement."
+
+#: admin/includes/class-apwp-labels.php:791
+msgid ""
+"Finally, click on the Schedule tab. Scroll down the page until you see the "
+"section \"Set your schedule\". Select how often you would like to "
+"automatically post a product to Twitter and save. You are now setup and your "
+"CRON schedule is activated! Your first auto post to Twitter has been sent."
+msgstr ""
+"Enfin, cliquez sur l'onglet Calendrier. Faites défiler la page jusqu'à la "
+"section \"Définissez votre emploi du temps\". Sélectionnez la fréquence à "
+"laquelle vous souhaitez publier automatiquement un produit sur Twitter et "
+"enregistrez. Vous êtes maintenant configuré et votre horaire CRON est "
+"activé! Votre premier post automatique sur Twitter a été envoyé."
+
+#: admin/includes/class-apwp-labels.php:792
+msgid ""
+"Simply press Ctrl Shift Delete on your keyboard, holding all three buttons "
+"down to open the browser window for erasing temporary internet files. When "
+"you have the window open, make sure the option for CACHE is checked and any "
+"others you would like the browser to delete. Refresh the page and everything "
+"should look fine."
+msgstr ""
+"Appuyez simplement sur les touches Ctrl Maj Suppr de votre clavier, en "
+"maintenant les trois boutons enfoncés pour ouvrir la fenêtre du navigateur "
+"permettant d’effacer les fichiers Internet temporaires. Lorsque la fenêtre "
+"est ouverte, assurez-vous que l'option CACHE est cochée et que toutes les "
+"autres que vous souhaitez que le navigateur supprime. Actualisez la page et "
+"tout devrait bien paraître."
+
+#: admin/includes/class-apwp-labels.php:793
+msgid ""
+"If you are seeing the above error regarding your Apache server cURL "
+"installation, please click the link in the error box for instructions on "
+"enabling this module. This is required for auto posting to function."
+msgstr ""
+"Si vous voyez l'erreur ci-dessus concernant l'installation de votre serveur "
+"Apache cURL, cliquez sur le lien dans la zone d'erreur pour obtenir des "
+"instructions sur l'activation de ce module. Ceci est nécessaire pour que la "
+"publication automatique fonctionne."
+
+#: admin/includes/class-apwp-labels.php:794
+msgid ""
+"If this is the first time you have installed this plugin, you should be "
+"seeing the following messages on your screen:"
+msgstr ""
+"Si c'est la première fois que vous installez ce plugin, vous devriez voir "
+"les messages suivants sur votre écran:"
+
+#: admin/includes/class-apwp-labels.php:795
+msgid ""
+"This message is telling you to enter the Twitter and Bitly API access codes. "
+"To get your codes, click on the Settings tab, scroll to the bottom and then "
+"click on the link to create a Twitter App. If you wish to skip setting this "
+"up, you may disable the Twitter auto posting feature on the"
+msgstr ""
+"Ce message vous invite à saisir les codes d’accès Twitter et Bitly API. Pour "
+"obtenir vos codes, cliquez sur l'onglet Paramètres, faites défiler vers le "
+"bas, puis cliquez sur le lien pour créer une application Twitter. Si vous "
+"souhaitez ignorer la configuration, vous pouvez désactiver la fonctionnalité "
+"d'envoi automatique de Twitter sur le"
+
+#: admin/includes/class-apwp-labels.php:796
+msgid ""
+"Once you have completed creating your apps and entering your codes into the "
+"corresponding boxes, save your settings. Now you should be seeing the "
+"following messages:"
+msgstr ""
+"Une fois vos applications créées et vos codes saisis, enregistrez vos "
+"paramètres. Vous devriez maintenant voir les messages suivants:"
+
+#: admin/includes/class-apwp-labels.php:797
+msgid ""
+"This is a very simple step. Click on the Categories tab and you should see a "
+"listing of all your product categories for WooCommerce. Select as many "
+"categories as you would like and save your settings. The categories you "
+"select will allow all products within those categories to be auto posted to "
+"Twitter."
+msgstr ""
+"C'est une étape très simple. Cliquez sur l'onglet Catégories et vous devriez "
+"voir une liste de toutes vos catégories de produits pour WooCommerce. "
+"Sélectionnez autant de catégories que vous le souhaitez et enregistrez vos "
+"paramètres. Les catégories que vous sélectionnez permettront à tous les "
+"produits de ces catégories d'être automatiquement publiés sur Twitter."
+
+#: admin/includes/class-apwp-labels.php:798
+msgid ""
+"Also, when you have a product with multiple categories, if one of the "
+"categories attached to that product is not selected then the product will "
+"not be set for auto posting. In this case, if you want that product included "
+"in auto posting, you may turn it on under the ID column of the Product List "
+"Tab."
+msgstr ""
+"De même, lorsque vous avez un produit avec plusieurs catégories, si l’une "
+"des catégories attachées à ce produit n’est pas sélectionnée, le produit ne "
+"sera pas défini pour la publication automatique. Dans ce cas, si vous "
+"souhaitez que ce produit soit inclus dans la comptabilisation automatique, "
+"vous pouvez l'activer dans la colonne ID de l'onglet Liste de produits."
+
+#: admin/includes/class-apwp-labels.php:799
+msgid ""
+"Now click on the Settings tab and enter the hashtags you would like added to "
+"your posts and save them. The \"Clean database\" when uninstalling setting "
+"is for removal of ALL data this plugin has stored in the WordPress database "
+"if removing this plugin. Any other options that are available in your "
+"version (pro plans) are also listed here."
+msgstr ""
+"Maintenant, cliquez sur l'onglet Paramètres et entrez les hashtags que vous "
+"souhaitez ajouter à vos messages et sauvegardez-les. Le paramètre \"Nettoyer "
+"la base de données\" lors de la désinstallation sert à supprimer TOUTES les "
+"données que ce plugin a stockées dans la base de données WordPress si vous "
+"supprimez ce plugin. Toutes les autres options disponibles dans votre "
+"version (plans pro) sont également répertoriées ici."
+
+#: admin/includes/class-apwp-labels.php:800
+msgid "Recently shared"
+msgstr "L'article a été récemment partagé"
+
+#: admin/includes/class-apwp-labels.php:801
+msgid "Product data is currently being refreshed. Please wait."
+msgstr ""
+"Les données du produit sont en cours d'actualisation. S'il vous plaît, "
+"attendez."
+
+#: admin/includes/class-apwp-labels.php:803
+msgid "Remove as featured product"
+msgstr "Supprimer comme produit en vedette"
+
+#: admin/includes/class-apwp-labels.php:804
+msgid "Product statistics disabled"
+msgstr "Statistiques du produit désactivées"
+
+#: admin/includes/class-apwp-labels.php:805
+msgid "Restore"
+msgstr "Restaurer"
+
+#: admin/includes/class-apwp-labels.php:807
+msgid "Save changes"
+msgstr "Sauvegarder les modifications"
+
+#: admin/includes/class-apwp-labels.php:809
+msgid "Schedule tab"
+msgstr "Onglet Calendrier"
+
+#: admin/includes/class-apwp-labels.php:810
+msgid "Scheduled to be shared"
+msgstr "Prévu pour être partagé"
+
+#: admin/includes/class-apwp-labels.php:811
+msgid "Search"
+msgstr "Chercher"
+
+#: admin/includes/class-apwp-labels.php:812
+msgid "Search within results"
+msgstr "Chercher dans les résultats"
+
+#: admin/includes/class-apwp-labels.php:813
+msgid "Searched for"
+msgstr "Recherché pour"
+
+#: admin/includes/class-apwp-labels.php:814
+msgid "WordPress security check failed. Please try again."
+msgstr "La vérification de sécurité de WordPress a échoué. Veuillez réessayer."
+
+#: admin/includes/class-apwp-labels.php:815
+msgid "View the parent product for the information."
+msgstr "Afficher le produit parent pour les informations."
+
+#: admin/includes/class-apwp-labels.php:816
+msgid "See children"
+msgstr "Voir les enfants"
+
+#: admin/includes/class-apwp-labels.php:817
+msgid "Select all"
+msgstr "Tout sélectionner"
+
+#: admin/includes/class-apwp-labels.php:818
+msgid "Set as featured product"
+msgstr "Définir comme produit en vedette"
+
+#: admin/includes/class-apwp-labels.php:819
+msgid "Settings tab"
+msgstr "Onglet Paramètres"
+
+#: admin/includes/class-apwp-labels.php:821
+msgid "Share"
+msgstr "Partager"
+
+#: admin/includes/class-apwp-labels.php:822
+msgid "Share to social media"
+msgstr "Partager sur les médias sociaux"
+
+#: admin/includes/class-apwp-labels.php:823
+msgid "Show all"
+msgstr "Montre tout"
+
+#: admin/includes/class-apwp-labels.php:824
+msgid "Click to show table legend"
+msgstr "Cliquez pour afficher la légende du tableau"
+
+#: admin/includes/class-apwp-labels.php:825
+msgid "Product type: simple"
+msgstr "Type de produit: simple"
+
+#: admin/includes/class-apwp-labels.php:826
+msgid "Setup auto posting on other social media accounts"
+msgstr ""
+"Configurer la publication automatique sur d'autres comptes de médias sociaux"
+
+#: admin/includes/class-apwp-labels.php:828
+msgid "Sold in any quantity"
+msgstr "Vendu en toute quantité"
+
+#: admin/includes/class-apwp-labels.php:829
+msgid "Sale start date."
+msgstr "Date de début de la vente."
+
+#: admin/includes/class-apwp-labels.php:830
+msgid "Product stock status does not match with stock quantity"
+msgstr "L'état du stock de produit ne correspond pas à la quantité de stock"
+
+#: admin/includes/class-apwp-labels.php:831
+msgid "Thank you for using our plugin!"
+msgstr "Merci d'utiliser notre plugin!"
+
+#: admin/includes/class-apwp-labels.php:832
+msgid "To get you started we will go over the basics."
+msgstr "Pour commencer, nous allons passer en revue les bases."
+
+#: admin/includes/class-apwp-labels.php:833
+msgid "thousand"
+msgstr "mille"
+
+#: admin/includes/class-apwp-labels.php:834
+msgid "Auto Post WooCommerce Products"
+msgstr "Auto post produits WooCommerce"
+
+#: admin/includes/class-apwp-labels.php:835
+msgid "Auto Post WooCommerce Products - Bulk Edit"
+msgstr "Produits Auto Post WooCommerce - Modification en bloc"
+
+#: admin/includes/class-apwp-labels.php:836
+msgid "Auto Post WooCommerce Products - Edit"
+msgstr "Auto Post Produits WooCommerce - Modifier"
+
+#: admin/includes/class-apwp-labels.php:837
+msgid "Auto Post WooCommerce Products - Share"
+msgstr "Auto Post Produits WooCommerce - Partager"
+
+#: admin/includes/class-apwp-labels.php:839
+msgid "Today"
+msgstr "Aujourd'hui"
+
+#: admin/includes/class-apwp-labels.php:840
+msgid "Total"
+msgstr "Total"
+
+#: admin/includes/class-apwp-labels.php:841
+msgid "Total products"
+msgstr "Total produits"
+
+#: admin/includes/class-apwp-labels.php:843
+msgid "Trash has been emptied."
+msgstr "La corbeille a été vidée."
+
+#: admin/includes/class-apwp-labels.php:844
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/includes/class-apwp-labels.php:846
+msgid "on backorder"
+msgstr "en rupture de stock"
+
+#: admin/includes/class-apwp-labels.php:847
+msgid "featured products"
+msgstr "produits présentés"
+
+#: admin/includes/class-apwp-labels.php:848
+msgid "low stock amounts"
+msgstr "faibles quantités en stock"
+
+#: admin/includes/class-apwp-labels.php:849
+msgid "products with no sales"
+msgstr "produits sans ventes"
+
+#: admin/includes/class-apwp-labels.php:850
+msgid "not shared in 30 days"
+msgstr "pas partagé dans 30 jours"
+
+#: admin/includes/class-apwp-labels.php:851
+msgid "on sale"
+msgstr "en soldes"
+
+#: admin/includes/class-apwp-labels.php:852
+msgid "stock issues"
+msgstr "problèmes de stock"
+
+#: admin/includes/class-apwp-labels.php:853
+msgid "out of stock"
+msgstr "en rupture de stock"
+
+#: admin/includes/class-apwp-labels.php:854
+msgid "unknown"
+msgstr "inconnu"
+
+#: admin/includes/class-apwp-labels.php:855
+msgid "Unshared last 30 days"
+msgstr "Non partagé 30 derniers jours"
+
+#: admin/includes/class-apwp-labels.php:856
+msgid "Product data is being updated. Please try again in a few minutes."
+msgstr ""
+"Les données du produit sont en cours de mise à jour. S'il vous plait, "
+"réessayez dans quelques minutes."
+
+#: admin/includes/class-apwp-labels.php:857
+msgid "Product type: variable"
+msgstr "Type de produit: variable"
+
+#: admin/includes/class-apwp-labels.php:858
+msgid "Product type: variation"
+msgstr "Type de produit: variation"
+
+#: admin/includes/class-apwp-labels.php:859
+msgid "version"
+msgstr "version"
+
+#: admin/includes/class-apwp-labels.php:860
+msgid "View"
+msgstr "Vue"
+
+#: admin/includes/class-apwp-labels.php:861
+msgid "View all products"
+msgstr "Voir tous les produits"
+
+#: admin/includes/class-apwp-labels.php:862
+msgid "View trash"
+msgstr "Voir la corbeille"
+
+#: admin/includes/class-apwp-labels.php:863
+msgid "Virtual product. This is an intangible product such as a subscription."
+msgstr "Produit virtuel Ceci est un produit non tangible tel qu'un abonnement."
+
+#: admin/includes/class-apwp-labels.php:864
+msgid "Product type: virtual"
+msgstr "Type de produit: virtuel"
+
+#: admin/includes/display-quick-start-tab.php:47
+#, php-format
+msgid "What's new in version %s of APWCP"
+msgstr "Quoi de neuf dans la version %s de APWCP"
+
+#: admin/includes/pro/apwp-country-names.php:14
+msgid "Afghanistan"
+msgstr "L'Afghanistan"
+
+#: admin/includes/pro/apwp-country-names.php:15
+msgid "Aland Islands"
+msgstr "Iles Aland"
+
+#: admin/includes/pro/apwp-country-names.php:16
+msgid "Albania"
+msgstr "Albanie"
+
+#: admin/includes/pro/apwp-country-names.php:17
+msgid "Algeria"
+msgstr "Algérie"
+
+#: admin/includes/pro/apwp-country-names.php:18
+msgid "American Samoa"
+msgstr "Samoa américaines"
+
+#: admin/includes/pro/apwp-country-names.php:19
+msgid "Andorra"
+msgstr "Andorre"
+
+#: admin/includes/pro/apwp-country-names.php:20
+msgid "Angola"
+msgstr "Angola"
+
+#: admin/includes/pro/apwp-country-names.php:21
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: admin/includes/pro/apwp-country-names.php:22
+msgid "Antarctica"
+msgstr "Antarctique"
+
+#: admin/includes/pro/apwp-country-names.php:23
+msgid "Antigua and Barbuda"
+msgstr "Antigua-et-Barbuda"
+
+#: admin/includes/pro/apwp-country-names.php:24
+msgid "Argentina"
+msgstr "Argentine"
+
+#: admin/includes/pro/apwp-country-names.php:25
+msgid "Armenia"
+msgstr "Arménie"
+
+#: admin/includes/pro/apwp-country-names.php:26
+msgid "Aruba"
+msgstr "Aruba"
+
+#: admin/includes/pro/apwp-country-names.php:27
+msgid "Australia"
+msgstr "Australie"
+
+#: admin/includes/pro/apwp-country-names.php:28
+msgid "Austria"
+msgstr "L'Autriche"
+
+#: admin/includes/pro/apwp-country-names.php:29
+msgid "Azerbaijan"
+msgstr "Azerbaïdjan"
+
+#: admin/includes/pro/apwp-country-names.php:30
+msgid "Bahamas the"
+msgstr "Bahamas le"
+
+#: admin/includes/pro/apwp-country-names.php:31
+msgid "Bahrain"
+msgstr "Bahreïn"
+
+#: admin/includes/pro/apwp-country-names.php:32
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: admin/includes/pro/apwp-country-names.php:33
+msgid "Barbados"
+msgstr "La Barbade"
+
+#: admin/includes/pro/apwp-country-names.php:34
+msgid "Belarus"
+msgstr "Biélorussie"
+
+#: admin/includes/pro/apwp-country-names.php:35
+msgid "Belgium"
+msgstr "Belgique"
+
+#: admin/includes/pro/apwp-country-names.php:36
+msgid "Belize"
+msgstr "Belize"
+
+#: admin/includes/pro/apwp-country-names.php:37
+msgid "Benin"
+msgstr "Bénin"
+
+#: admin/includes/pro/apwp-country-names.php:38
+msgid "Bermuda"
+msgstr "Bermudes"
+
+#: admin/includes/pro/apwp-country-names.php:39
+msgid "Bhutan"
+msgstr "Bhoutan"
+
+#: admin/includes/pro/apwp-country-names.php:40
+msgid "Bolivia"
+msgstr "Bolivie"
+
+#: admin/includes/pro/apwp-country-names.php:41
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnie Herzégovine"
+
+#: admin/includes/pro/apwp-country-names.php:42
+msgid "Botswana"
+msgstr "Botswana"
+
+#: admin/includes/pro/apwp-country-names.php:43
+msgid "Bouvet Island (Bouvetoya)"
+msgstr "Île Bouvet (Bouvetoya)"
+
+#: admin/includes/pro/apwp-country-names.php:44
+msgid "Brazil"
+msgstr "Brésil"
+
+#: admin/includes/pro/apwp-country-names.php:45
+msgid "British Indian Ocean Territory (Chagos Archipelago)"
+msgstr ""
+"L'océan Indien (archipel des Chagos) l'océan Indien (archipel des Chagos)"
+
+#: admin/includes/pro/apwp-country-names.php:46
+msgid "British Virgin Islands"
+msgstr "Îles Vierges britanniques"
+
+#: admin/includes/pro/apwp-country-names.php:47
+msgid "Brunei Darussalam"
+msgstr "Brunei Darussalam"
+
+#: admin/includes/pro/apwp-country-names.php:48
+msgid "Bulgaria"
+msgstr "Bulgarie"
+
+#: admin/includes/pro/apwp-country-names.php:49
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: admin/includes/pro/apwp-country-names.php:50
+msgid "Burundi"
+msgstr "Burundi"
+
+#: admin/includes/pro/apwp-country-names.php:51
+msgid "Cambodia"
+msgstr "Cambodge"
+
+#: admin/includes/pro/apwp-country-names.php:52
+msgid "Cameroon"
+msgstr "Cameroun"
+
+#: admin/includes/pro/apwp-country-names.php:53
+msgid "Canada"
+msgstr "Canada"
+
+#: admin/includes/pro/apwp-country-names.php:54
+msgid "Cape Verde"
+msgstr "Cap-Vert"
+
+#: admin/includes/pro/apwp-country-names.php:55
+msgid "Cayman Islands"
+msgstr "Îles Caïmans"
+
+#: admin/includes/pro/apwp-country-names.php:56
+msgid "Central African Republic"
+msgstr "République centrafricaine"
+
+#: admin/includes/pro/apwp-country-names.php:57
+msgid "Chad"
+msgstr "Le tchad"
+
+#: admin/includes/pro/apwp-country-names.php:58
+msgid "Chile"
+msgstr "Chili"
+
+#: admin/includes/pro/apwp-country-names.php:59
+msgid "China"
+msgstr "Chine"
+
+#: admin/includes/pro/apwp-country-names.php:60
+msgid "Christmas Island"
+msgstr "L'île de noël"
+
+#: admin/includes/pro/apwp-country-names.php:61
+msgid "Cocos (Keeling) Islands"
+msgstr "Îles Cocos (Keeling)"
+
+#: admin/includes/pro/apwp-country-names.php:62
+msgid "Colombia"
+msgstr "Colombie"
+
+#: admin/includes/pro/apwp-country-names.php:63
+msgid "Comoros the"
+msgstr "Comores le"
+
+#: admin/includes/pro/apwp-country-names.php:64
+msgid "Congo"
+msgstr "Congo"
+
+#: admin/includes/pro/apwp-country-names.php:65
+msgid "Congo the"
+msgstr "Congo le"
+
+#: admin/includes/pro/apwp-country-names.php:66
+msgid "Cook Islands"
+msgstr "Les Îles Cook"
+
+#: admin/includes/pro/apwp-country-names.php:67
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: admin/includes/pro/apwp-country-names.php:68
+msgid "Cote d'Ivoire"
+msgstr "Cote d'ivoire"
+
+#: admin/includes/pro/apwp-country-names.php:69
+msgid "Croatia"
+msgstr "Croatie"
+
+#: admin/includes/pro/apwp-country-names.php:70
+msgid "Cuba"
+msgstr "Cuba"
+
+#: admin/includes/pro/apwp-country-names.php:71
+msgid "Cyprus"
+msgstr "Chypre"
+
+#: admin/includes/pro/apwp-country-names.php:72
+msgid "Czech Republic"
+msgstr "République Tchèque"
+
+#: admin/includes/pro/apwp-country-names.php:73
+msgid "Denmark"
+msgstr "Danemark"
+
+#: admin/includes/pro/apwp-country-names.php:74
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: admin/includes/pro/apwp-country-names.php:75
+msgid "Dominica"
+msgstr "Dominique"
+
+#: admin/includes/pro/apwp-country-names.php:76
+msgid "Dominican Republic"
+msgstr "République Dominicaine"
+
+#: admin/includes/pro/apwp-country-names.php:77
+msgid "Ecuador"
+msgstr "L'Équateur"
+
+#: admin/includes/pro/apwp-country-names.php:78
+msgid "Egypt"
+msgstr "Egypte"
+
+#: admin/includes/pro/apwp-country-names.php:79
+msgid "El Salvador"
+msgstr "Le Salvador"
+
+#: admin/includes/pro/apwp-country-names.php:80
+msgid "Equatorial Guinea"
+msgstr "Guinée Équatoriale"
+
+#: admin/includes/pro/apwp-country-names.php:81
+msgid "Eritrea"
+msgstr "Erythrée"
+
+#: admin/includes/pro/apwp-country-names.php:82
+msgid "Estonia"
+msgstr "Estonie"
+
+#: admin/includes/pro/apwp-country-names.php:83
+msgid "Ethiopia"
+msgstr "Ethiopie"
+
+#: admin/includes/pro/apwp-country-names.php:84
+msgid "Faroe Islands"
+msgstr "Îles Féroé"
+
+#: admin/includes/pro/apwp-country-names.php:85
+msgid "Falkland Islands (Malvinas)"
+msgstr "Iles Malouines (Malouines)"
+
+#: admin/includes/pro/apwp-country-names.php:86
+msgid "Fiji the Fiji Islands"
+msgstr "Fidji les îles Fidji"
+
+#: admin/includes/pro/apwp-country-names.php:87
+msgid "Finland"
+msgstr "Finlande"
+
+#: admin/includes/pro/apwp-country-names.php:88
+msgid "France, French Republic"
+msgstr "France, République française"
+
+#: admin/includes/pro/apwp-country-names.php:89
+msgid "French Guiana"
+msgstr "Guinée Française"
+
+#: admin/includes/pro/apwp-country-names.php:90
+msgid "French Polynesia"
+msgstr "Polynésie française"
+
+#: admin/includes/pro/apwp-country-names.php:91
+msgid "French Southern Territories"
+msgstr "Terres australes françaises"
+
+#: admin/includes/pro/apwp-country-names.php:92
+msgid "Gabon"
+msgstr "Gabon"
+
+#: admin/includes/pro/apwp-country-names.php:93
+msgid "Gambia the"
+msgstr "Gambie le"
+
+#: admin/includes/pro/apwp-country-names.php:94
+msgid "Georgia"
+msgstr "Géorgie"
+
+#: admin/includes/pro/apwp-country-names.php:95
+msgid "Germany"
+msgstr "Allemagne"
+
+#: admin/includes/pro/apwp-country-names.php:96
+msgid "Ghana"
+msgstr "Ghana"
+
+#: admin/includes/pro/apwp-country-names.php:97
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: admin/includes/pro/apwp-country-names.php:98
+msgid "Greece"
+msgstr "Grèce"
+
+#: admin/includes/pro/apwp-country-names.php:99
+msgid "Greenland"
+msgstr "Groenland"
+
+#: admin/includes/pro/apwp-country-names.php:100
+msgid "Grenada"
+msgstr "Grenade"
+
+#: admin/includes/pro/apwp-country-names.php:101
+msgid "Guadeloupe"
+msgstr "La guadeloupe"
+
+#: admin/includes/pro/apwp-country-names.php:102
+msgid "Guam"
+msgstr "Guam"
+
+#: admin/includes/pro/apwp-country-names.php:103
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: admin/includes/pro/apwp-country-names.php:104
+msgid "Guernsey"
+msgstr "Guernesey"
+
+#: admin/includes/pro/apwp-country-names.php:105
+msgid "Guinea"
+msgstr "Guinée"
+
+#: admin/includes/pro/apwp-country-names.php:106
+msgid "Guinea-Bissau"
+msgstr "Guinée-Bissau"
+
+#: admin/includes/pro/apwp-country-names.php:107
+msgid "Guyana"
+msgstr "Guyane"
+
+#: admin/includes/pro/apwp-country-names.php:108
+msgid "Haiti"
+msgstr "Haïti"
+
+#: admin/includes/pro/apwp-country-names.php:109
+msgid "Heard Island and McDonald Islands"
+msgstr "Îles Heard et McDonald"
+
+#: admin/includes/pro/apwp-country-names.php:110
+msgid "Holy See (Vatican City State)"
+msgstr "Saint-Siège (État de la Cité du Vatican)"
+
+#: admin/includes/pro/apwp-country-names.php:111
+msgid "Honduras"
+msgstr "Honduras"
+
+#: admin/includes/pro/apwp-country-names.php:112
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: admin/includes/pro/apwp-country-names.php:113
+msgid "Hungary"
+msgstr "Hongrie"
+
+#: admin/includes/pro/apwp-country-names.php:114
+msgid "Iceland"
+msgstr "Islande"
+
+#: admin/includes/pro/apwp-country-names.php:115
+msgid "India"
+msgstr "Inde"
+
+#: admin/includes/pro/apwp-country-names.php:116
+msgid "Indonesia"
+msgstr "Indonésie"
+
+#: admin/includes/pro/apwp-country-names.php:117
+msgid "Iran"
+msgstr "Iran"
+
+#: admin/includes/pro/apwp-country-names.php:118
+msgid "Iraq"
+msgstr "Irak"
+
+#: admin/includes/pro/apwp-country-names.php:119
+msgid "Ireland"
+msgstr "Irlande"
+
+#: admin/includes/pro/apwp-country-names.php:120
+msgid "Isle of Man"
+msgstr "Ile de Man"
+
+#: admin/includes/pro/apwp-country-names.php:121
+msgid "Israel"
+msgstr "Israël"
+
+#: admin/includes/pro/apwp-country-names.php:122
+msgid "Italy"
+msgstr "Italie"
+
+#: admin/includes/pro/apwp-country-names.php:123
+msgid "Jamaica"
+msgstr "Jamaïque"
+
+#: admin/includes/pro/apwp-country-names.php:124
+msgid "Japan"
+msgstr "Japon"
+
+#: admin/includes/pro/apwp-country-names.php:125
+msgid "Jersey"
+msgstr "Jersey"
+
+#: admin/includes/pro/apwp-country-names.php:126
+msgid "Jordan"
+msgstr "Jordan"
+
+#: admin/includes/pro/apwp-country-names.php:127
+msgid "Kazakhstan"
+msgstr "Le kazakhstan"
+
+#: admin/includes/pro/apwp-country-names.php:128
+msgid "Kenya"
+msgstr "Kenya"
+
+#: admin/includes/pro/apwp-country-names.php:129
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: admin/includes/pro/apwp-country-names.php:130
+#: admin/includes/pro/apwp-country-names.php:131
+msgid "Korea"
+msgstr "Corée"
+
+#: admin/includes/pro/apwp-country-names.php:132
+msgid "Kuwait"
+msgstr "Koweit"
+
+#: admin/includes/pro/apwp-country-names.php:133
+msgid "Kyrgyz Republic"
+msgstr "République du Kirghizistan"
+
+#: admin/includes/pro/apwp-country-names.php:134
+msgid "Lao"
+msgstr "Lao"
+
+#: admin/includes/pro/apwp-country-names.php:135
+msgid "Latvia"
+msgstr "Lettonie"
+
+#: admin/includes/pro/apwp-country-names.php:136
+msgid "Lebanon"
+msgstr "Liban"
+
+#: admin/includes/pro/apwp-country-names.php:137
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: admin/includes/pro/apwp-country-names.php:138
+msgid "Liberia"
+msgstr "Libéria"
+
+#: admin/includes/pro/apwp-country-names.php:139
+msgid "Libyan Arab Jamahiriya"
+msgstr "Jamahiriya arabe libyenne"
+
+#: admin/includes/pro/apwp-country-names.php:140
+msgid "Liechtenstein"
+msgstr "Le Liechtenstein"
+
+#: admin/includes/pro/apwp-country-names.php:141
+msgid "Lithuania"
+msgstr "Lituanie"
+
+#: admin/includes/pro/apwp-country-names.php:142
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+#: admin/includes/pro/apwp-country-names.php:143
+msgid "Macao"
+msgstr "Macao"
+
+#: admin/includes/pro/apwp-country-names.php:144
+msgid "Macedonia"
+msgstr "Macédoine"
+
+#: admin/includes/pro/apwp-country-names.php:145
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: admin/includes/pro/apwp-country-names.php:146
+msgid "Malawi"
+msgstr "Malawi"
+
+#: admin/includes/pro/apwp-country-names.php:147
+msgid "Malaysia"
+msgstr "Malaisie"
+
+#: admin/includes/pro/apwp-country-names.php:148
+msgid "Maldives"
+msgstr "Maldives"
+
+#: admin/includes/pro/apwp-country-names.php:149
+msgid "Mali"
+msgstr "Mali"
+
+#: admin/includes/pro/apwp-country-names.php:150
+msgid "Malta"
+msgstr "Malte"
+
+#: admin/includes/pro/apwp-country-names.php:151
+msgid "Marshall Islands"
+msgstr "Iles Marshall"
+
+#: admin/includes/pro/apwp-country-names.php:152
+msgid "Martinique"
+msgstr "Martinique"
+
+#: admin/includes/pro/apwp-country-names.php:153
+msgid "Mauritania"
+msgstr "Mauritanie"
+
+#: admin/includes/pro/apwp-country-names.php:154
+msgid "Mauritius"
+msgstr "Maurice"
+
+#: admin/includes/pro/apwp-country-names.php:155
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: admin/includes/pro/apwp-country-names.php:156
+msgid "Mexico"
+msgstr "Mexique"
+
+#: admin/includes/pro/apwp-country-names.php:157
+msgid "Micronesia"
+msgstr "Micronésie"
+
+#: admin/includes/pro/apwp-country-names.php:158
+msgid "Moldova"
+msgstr "La Moldavie"
+
+#: admin/includes/pro/apwp-country-names.php:159
+msgid "Monaco"
+msgstr "Monaco"
+
+#: admin/includes/pro/apwp-country-names.php:160
+msgid "Mongolia"
+msgstr "Mongolie"
+
+#: admin/includes/pro/apwp-country-names.php:161
+msgid "Montenegro"
+msgstr "Monténégro"
+
+#: admin/includes/pro/apwp-country-names.php:162
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: admin/includes/pro/apwp-country-names.php:163
+msgid "Morocco"
+msgstr "Maroc"
+
+#: admin/includes/pro/apwp-country-names.php:164
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: admin/includes/pro/apwp-country-names.php:165
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: admin/includes/pro/apwp-country-names.php:166
+msgid "Namibia"
+msgstr "Namibie"
+
+#: admin/includes/pro/apwp-country-names.php:167
+msgid "Nauru"
+msgstr "Nauru"
+
+#: admin/includes/pro/apwp-country-names.php:168
+msgid "Nepal"
+msgstr "Népal"
+
+#: admin/includes/pro/apwp-country-names.php:169
+msgid "Netherlands Antilles"
+msgstr "Antilles néerlandaises"
+
+#: admin/includes/pro/apwp-country-names.php:170
+msgid "Netherlands the"
+msgstr "Pays-Bas le"
+
+#: admin/includes/pro/apwp-country-names.php:171
+msgid "New Caledonia"
+msgstr "Nouvelle Calédonie"
+
+#: admin/includes/pro/apwp-country-names.php:172
+msgid "New Zealand"
+msgstr "Nouvelle-Zélande"
+
+#: admin/includes/pro/apwp-country-names.php:173
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: admin/includes/pro/apwp-country-names.php:174
+msgid "Niger"
+msgstr "Niger"
+
+#: admin/includes/pro/apwp-country-names.php:175
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: admin/includes/pro/apwp-country-names.php:176
+msgid "Niue"
+msgstr "Niue"
+
+#: admin/includes/pro/apwp-country-names.php:177
+msgid "Norfolk Island"
+msgstr "L'ile de Norfolk"
+
+#: admin/includes/pro/apwp-country-names.php:178
+msgid "Northern Mariana Islands"
+msgstr "Îles Mariannes du Nord"
+
+#: admin/includes/pro/apwp-country-names.php:179
+msgid "Norway"
+msgstr "Norvège"
+
+#: admin/includes/pro/apwp-country-names.php:180
+msgid "Oman"
+msgstr "Oman"
+
+#: admin/includes/pro/apwp-country-names.php:181
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: admin/includes/pro/apwp-country-names.php:182
+msgid "Palau"
+msgstr "Palau"
+
+#: admin/includes/pro/apwp-country-names.php:183
+msgid "Palestinian Territory"
+msgstr "Territoire Palestinien"
+
+#: admin/includes/pro/apwp-country-names.php:184
+msgid "Panama"
+msgstr "Panama"
+
+#: admin/includes/pro/apwp-country-names.php:185
+msgid "Papua New Guinea"
+msgstr "Papouasie Nouvelle Guinée"
+
+#: admin/includes/pro/apwp-country-names.php:186
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: admin/includes/pro/apwp-country-names.php:187
+msgid "Peru"
+msgstr "Pérou"
+
+#: admin/includes/pro/apwp-country-names.php:188
+msgid "Philippines"
+msgstr "Philippines"
+
+#: admin/includes/pro/apwp-country-names.php:189
+msgid "Pitcairn Islands"
+msgstr "Îles Pitcairn"
+
+#: admin/includes/pro/apwp-country-names.php:190
+msgid "Poland"
+msgstr "Pologne"
+
+#: admin/includes/pro/apwp-country-names.php:191
+msgid "Portugal; Portuguese Republic"
+msgstr "Le Portugal; République portugaise"
+
+#: admin/includes/pro/apwp-country-names.php:192
+msgid "Puerto Rico"
+msgstr "Porto Rico"
+
+#: admin/includes/pro/apwp-country-names.php:193
+msgid "Qatar"
+msgstr "Qatar"
+
+#: admin/includes/pro/apwp-country-names.php:194
+msgid "Reunion"
+msgstr "Réunion"
+
+#: admin/includes/pro/apwp-country-names.php:195
+msgid "Romania"
+msgstr "Roumanie"
+
+#: admin/includes/pro/apwp-country-names.php:196
+msgid "Russian Federation"
+msgstr "Fédération Russe"
+
+#: admin/includes/pro/apwp-country-names.php:197
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: admin/includes/pro/apwp-country-names.php:198
+msgid "Saint Barthelemy"
+msgstr "Saint Barthélemy"
+
+#: admin/includes/pro/apwp-country-names.php:199
+msgid "Saint Helena"
+msgstr "Sainte Hélène"
+
+#: admin/includes/pro/apwp-country-names.php:200
+msgid "Saint Kitts and Nevis"
+msgstr "Sainte-Christophe-et-Niévès"
+
+#: admin/includes/pro/apwp-country-names.php:201
+msgid "Saint Lucia"
+msgstr "Sainte-Lucie"
+
+#: admin/includes/pro/apwp-country-names.php:202
+msgid "Saint Martin"
+msgstr "Saint Martin"
+
+#: admin/includes/pro/apwp-country-names.php:203
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre et Miquelon"
+
+#: admin/includes/pro/apwp-country-names.php:204
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint-Vincent-et-les-Grenadines"
+
+#: admin/includes/pro/apwp-country-names.php:205
+msgid "Samoa"
+msgstr "Samoa"
+
+#: admin/includes/pro/apwp-country-names.php:206
+msgid "San Marino"
+msgstr "Saint Marin"
+
+#: admin/includes/pro/apwp-country-names.php:207
+msgid "Sao Tome and Principe"
+msgstr "Sao Tomé et Principe"
+
+#: admin/includes/pro/apwp-country-names.php:208
+msgid "Saudi Arabia"
+msgstr "Arabie Saoudite"
+
+#: admin/includes/pro/apwp-country-names.php:209
+msgid "Senegal"
+msgstr "Sénégal"
+
+#: admin/includes/pro/apwp-country-names.php:210
+msgid "Serbia"
+msgstr "Serbie"
+
+#: admin/includes/pro/apwp-country-names.php:211
+msgid "Seychelles"
+msgstr "Les Seychelles"
+
+#: admin/includes/pro/apwp-country-names.php:212
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: admin/includes/pro/apwp-country-names.php:213
+msgid "Singapore"
+msgstr "Singapour"
+
+#: admin/includes/pro/apwp-country-names.php:214
+msgid "Slovakia (Slovak Republic)"
+msgstr "Slovaquie (République slovaque)"
+
+#: admin/includes/pro/apwp-country-names.php:215
+msgid "Slovenia"
+msgstr "La slovénie"
+
+#: admin/includes/pro/apwp-country-names.php:216
+msgid "Solomon Islands"
+msgstr "Les îles Salomon"
+
+#: admin/includes/pro/apwp-country-names.php:217
+msgid "Somalia, Somali Republic"
+msgstr "Somalie, République somalienne"
+
+#: admin/includes/pro/apwp-country-names.php:218
+msgid "South Africa"
+msgstr "Afrique du Sud"
+
+#: admin/includes/pro/apwp-country-names.php:219
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Géorgie du Sud et les îles Sandwich du Sud"
+
+#: admin/includes/pro/apwp-country-names.php:220
+msgid "Spain"
+msgstr "Espagne"
+
+#: admin/includes/pro/apwp-country-names.php:221
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: admin/includes/pro/apwp-country-names.php:222
+msgid "Sudan"
+msgstr "Soudan"
+
+#: admin/includes/pro/apwp-country-names.php:223
+msgid "Suriname"
+msgstr "Suriname"
+
+#: admin/includes/pro/apwp-country-names.php:224
+msgid "Svalbard & Jan Mayen Islands"
+msgstr "Îles Svalbard et Jan Mayen"
+
+#: admin/includes/pro/apwp-country-names.php:225
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: admin/includes/pro/apwp-country-names.php:226
+msgid "Sweden"
+msgstr "Suède"
+
+#: admin/includes/pro/apwp-country-names.php:227
+msgid "Switzerland, Swiss Confederation"
+msgstr "Suisse, Confédération Suisse"
+
+#: admin/includes/pro/apwp-country-names.php:228
+msgid "Syrian Arab Republic"
+msgstr "République arabe syrienne"
+
+#: admin/includes/pro/apwp-country-names.php:229
+msgid "Taiwan"
+msgstr "Taïwan"
+
+#: admin/includes/pro/apwp-country-names.php:230
+msgid "Tajikistan"
+msgstr "Tadjikistan"
+
+#: admin/includes/pro/apwp-country-names.php:231
+msgid "Tanzania"
+msgstr "Tanzanie"
+
+#: admin/includes/pro/apwp-country-names.php:232
+msgid "Thailand"
+msgstr "Thaïlande"
+
+#: admin/includes/pro/apwp-country-names.php:233
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+#: admin/includes/pro/apwp-country-names.php:234
+msgid "Togo"
+msgstr "Aller"
+
+#: admin/includes/pro/apwp-country-names.php:235
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: admin/includes/pro/apwp-country-names.php:236
+msgid "Tonga"
+msgstr "Tonga"
+
+#: admin/includes/pro/apwp-country-names.php:237
+msgid "Trinidad and Tobago"
+msgstr "Trinité-et-Tobago"
+
+#: admin/includes/pro/apwp-country-names.php:238
+msgid "Tunisia"
+msgstr "Tunisie"
+
+#: admin/includes/pro/apwp-country-names.php:239
+msgid "Turkey"
+msgstr "Tinde"
+
+#: admin/includes/pro/apwp-country-names.php:240
+msgid "Turkmenistan"
+msgstr "Turkménistan"
+
+#: admin/includes/pro/apwp-country-names.php:241
+msgid "Turks and Caicos Islands"
+msgstr "Turques-et-Caïques îles"
+
+#: admin/includes/pro/apwp-country-names.php:242
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: admin/includes/pro/apwp-country-names.php:243
+msgid "Uganda"
+msgstr "Ouganda"
+
+#: admin/includes/pro/apwp-country-names.php:244
+msgid "Ukraine"
+msgstr "Ukraine"
+
+#: admin/includes/pro/apwp-country-names.php:245
+msgid "United Arab Emirates"
+msgstr "Emirats Arabes Unis"
+
+#: admin/includes/pro/apwp-country-names.php:246
+msgid "United Kingdom"
+msgstr "Royaume-Uni"
+
+#: admin/includes/pro/apwp-country-names.php:247
+msgid "United States of America"
+msgstr "Les États-Unis d'Amérique"
+
+#: admin/includes/pro/apwp-country-names.php:248
+msgid "United States Minor Outlying Islands"
+msgstr "Îles mineures éloignées des États-Unis"
+
+#: admin/includes/pro/apwp-country-names.php:249
+msgid "United States Virgin Islands"
+msgstr "Îles vierges américaines"
+
+#: admin/includes/pro/apwp-country-names.php:250
+msgid "Uruguay, Eastern Republic of"
+msgstr "Uruguay, République orientale du"
+
+#: admin/includes/pro/apwp-country-names.php:251
+msgid "Uzbekistan"
+msgstr "Ouzbékistan"
+
+#: admin/includes/pro/apwp-country-names.php:252
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: admin/includes/pro/apwp-country-names.php:253
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: admin/includes/pro/apwp-country-names.php:254
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: admin/includes/pro/apwp-country-names.php:255
+msgid "Wallis and Futuna"
+msgstr "Wallis et Futuna"
+
+#: admin/includes/pro/apwp-country-names.php:256
+msgid "Western Sahara"
+msgstr "Sahara occidental"
+
+#: admin/includes/pro/apwp-country-names.php:257
+msgid "Yemen"
+msgstr "Yémen"
+
+#: admin/includes/pro/apwp-country-names.php:258
+msgid "Zambia"
+msgstr "Zambie"
+
+#: admin/includes/pro/apwp-country-names.php:259
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: admin/includes/pro/class-apwp-stats-table.php:162
+msgid "Last share date"
+msgstr "Date du dernier partage"
+
+#: admin/includes/pro/class-apwp-stats-table.php:163
+msgid "All time clicks"
+msgstr "Clics de tous les temps"
+
+#: admin/includes/pro/class-apwp-stats-table.php:178
+msgid "Referrers"
+msgstr "Référents"
+
+#: admin/includes/pro/class-apwp-stats-table.php:180
+msgid "Countries"
+msgstr "Des pays"
+
+#: admin/includes/pro/class-apwp-stats-table.php:325
+msgid "Google+:"
+msgstr "Google+:"
+
+#: admin/includes/pro/class-apwp-stats-table.php:326
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: admin/includes/pro/class-apwp-stats-table.php:327
+msgid "Twitter-other:"
+msgstr "Twitter-autre:"
+
+#: admin/includes/pro/class-apwp-stats-table.php:328
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: admin/includes/pro/class-apwp-stats-table.php:329
+msgid "all others:"
+msgstr "tous les autres:"
+
+#: admin/includes/pro/class-apwp-stats-table.php:330
+msgid "Tumblr:"
+msgstr "Tumblr:"

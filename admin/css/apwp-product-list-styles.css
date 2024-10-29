@@ -1,0 +1,30 @@
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Aug 14, 2018, 12:04:20 PM */
+.wp-list-table .column-id { color: #111; font-weight: 700; text-align: center; font-size: 0.95em; width: 85px; border-right: 1px solid #dedede; }
+
+.wp-list-table .column-image { width: 75px; text-align: center; border-right: 1px solid #dedede; }
+
+.wp-list-table .column-type { text-align: center; width: 60px; border-right: 1px solid #dedede; }
+
+.wp-list-table .column-title { color: #333; text-align: left; font-weight: 600; font-style: italic; font-size: 0.95em; width: 190px; border-right: 1px solid #dedede; }
+
+.wp-list-table .column-cat { color: #333; text-align: left; font-weight: 500; font-size: 0.95em; width: 125px; border-right: 1px solid #dedede; }
+
+.wp-list-table .column-sold { color: #333; text-align: center; font-weight: 600; font-size: 0.95em; width: 75px; border-right: solid 1px #dedede; }
+
+.wp-list-table .column-date { color: #333; text-align: left; font-weight: 600; font-size: 0.95em; width: 120px; border-right: 1px solid #dedede; }
+
+.wp-list-table .column-instock { text-align: center; font-weight: 600; width: 60px; border-right: 1px solid #dedede; color: #333; font-size: 0.9em; }
+
+.wp-list-table .column-regprice { color: #333; text-align: center; font-weight: 600; font-size: 0.94em; width: 85px; border-right: 1px solid #dedede; }
+
+.wp-list-table .column-saleprice { color: #333; text-align: center; font-weight: 600; font-size: 0.94em; width: 85px; border-right: 1px solid #dedede; }
+
+.wp-list-table .column-curprice { color: #333; text-align: center; font-weight: 600; border-right: 1px solid #dedede; font-size: 0.94em; width: 80px; }
+
+.wp-list-table .column-posted { text-align: center; font-size: 0.95em; font-weight: 600; color: #333; width: 100px; border-right: solid 1px #dedede; }
+
+.wp-list-table .manage-column { text-align: left; font-weight: 500; color: #000; background-color: #e2e4e4; border: solid 1px gray; font-style: normal; padding: 5px; position: sticky; top: 32px; position: -web-kit-sticky; font-size: 0.95em; }
+
+.wp-list-table { margin-top: 50px; overflow: hidden; overflow-x: auto; }
+
+.striped > tbody > :nth-child(odd), ul.striped > :nth-child(odd), .alternate { background-color: #f1f1f1; }

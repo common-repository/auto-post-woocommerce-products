@@ -1,0 +1,292 @@
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 26, 2018, 9:32:58 PM   */
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 31, 2018, 6:02:14 PM */
+/* for the links at the bottom */
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 19, 2018, 4:44:29 PM */
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 31, 2018, 6:02:14 PM */
+/* for the links at the bottom */
+/* General plugin colors */
+/* Theme colors */
+.star- { color: #3498db; }
+
+.star-ocean { color: #9ebaa0; }
+
+.star-sunrise { color: #dd823b; }
+
+.star-midnight { color: #e14d43; }
+
+.star-ectoplasm { color: #a3b745; }
+
+.star-blue22 { color: #74b6ce; }
+
+.star-light { color: #04a4cc; }
+
+.star-fresh { color: #00a0d2; }
+
+.star-coffee { color: #9ea476; }
+
+/* theme colors for spinners */
+.spinr { color: #52accc; }
+
+.spinr-ocean { color: #738e96; }
+
+.spinr-fresh { color: #0073aa; }
+
+.spinr-light { color: #04a4cc; }
+
+.spinr-blue22 { color: #52accc; }
+
+.spinr-coffee { color: #59524c; }
+
+.spinr-ectoplasm { color: #523f6d; }
+
+.spinr-midnight { color: #e14d43; }
+
+.spinr-sunrise { color: #dd823b; }
+
+.help- { color: #333; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-:hover { color: dimgrey; }
+
+.help-coffee { color: #46403c; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-coffee:hover { color: #9ea476; }
+
+.help-fresh { color: #222; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-fresh:hover { color: #00a0d2; }
+
+.help-light { color: #999; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-light:hover { color: #04a4cc; }
+
+.help-blue22 { color: #096484; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-blue22:hover { color: #74b6ce; }
+
+.help-ectoplasm { color: #413256; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-ectoplasm:hover { color: #d46f15; }
+
+.help-midnight { color: #25282b; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-midnight:hover { color: #e14d43; }
+
+.help-ocean { color: #627c83; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-ocean:hover { color: #aa9d88; }
+
+.help-sunrise { color: #b43c38; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-sunrise:hover { color: #ccaf0b; }
+
+.blue b { color: blue; }
+
+.red { color: firebrick; }
+
+.red b { color: firebrick; }
+
+.green { color: green; }
+
+.black { color: #000; }
+
+.black b { font-weight: 700; color: black; }
+
+.white { color: #fff; }
+
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Aug 2, 2018, 9:48:08 PM */
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 19, 2018, 4:44:29 PM */
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 31, 2018, 6:02:14 PM */
+/* for the links at the bottom */
+/* General plugin colors */
+/* Theme colors */
+.star- { color: #3498db; }
+
+.star-ocean { color: #9ebaa0; }
+
+.star-sunrise { color: #dd823b; }
+
+.star-midnight { color: #e14d43; }
+
+.star-ectoplasm { color: #a3b745; }
+
+.star-blue22 { color: #74b6ce; }
+
+.star-light { color: #04a4cc; }
+
+.star-fresh { color: #00a0d2; }
+
+.star-coffee { color: #9ea476; }
+
+/* theme colors for spinners */
+.spinr { color: #52accc; }
+
+.spinr-ocean { color: #738e96; }
+
+.spinr-fresh { color: #0073aa; }
+
+.spinr-light { color: #04a4cc; }
+
+.spinr-blue22 { color: #52accc; }
+
+.spinr-coffee { color: #59524c; }
+
+.spinr-ectoplasm { color: #523f6d; }
+
+.spinr-midnight { color: #e14d43; }
+
+.spinr-sunrise { color: #dd823b; }
+
+.help- { color: #333; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-:hover { color: dimgrey; }
+
+.help-coffee { color: #46403c; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-coffee:hover { color: #9ea476; }
+
+.help-fresh { color: #222; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-fresh:hover { color: #00a0d2; }
+
+.help-light { color: #999; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-light:hover { color: #04a4cc; }
+
+.help-blue22 { color: #096484; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-blue22:hover { color: #74b6ce; }
+
+.help-ectoplasm { color: #413256; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-ectoplasm:hover { color: #d46f15; }
+
+.help-midnight { color: #25282b; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-midnight:hover { color: #e14d43; }
+
+.help-ocean { color: #627c83; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-ocean:hover { color: #aa9d88; }
+
+.help-sunrise { color: #b43c38; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-sunrise:hover { color: #ccaf0b; }
+
+.blue b { color: blue; }
+
+.red { color: firebrick; }
+
+.red b { color: firebrick; }
+
+.green { color: green; }
+
+.black { color: #000; }
+
+.black b { font-weight: 700; color: black; }
+
+.white { color: #fff; }
+
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 31, 2018, 6:02:14 PM */
+/* for the links at the bottom */
+/* ON/OFF Toggle Switch - the box around the slider */
+/* The slider */
+/* Style the buttons that are used to open and close the accordion panel */
+button.accordion { font-size: 1.2em; color: #000; cursor: pointer; padding: 18px; width: 100%; text-align: left; vertical-align: middle; border: none; outline: none; transition: 0.1s; font-weight: 500; -webkit-box-shadow: -7px -7px 8px -5px #999; -moz-box-shadow: -7px -7px 8px -5px #999; box-shadow: -7px -7px 8px -5px #999; border-left: 3px solid #1779be; }
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+button.accordion.active, button.accordion:hover { color: #fff; background: #1779be; border-left-color: #00a0d2; }
+
+/* Style the accordion panel. Note: hidden by default */
+.panel-atwc { padding: 0 18px; background-color: white; transition: max-height 0.1s ease-out; border: solid #f2f3f4; border-top: none; border-left: 3px solid #67b2e4; color: #000; box-shadow: 0 0 10px 5px gray; -webkit-box-shadow: 0 0 10px 5px gray; -moz-box-shadow: 0 0 10px 5px gray; }
+
+button.accordion:after { content: "\25bc"; /* Unicode character for arrow up */ color: #000; float: right; margin-left: 5px; }
+
+button.accordion.active:after { content: "\25b2"; /* Unicode character for arror down - accordian btns*/ color: #000; }
+
+/* FRESH */
+button.accordion-fresh { font-size: 1.2em; color: #000; cursor: pointer; padding: 18px; width: 100%; text-align: left; vertical-align: middle; border: none; outline: none; transition: 0.1s; font-weight: 500; -webkit-box-shadow: -7px -7px 8px -5px #999; -moz-box-shadow: -7px -7px 8px -5px #999; box-shadow: -7px -7px 8px -5px #999; border-left: 3px solid #1779be; border-left: 3px solid #1779be; color: #00a0d2; background: #f1f1f1; }
+
+button.accordion-fresh.active, button.accordion-fresh:hover { color: #f3f2f1; background: #52accc; border-left-color: #f3f2f1; }
+
+.panel-atwc-fresh { padding: 0 18px; background-color: white; transition: max-height 0.1s ease-out; border: solid #f2f3f4; border-top: none; border-left: 3px solid #67b2e4; color: #000; box-shadow: 0 0 10px 5px gray; -webkit-box-shadow: 0 0 10px 5px gray; -moz-box-shadow: 0 0 10px 5px gray; }
+
+button.accordion-fresh:after { content: "\25bc"; /* Unicode character for arrow up */ color: #000; float: right; margin-left: 5px; }
+
+button.accordion-fresh.active:after { content: "\25b2"; /* Unicode character for arror down - accordian btns*/ color: #000; }
+
+/* LIGHT */
+button.accordion-light { font-size: 1.2em; color: #000; cursor: pointer; padding: 18px; width: 100%; text-align: left; vertical-align: middle; border: none; outline: none; transition: 0.1s; font-weight: 500; -webkit-box-shadow: -7px -7px 8px -5px #999; -moz-box-shadow: -7px -7px 8px -5px #999; box-shadow: -7px -7px 8px -5px #999; border-left: 3px solid #1779be; border-left: 3px solid #1779be; color: #00a0d2; background: #f1f1f1; }
+
+button.accordion-light.active, button.accordion-light:hover { color: #f3f2f1; background: #52accc; border-left-color: #f3f2f1; }
+
+.panel-atwc-light { padding: 0 18px; background-color: white; transition: max-height 0.1s ease-out; border: solid #f2f3f4; border-top: none; border-left: 3px solid #67b2e4; color: #000; box-shadow: 0 0 10px 5px gray; -webkit-box-shadow: 0 0 10px 5px gray; -moz-box-shadow: 0 0 10px 5px gray; }
+
+button.accordion-light:after { content: "\25bc"; /* Unicode character for arrow up */ color: #000; float: right; margin-left: 5px; }
+
+button.accordion-light.active:after { content: "\25b2"; /* Unicode character for arror down - accordian btns*/ color: #000; }
+
+/* BLUE22 */
+button.accordion-blue22 { font-size: 1.2em; color: #000; cursor: pointer; padding: 18px; width: 100%; text-align: left; vertical-align: middle; border: none; outline: none; transition: 0.1s; font-weight: 500; -webkit-box-shadow: -7px -7px 8px -5px #999; -moz-box-shadow: -7px -7px 8px -5px #999; box-shadow: -7px -7px 8px -5px #999; border-left: 3px solid #1779be; border-left: 3px solid #1779be; color: #00a0d2; background: #f1f1f1; }
+
+button.accordion-blue22.active, button.accordion-blue22:hover { color: #f1f1f1; background: #096484; border-left-color: #f3f2f1; }
+
+.panel-atwc-blue22 { padding: 0 18px; background-color: white; transition: max-height 0.1s ease-out; border: solid #f2f3f4; border-top: none; border-left: 3px solid #67b2e4; color: #000; box-shadow: 0 0 10px 5px gray; -webkit-box-shadow: 0 0 10px 5px gray; -moz-box-shadow: 0 0 10px 5px gray; }
+
+button.accordion-blue22:after { content: "\25bc"; /* Unicode character for arrow up */ color: #000; float: right; margin-left: 5px; }
+
+button.accordion-blue22.active:after { content: "\25b2"; /* Unicode character for arror down - accordian btns*/ color: #000; }
+
+/* COFFEE */
+button.accordion-coffee { font-size: 1.2em; color: #000; cursor: pointer; padding: 18px; width: 100%; text-align: left; vertical-align: middle; border: none; outline: none; transition: 0.1s; font-weight: 500; -webkit-box-shadow: -7px -7px 8px -5px #999; -moz-box-shadow: -7px -7px 8px -5px #999; box-shadow: -7px -7px 8px -5px #999; border-left: 3px solid #1779be; border-left: 3px solid #9ea476; color: #46403c; background: #f3f2f1; }
+
+button.accordion-coffee.active, button.accordion-coffee:hover { color: #46403c; background: #c7a589; border-left-color: #46403c; }
+
+.panel-atwc-coffee { padding: 0 18px; background-color: white; transition: max-height 0.1s ease-out; border: solid #f2f3f4; border-top: none; border-left: 3px solid #67b2e4; color: #000; box-shadow: 0 0 10px 5px gray; -webkit-box-shadow: 0 0 10px 5px gray; -moz-box-shadow: 0 0 10px 5px gray; }
+
+button.accordion-coffee:after { content: "\25bc"; /* Unicode character for arrow up */ color: #000; float: right; margin-left: 5px; }
+
+button.accordion-coffee.active:after { content: "\25b2"; /* Unicode character for arror down - accordian btns*/ color: #000; }
+
+/* ECTOPLASM */
+button.accordion-ectoplasm { font-size: 1.2em; color: #000; cursor: pointer; padding: 18px; width: 100%; text-align: left; vertical-align: middle; border: none; outline: none; transition: 0.1s; font-weight: 500; -webkit-box-shadow: -7px -7px 8px -5px #999; -moz-box-shadow: -7px -7px 8px -5px #999; box-shadow: -7px -7px 8px -5px #999; border-left: 3px solid #1779be; border-left: 3px solid #9ea476; color: #d46f15; background: #f3f2f1; }
+
+button.accordion-ectoplasm.active, button.accordion-ectoplasm:hover { color: #fff; background: #523f6d; border-left-color: #096484; }
+
+.panel-atwc-ectoplasm { padding: 0 18px; background-color: white; transition: max-height 0.1s ease-out; border: solid #f2f3f4; border-top: none; border-left: 3px solid #67b2e4; color: #000; box-shadow: 0 0 10px 5px gray; -webkit-box-shadow: 0 0 10px 5px gray; -moz-box-shadow: 0 0 10px 5px gray; }
+
+button.accordion-ectoplasm:after { content: "\25bc"; /* Unicode character for arrow up */ color: #000; float: right; margin-left: 5px; }
+
+button.accordion-ectoplasm.active:after { content: "\25b2"; /* Unicode character for arror down - accordian btns*/ color: #000; }
+
+/* MIDNIGHT */
+button.accordion-midnight { font-size: 1.2em; color: #000; cursor: pointer; padding: 18px; width: 100%; text-align: left; vertical-align: middle; border: none; outline: none; transition: 0.1s; font-weight: 500; -webkit-box-shadow: -7px -7px 8px -5px #999; -moz-box-shadow: -7px -7px 8px -5px #999; box-shadow: -7px -7px 8px -5px #999; border-left: 3px solid #1779be; border-left: 3px solid #363b3f; color: #d46f15; background: #f3f2f1; }
+
+button.accordion-midnight.active, button.accordion-midnight:hover { color: #fff; background: #363b3f; border-left-color: #096484; }
+
+.panel-atwc-midnight { padding: 0 18px; background-color: white; transition: max-height 0.1s ease-out; border: solid #f2f3f4; border-top: none; border-left: 3px solid #67b2e4; color: #000; box-shadow: 0 0 10px 5px gray; -webkit-box-shadow: 0 0 10px 5px gray; -moz-box-shadow: 0 0 10px 5px gray; }
+
+button.accordion-midnight:after { content: "\25bc"; /* Unicode character for arrow up */ color: #000; float: right; margin-left: 5px; }
+
+button.accordion-midnight.active:after { content: "\25b2"; /* Unicode character for arror down - accordian btns*/ color: #000; }
+
+/* OCEAN */
+button.accordion-ocean { font-size: 1.2em; color: #000; cursor: pointer; padding: 18px; width: 100%; text-align: left; vertical-align: middle; border: none; outline: none; transition: 0.1s; font-weight: 500; -webkit-box-shadow: -7px -7px 8px -5px #999; -moz-box-shadow: -7px -7px 8px -5px #999; box-shadow: -7px -7px 8px -5px #999; border-left: 3px solid #1779be; border-left: 3px solid #9ebaa0; color: #627c83; background: #cdcbc9; }
+
+button.accordion-ocean.active, button.accordion-ocean:hover { color: #f1f1f1; background: #627c83; border-left-color: #aa9d88; }
+
+.panel-atwc-ocean { padding: 0 18px; background-color: white; transition: max-height 0.1s ease-out; border: solid #f2f3f4; border-top: none; border-left: 3px solid #67b2e4; color: #000; box-shadow: 0 0 10px 5px gray; -webkit-box-shadow: 0 0 10px 5px gray; -moz-box-shadow: 0 0 10px 5px gray; }
+
+button.accordion-ocean:after { content: "\25bc"; /* Unicode character for arrow up */ color: #000; float: right; margin-left: 5px; }
+
+button.accordion-ocean.active:after { content: "\25b2"; /* Unicode character for arror down - accordian btns*/ color: #000; }
+
+/* SUNRISE */
+button.accordion-sunrise { font-size: 1.2em; color: #000; cursor: pointer; padding: 18px; width: 100%; text-align: left; vertical-align: middle; border: none; outline: none; transition: 0.1s; font-weight: 500; -webkit-box-shadow: -7px -7px 8px -5px #999; -moz-box-shadow: -7px -7px 8px -5px #999; box-shadow: -7px -7px 8px -5px #999; border-left: 3px solid #1779be; border-left: 3px solid #ccaf0b; color: #cf4944; background: #f1f1f1; }
+
+button.accordion-sunrise.active, button.accordion-sunrise:hover { color: #ccaf0b; background: #f1f1f1; border-left-color: #cf4944; }
+
+.panel-atwc-sunrise { padding: 0 18px; background-color: white; transition: max-height 0.1s ease-out; border: solid #f2f3f4; border-top: none; border-left: 3px solid #67b2e4; color: #000; box-shadow: 0 0 10px 5px gray; -webkit-box-shadow: 0 0 10px 5px gray; -moz-box-shadow: 0 0 10px 5px gray; }
+
+button.accordion-sunrise:after { content: "\25bc"; /* Unicode character for arrow up */ color: #000; float: right; margin-left: 5px; }
+
+button.accordion-sunrise.active:after { content: "\25b2"; /* Unicode character for arror down - accordian btns*/ color: #000; }

@@ -1,0 +1,8 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "zendframework/zend-httphandlerrunner": "^1.1",
+        "psr/log": "^1.1",
+        "guzzlehttp/psr7": "^1.6"
+    }
+}

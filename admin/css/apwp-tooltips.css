@@ -1,0 +1,209 @@
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Aug 2, 2018, 9:46:52 PM */
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 19, 2018, 4:44:29 PM */
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 31, 2018, 6:02:14 PM */
+/* for the links at the bottom */
+/* General plugin colors */
+/* Theme colors */
+.star- { color: #3498db; }
+
+.star-ocean { color: #9ebaa0; }
+
+.star-sunrise { color: #dd823b; }
+
+.star-midnight { color: #e14d43; }
+
+.star-ectoplasm { color: #a3b745; }
+
+.star-blue22 { color: #74b6ce; }
+
+.star-light { color: #04a4cc; }
+
+.star-fresh { color: #00a0d2; }
+
+.star-coffee { color: #9ea476; }
+
+/* theme colors for spinners */
+.spinr { color: #52accc; }
+
+.spinr-ocean { color: #738e96; }
+
+.spinr-fresh { color: #0073aa; }
+
+.spinr-light { color: #04a4cc; }
+
+.spinr-blue22 { color: #52accc; }
+
+.spinr-coffee { color: #59524c; }
+
+.spinr-ectoplasm { color: #523f6d; }
+
+.spinr-midnight { color: #e14d43; }
+
+.spinr-sunrise { color: #dd823b; }
+
+.help- { color: #333; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-:hover { color: dimgrey; }
+
+.help-coffee { color: #46403c; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-coffee:hover { color: #9ea476; }
+
+.help-fresh { color: #222; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-fresh:hover { color: #00a0d2; }
+
+.help-light { color: #999; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-light:hover { color: #04a4cc; }
+
+.help-blue22 { color: #096484; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-blue22:hover { color: #74b6ce; }
+
+.help-ectoplasm { color: #413256; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-ectoplasm:hover { color: #d46f15; }
+
+.help-midnight { color: #25282b; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-midnight:hover { color: #e14d43; }
+
+.help-ocean { color: #627c83; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-ocean:hover { color: #aa9d88; }
+
+.help-sunrise { color: #b43c38; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-sunrise:hover { color: #ccaf0b; }
+
+.blue b { color: blue; }
+
+.red { color: firebrick; }
+
+.red b { color: firebrick; }
+
+.green { color: green; }
+
+.black { color: #000; }
+
+.black b { font-weight: 700; color: black; }
+
+.white { color: #fff; }
+
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 31, 2018, 6:02:14 PM */
+/* for the links at the bottom */
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Aug 2, 2018, 9:48:08 PM */
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 19, 2018, 4:44:29 PM */
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 31, 2018, 6:02:14 PM */
+/* for the links at the bottom */
+/* General plugin colors */
+/* Theme colors */
+.star- { color: #3498db; }
+
+.star-ocean { color: #9ebaa0; }
+
+.star-sunrise { color: #dd823b; }
+
+.star-midnight { color: #e14d43; }
+
+.star-ectoplasm { color: #a3b745; }
+
+.star-blue22 { color: #74b6ce; }
+
+.star-light { color: #04a4cc; }
+
+.star-fresh { color: #00a0d2; }
+
+.star-coffee { color: #9ea476; }
+
+/* theme colors for spinners */
+.spinr { color: #52accc; }
+
+.spinr-ocean { color: #738e96; }
+
+.spinr-fresh { color: #0073aa; }
+
+.spinr-light { color: #04a4cc; }
+
+.spinr-blue22 { color: #52accc; }
+
+.spinr-coffee { color: #59524c; }
+
+.spinr-ectoplasm { color: #523f6d; }
+
+.spinr-midnight { color: #e14d43; }
+
+.spinr-sunrise { color: #dd823b; }
+
+.help- { color: #333; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-:hover { color: dimgrey; }
+
+.help-coffee { color: #46403c; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-coffee:hover { color: #9ea476; }
+
+.help-fresh { color: #222; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-fresh:hover { color: #00a0d2; }
+
+.help-light { color: #999; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-light:hover { color: #04a4cc; }
+
+.help-blue22 { color: #096484; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-blue22:hover { color: #74b6ce; }
+
+.help-ectoplasm { color: #413256; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-ectoplasm:hover { color: #d46f15; }
+
+.help-midnight { color: #25282b; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-midnight:hover { color: #e14d43; }
+
+.help-ocean { color: #627c83; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-ocean:hover { color: #aa9d88; }
+
+.help-sunrise { color: #b43c38; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-sunrise:hover { color: #ccaf0b; }
+
+.blue b { color: blue; }
+
+.red { color: firebrick; }
+
+.red b { color: firebrick; }
+
+.green { color: green; }
+
+.black { color: #000; }
+
+.black b { font-weight: 700; color: black; }
+
+.white { color: #fff; }
+
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 31, 2018, 6:02:14 PM */
+/* for the links at the bottom */
+/* ON/OFF Toggle Switch - the box around the slider */
+/* The slider */
+/* Tooltip container */
+.apwp_tooltip, .apwp_tooltip1, .apwp_tooltip2 { position: relative; display: inline-block; }
+
+/* Tooltip text  right tooltip*/
+.apwp_tooltip1 .apwp_tooltiptext1 { cursor: help; visibility: hidden; width: 250px; margin-left: 0; top: 10px; left: 112%; background-color: #1b1d20; color: gainsboro; font-weight: 400; border: 2px solid #1b1d20; border-left: 4px solid #1b1d20; border-right: 4px solid #1b1d20; word-wrap: normal; font-size: 8pt; text-align: left; padding: 5px; border-radius: 6px; opacity: 0; transition: 0.5s ease-out; position: absolute; z-index: 1; -webkit-font-smoothing: antialiased; -webkit-box-shadow: -7px -7px 8px -5px #999; -moz-box-shadow: -7px -7px 8px -5px #999; box-shadow: -7px -7px 8px -5px #999; }
+
+/* Tooltip text  top tooltip*/
+.apwp_tooltip2 .apwp_tooltiptext2 { cursor: help; visibility: hidden; -webkit-font-smoothing: antialiased; width: 260px; bottom: 100%; left: 50%; margin-left: -133px; background-color: #1b1d20; color: gainsboro; font-weight: 400; border: 2px solid #1b1d20; border-left: 4px solid #1b1d20; border-right: 4px solid #1b1d20; word-wrap: normal; font-size: 8pt; line-height: 1.25em; text-align: left; padding: 8px; border-radius: 6px; opacity: 0; transition: 0.5s ease-out; position: absolute; z-index: 1; -webkit-box-shadow: -7px -7px 8px -5px #999; -moz-box-shadow: -7px -7px 8px -5px #999; box-shadow: -7px -7px 8px -5px #999; }
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.apwp_tooltip1:hover .apwp_tooltiptext1 { visibility: visible; opacity: 1; transition: 0.5s ease-out; }
+
+.apwp_tooltip2:hover .apwp_tooltiptext2 { visibility: visible; opacity: 1; }
+
+.apwp_tooltip1 .apwp_tooltiptext1::after { content: " "; position: absolute; top: 55%; right: 101%; /* To the left of the tooltip */ margin-top: -5px; border-width: 7px; border-style: solid; border-color: transparent #1b1d20 transparent transparent; }
+
+.apwp_tooltip2 .apwp_tooltiptext2::after { content: " "; position: absolute; top: 101%; /* At the bottom of the tooltip */ left: 46%; margin-left: -5px; border-width: 7px; border-style: solid; border-color: #1b1d20 transparent transparent transparent; }

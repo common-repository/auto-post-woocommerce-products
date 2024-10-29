@@ -1,0 +1,97 @@
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Aug 2, 2018, 9:48:08 PM */
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 19, 2018, 4:44:29 PM */
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 31, 2018, 6:02:14 PM */
+/* for the links at the bottom */
+/* General plugin colors */
+/* Theme colors */
+.star- { color: #3498db; }
+
+.star-ocean { color: #9ebaa0; }
+
+.star-sunrise { color: #dd823b; }
+
+.star-midnight { color: #e14d43; }
+
+.star-ectoplasm { color: #a3b745; }
+
+.star-blue22 { color: #74b6ce; }
+
+.star-light { color: #04a4cc; }
+
+.star-fresh { color: #00a0d2; }
+
+.star-coffee { color: #9ea476; }
+
+/* theme colors for spinners */
+.spinr { color: #52accc; }
+
+.spinr-ocean { color: #738e96; }
+
+.spinr-fresh { color: #0073aa; }
+
+.spinr-light { color: #04a4cc; }
+
+.spinr-blue22 { color: #52accc; }
+
+.spinr-coffee { color: #59524c; }
+
+.spinr-ectoplasm { color: #523f6d; }
+
+.spinr-midnight { color: #e14d43; }
+
+.spinr-sunrise { color: #dd823b; }
+
+.help- { color: #333; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-:hover { color: dimgrey; }
+
+.help-coffee { color: #46403c; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-coffee:hover { color: #9ea476; }
+
+.help-fresh { color: #222; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-fresh:hover { color: #00a0d2; }
+
+.help-light { color: #999; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-light:hover { color: #04a4cc; }
+
+.help-blue22 { color: #096484; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-blue22:hover { color: #74b6ce; }
+
+.help-ectoplasm { color: #413256; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-ectoplasm:hover { color: #d46f15; }
+
+.help-midnight { color: #25282b; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-midnight:hover { color: #e14d43; }
+
+.help-ocean { color: #627c83; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-ocean:hover { color: #aa9d88; }
+
+.help-sunrise { color: #b43c38; margin-bottom: 8px; transition: 0.3s ease-in; }
+
+.help-sunrise:hover { color: #ccaf0b; }
+
+.blue b { color: blue; }
+
+.red { color: firebrick; }
+
+.red b { color: firebrick; }
+
+.green { color: green; }
+
+.black { color: #000; }
+
+.black b { font-weight: 700; color: black; }
+
+.white { color: #fff; }
+
+/* @link https://www.cilcreations.com/apwp/support @author Carl Lockett III <info@cilcreations.com> @copyright (c) 2018, Carl Lockett III, CIL Creations @since 2.0.4 @package auto-post-woocommerce-products @license https://opensource.org/licenses/GPL-3.0 GNU Public License Created on : Jul 31, 2018, 6:02:14 PM */
+/* for the links at the bottom */
+/* ON/OFF Toggle Switch - the box around the slider */
+/* The slider */
